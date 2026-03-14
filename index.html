@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Trey Sisson — Resume</title>
+<style>
+  :root {
+    --black: #1a1a1a;
+    --dark: #333;
+    --med: #555;
+    --light: #888;
+    --accent: #2c3e50;
+    --rule: #ddd;
+    --bg: #fff;
+    --card-bg: #fafafa;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    color: var(--dark);
+    background: #f0f0f0;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: var(--bg);
+    min-height: 100vh;
+  }
+
+  @media (min-width: 840px) {
+    body { padding: 32px 0; }
+    .container {
+      border-radius: 4px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      min-height: auto;
+    }
+  }
+
+  .content { padding: 40px 48px; }
+  @media (max-width: 600px) { .content { padding: 28px 20px; } }
+
+  /* ── Header ── */
+  .header-name {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--black);
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+  }
+  .header-tagline {
+    font-size: 1rem;
+    color: var(--med);
+    margin-top: 4px;
+  }
+  .header-contact {
+    font-size: 0.85rem;
+    color: var(--light);
+    margin-top: 6px;
+  }
+  .header-contact a { color: var(--light); text-decoration: none; }
+  .header-contact a:hover { color: var(--accent); }
+
+  @media (max-width: 600px) {
+    .header-name { font-size: 1.6rem; }
+    .header-tagline { font-size: 0.9rem; }
+    .header-contact { font-size: 0.8rem; }
+  }
+
+  /* ── Dividers ── */
+  hr {
+    border: none;
+    border-top: 1px solid var(--rule);
+    margin: 20px 0;
+  }
+
+  /* ── Section headers ── */
+  .section-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 12px;
+  }
+
+  /* ── Roles ── */
+  .role { margin-bottom: 20px; }
+  .role:last-child { margin-bottom: 0; }
+
+  .role-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 4px 16px;
+  }
+  .role-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--black);
+  }
+  .role-title .company { color: var(--light); font-weight: 400; }
+  .role-meta {
+    font-size: 0.8rem;
+    color: var(--light);
+    font-style: italic;
+    white-space: nowrap;
+  }
+  .role-desc {
+    font-size: 0.85rem;
+    color: var(--med);
+    font-style: italic;
+    margin-top: 4px;
+    line-height: 1.45;
+  }
+
+  @media (max-width: 600px) {
+    .role-header { flex-direction: column; }
+    .role-meta { margin-top: 2px; }
+  }
+
+  /* ── Client sub-headers ── */
+  .client-header {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--med);
+    margin-top: 14px;
+    margin-bottom: 6px;
+  }
+
+  /* ── Category sub-headers ── */
+  .category {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-top: 12px;
+    margin-bottom: 6px;
+  }
+
+  /* ── Bullets ── */
+  .bullets { padding-left: 0; list-style: none; }
+  .bullets li {
+    font-size: 0.87rem;
+    color: var(--dark);
+    line-height: 1.5;
+    padding-left: 16px;
+    position: relative;
+    margin-bottom: 4px;
+  }
+  .bullets li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: var(--light);
+  }
+  .bullets li strong { font-weight: 600; }
+
+  /* ── Education ── */
+  .edu-item {
+    font-size: 0.87rem;
+    color: var(--dark);
+    margin-bottom: 3px;
+  }
+  .edu-item strong { font-weight: 600; }
+  .edu-date { color: var(--light); font-size: 0.8rem; }
+
+  /* ── Advisory ── */
+  .advisory-row {
+    font-size: 0.82rem;
+    color: var(--med);
+    margin-bottom: 4px;
+  }
+  .advisory-row strong { font-weight: 600; }
+
+  /* ── Footer ── */
+  .footer {
+    text-align: center;
+    font-size: 0.8rem;
+    color: var(--light);
+    font-style: italic;
+    margin-top: 24px;
+    padding-bottom: 8px;
+  }
+
+  /* ── Earlier career compact ── */
+  .earlier-roles {
+    display: grid;
+    gap: 12px;
+  }
+
+  /* ── Toggle ── */
+  .toggle-bar {
+    display: flex;
+    justify-content: center;
+    gap: 0;
+    margin: 16px 0 8px;
+    background: #f0f0f0;
+    border-radius: 8px;
+    padding: 3px;
+    max-width: 280px;
+  }
+  .toggle-btn {
+    flex: 1;
+    padding: 8px 16px;
+    border: none;
+    background: transparent;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--light);
+    cursor: pointer;
+    border-radius: 6px;
+    transition: all 0.2s;
+  }
+  .toggle-btn.active {
+    background: white;
+    color: var(--accent);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }
+
+  /* ── Show/hide sections ── */
+  .detail-only { display: none; }
+  body.detailed .detail-only { display: block; }
+  body.detailed li.detail-only { display: list-item; }
+
+  /* Print */
+  @media print {
+    body { background: white; padding: 0; }
+    .container { box-shadow: none; }
+    .toggle-bar { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+<div class="content">
+
+  <!-- Toggle -->
+  <div class="toggle-bar">
+    <button class="toggle-btn active" onclick="setMode('summary')">1-Page</button>
+    <button class="toggle-btn" onclick="setMode('detailed')">Detailed</button>
+  </div>
+
+  <!-- Header -->
+  <h1 class="header-name">TREY SISSON</h1>
+  <div class="header-tagline">Founder · Operator · Fractional COO</div>
+  <div class="header-contact">
+    Encinitas, CA &nbsp;|&nbsp;
+    <a href="tel:7242639511">724-263-9511</a> &nbsp;|&nbsp;
+    <a href="mailto:trey.sisson@gmail.com">trey.sisson@gmail.com</a>
+  </div>
+
+  <hr>
+
+  <!-- Summary -->
+  <p style="font-size:0.88rem; color:#333; line-height:1.55; margin-bottom:4px;">
+    Consumer brand operator with 15+ years across DTC, CPG, and e-commerce.
+    Co-founded and scaled a consumer accessories brand from $0 to $20M in annual revenue
+    and through a successful exit. Now a fractional COO/CFO advising founders of $10M–$100M+ brands
+    on operations, supply chain, EOS implementation, demand planning, hiring, and growth infrastructure.
+    Deep Asia manufacturing expertise built over 20+ trips across China, Vietnam, Taiwan, and Hong Kong.
+    Builds AI-powered automation systems for operational leverage.
+  </p>
+
+  <hr>
+
+  <!-- EXPERIENCE -->
+  <div class="section-title">Experience</div>
+
+  <!-- Formosa Consulting -->
+  <div class="role">
+    <div class="role-header">
+      <div class="role-title">Fractional COO / CFO <span class="company">— Formosa Consulting</span></div>
+      <div class="role-meta">2016 – Present · Encinitas, CA</div>
+    </div>
+    <p class="role-desc detail-only">
+      Embedded fractional operator for DTC and consumer brand founders scaling from $10M to $100M+.
+      Build the operational, financial, and strategic infrastructure that founder-led companies need
+      to professionalize without losing speed. Recurring pattern: marketer-founder with strong brand
+      and audience, but no operational backbone.
+    </p>
+    <ul class="bullets">
+      <li>Embedded operator for DTC founders scaling from $10M–$100M+, building financial and
+          operational infrastructure across health &amp; wellness, CPG, beauty, and apparel</li>
+    </ul>
+
+    <!-- Easy Street -->
+    <div class="client-header">Easy Street Brands (4+ brands incl. Hollow Socks) | ~$20M → $40–50M+ | 6–8 months</div>
+    <ul class="bullets">
+      <li>Built S&amp;OP, cash flow models, daily dashboards, and meeting cadences. Negotiated raw alpaca fiber rates in Peru, saving multiple margin points. Pre-purchased raw materials at fiber level, enabling growth trajectory to $70–80M</li>
+      <li class="detail-only">Negotiated raw alpaca fiber rates directly with Peru-based suppliers and US manufacturer pricing, saving multiple points of margin across the portfolio</li>
+      <li class="detail-only"><strong>Big lever:</strong> Got ahead of raw material purchasing at the fiber level — negotiated volume commitments with Peru suppliers and had factories store yarn on-site, pre-loading supply chain capacity. This foundational decision enabled the growth trajectory from $20M to a projected <strong>$70–80M</strong> without supply chain bottlenecks</li>
+      <li class="detail-only">Strategic thought partner and sparring partner to founder on people decisions, strategy, and capital allocation</li>
+      <li class="detail-only">Helped build initial operational infrastructure for a portfolio supplement brand that has since grown to <strong>$100M+</strong></li>
+    </ul>
+
+    <!-- Stay Golden -->
+    <div class="client-header">Stay Golden — DTC Jewelry | $2M → $4M (2x in 16 months) | 15–16 months</div>
+    <ul class="bullets">
+      <li><strong>Implemented EOS from scratch</strong> — weekly L10 meetings, Rocks, full operating cadence. Led inventory rationalization: identified over-SKU'd long tail, ran liquidation sales, streamlined catalog. Brokered co-founder equity partnership</li>
+      <li class="detail-only"><strong>Big lever:</strong> Identified massively over-SKU'd product line through data analysis. Ran strategic liquidation and clearance sales, then streamlined catalog to highest-velocity SKUs — freed cash, improved margins, simplified operations, and improved brand coherence simultaneously</li>
+      <li class="detail-only">Brokered co-founder equity partnership between two first-time entrepreneurs — structured the equity split, negotiated investment terms, persuaded both sides. Partnership remains intact today</li>
+      <li class="detail-only">Built dashboards, cash flow management, inventory planning, demand forecasting. Negotiated supply chain rates saving multiple COGS margin points</li>
+      <li class="detail-only">Served as mentor-advisor-operator: weekly strategic thought partner, deeply embedded in every aspect of the business and team</li>
+    </ul>
+
+    <!-- Equip Foods -->
+    <div class="client-header">Supplement Brand | $15M (~$2.5–3M/mo) → $40M trajectory | 4–5 months</div>
+    <ul class="bullets">
+      <li>Designed VP-level hiring process using <strong>WHO method</strong> — scorecards, structured interviews, full pipeline in Notion. Rebuilt affiliate analytics model</li>
+      <li class="detail-only">Introduced stage-gating process for new product launches with senior supply chain lead</li>
+      <li class="detail-only">Built dashboards and reporting infrastructure for a fast-scaling team with a hands-off founder</li>
+    </ul>
+
+    <!-- Pet Supplement -->
+    <div class="client-header">Pet Supplement Brand | $10M → $20M trajectory | Current</div>
+    <ul class="bullets">
+      <li>Refined S&amp;OP and PO management processes. Day-to-day operations management across Amazon, DTC, TikTok (incl. Fulfilled by TikTok), and wholesale. Freight/logistics coordination, vendor management</li>
+      <li class="detail-only">Refined S&amp;OP and PO management processes. Managing day-to-day operations across Amazon, DTC, TikTok (including Fulfilled by TikTok), and wholesale channels</li>
+      <li class="detail-only">Freight and logistics coordination, vendor management, and cross-channel inventory planning</li>
+    </ul>
+
+    <!-- AI -->
+    <div class="client-header detail-only">AI &amp; Automation — Applied across engagements</div>
+    <ul class="bullets">
+      <li>Built AI-powered influencer prospecting systems — automated scraping, LLM-based scoring, and personalized outreach — replacing weeks of manual work with a daily pipeline</li>
+      <li class="detail-only">Actively builds with Claude Code and AI tooling — real automated systems and workflows, not just prompts</li>
+    </ul>
+  </div>
+
+  <!-- BTTM -->
+  <div class="role">
+    <div class="role-header">
+      <div class="role-title">Co-Founder / COO <span class="company">— Baboon to the Moon</span></div>
+      <div class="role-meta">2017 – 2023 · New York, NY</div>
+    </div>
+    <p class="role-desc detail-only">
+      Co-founded DTC consumer accessories brand with two partners (CEO, CMO, COO).
+      Owned all operations end-to-end: supply chain, product development, e-commerce,
+      digital marketing, customer experience, logistics, analytics, and tech stack.
+      Scaled from $0 to $20M in annual revenue with a team of 8–10 and exited in 2023.
+    </p>
+    <ul class="bullets">
+      <li>Co-founded DTC accessories brand; scaled from <strong>$0 to $20M</strong> in annual revenue with a team of 8–10. Owned operations, supply chain, e-commerce, product development, digital marketing, CX, and analytics through successful exit</li>
+      <li>Built nominated vendor supply chain across 4 Asian countries (20+ trips, 5 years). 300+ SKUs with 9–12 month dev cycles. Negotiated payment terms to <strong>net-200 days</strong></li>
+      <li>Designed backend product management system on Sanity CMS for seamless 40+ SKU monthly drops. Managed developers, designers, and full e-commerce tech stack</li>
+      <li>Managed international freight via Flexport. Evaluated dual-coast and international fulfillment options. Zero fulfillment crises — built proactive 3PL forecast communication cadence</li>
+    </ul>
+
+    <!-- Detailed BTTM breakdown -->
+    <div class="detail-only">
+      <div class="category">Supply Chain &amp; Manufacturing</div>
+      <ul class="bullets">
+        <li>Built nominated vendor supply chain across <strong>4 Asian countries</strong> (Hong Kong, Vietnam, Taiwan, China) — sourced and managed individual suppliers for fabric, zippers, and trims rather than relying on a single end-manufacturer</li>
+        <li>Completed <strong>20+ factory trips</strong> over 5 years. Built deep relationships with Asian manufacturing partners across multiple production facilities</li>
+        <li>Negotiated payment terms from standard to <strong>net-200 days</strong> — demonstrating vendor relationship strength and cash conversion cycle sophistication</li>
+        <li>Managed <strong>300+ SKUs</strong> with complex color matching across products, trims, and zippers. Custom graphic interior prints. 9–12 month development cycles, 3–4 months PO to warehouse</li>
+      </ul>
+
+      <div class="category">E-Commerce &amp; Technology</div>
+      <ul class="bullets">
+        <li>Managed developers, web designers, and the full e-commerce tech stack — site, apps, plugins, and analytics tools</li>
+        <li>Designed backend product management system on Sanity CMS enabling seamless <strong>40+ SKU monthly drops</strong></li>
+        <li>Managed CRO program: landing page testing, PDP optimization, product launch workflows, email marketing, and retention programs</li>
+      </ul>
+
+      <div class="category">Fulfillment &amp; Demand Planning</div>
+      <ul class="bullets">
+        <li>Managed single East Coast 3PL for full business lifecycle. <strong>Zero fulfillment crises</strong> despite frequent demand spikes from limited-run drops and Q4 surges — built proactive forecast communication cadence with 3PL so labor was always adequate</li>
+        <li>Evaluated dual-coast fulfillment, Mexico-based 3PL for Section 321 duty savings, and international fulfillment options. Managed international freight through Flexport</li>
+      </ul>
+
+      <div class="category">Strategic Impact &amp; Leadership</div>
+      <ul class="bullets">
+        <li><strong>Big lever:</strong> Shifted from monthly product drops to fewer, more strategic launches — applied stronger financial discipline (quantity planning, margin analysis) and used sell-outs as a demand engine. Result: better per-drop economics, reduced team strain, and increased brand heat through scarcity</li>
+        <li>Personally handled <strong>all CX tickets for 3+ years through $10M+</strong> in revenue</li>
+        <li>Built financial models, forecasting, and investor relations materials. Presented at quarterly board meetings</li>
+        <li>Led company through a successful sale — managed acquirer diligence process, financial preparation, and the operational handoff</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Stefan's Head -->
+  <div class="role">
+    <div class="role-header">
+      <div class="role-title">Founder / CEO <span class="company">— Stefan's Head</span></div>
+      <div class="role-meta">2015 – 2016 · New York, NY</div>
+    </div>
+    <ul class="bullets">
+      <li>Built SMS-based retail platform. Grew subscriber list to <strong>15,000+</strong> through brand, concert, and creator partnerships</li>
+    </ul>
+  </div>
+
+  <!-- Goods of Record -->
+  <div class="role">
+    <div class="role-header">
+      <div class="role-title">Co-Founder <span class="company">— Goods of Record (Techstars '15)</span></div>
+      <div class="role-meta">2014 – 2015 · New York, NY</div>
+    </div>
+    <ul class="bullets">
+      <li>Co-founded artisan men's goods brand. Accepted into Techstars accelerator program (2015 cohort)</li>
+    </ul>
+  </div>
+
+  <hr>
+
+  <!-- EARLIER CAREER -->
+  <div class="section-title">Earlier Career</div>
+
+  <div class="earlier-roles">
+    <div class="role">
+      <div class="role-header">
+        <div class="role-title">Product Manager <span class="company">— StumbleUpon</span></div>
+        <div class="role-meta">2011 – 2013 · San Francisco, CA</div>
+      </div>
+      <ul class="bullets">
+        <li>Led product strategy, design, and development for Paid Discovery — the advertising platform generating <strong>$35M+ annually</strong>, used by <strong>100K+ advertisers</strong> and <strong>30M+ users</strong> globally</li>
+      </ul>
+    </div>
+
+    <div class="role">
+      <div class="role-header">
+        <div class="role-title">Product Manager <span class="company">— Amplify Education (Wireless Generation)</span></div>
+        <div class="role-meta">2010 – 2011 · New York, NY</div>
+      </div>
+      <ul class="bullets">
+        <li>Led <strong>40+ person cross-functional team</strong> (developers, designers, QA, PMs, technical writers) through full product lifecycle for mCLASS Beacon, a K–12 formative assessment system</li>
+      </ul>
+    </div>
+
+    <div class="role">
+      <div class="role-header">
+        <div class="role-title">Business Analyst / Project Manager <span class="company">— Goldman Sachs</span></div>
+        <div class="role-meta">2008 – 2010 · New York, NY</div>
+      </div>
+      <ul class="bullets">
+        <li>Managed cross-divisional technology initiatives (X-div) from requirements gathering through deployment</li>
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <!-- EDUCATION -->
+  <div class="section-title">Education</div>
+  <div class="edu-item"><strong>MBA</strong> — Wharton School, University of Pennsylvania <span class="edu-date detail-only">(2013–2015)</span></div>
+  <div class="edu-item"><strong>MS, Information Systems Management</strong> — Carnegie Mellon University <span class="edu-date detail-only">(2006–2007)</span></div>
+  <div class="edu-item"><strong>BS, Information Systems</strong> — Carnegie Mellon University <span class="edu-date detail-only">(2003–2007)</span></div>
+
+  <hr>
+
+  <!-- MENTORSHIP -->
+  <div class="section-title">Mentorship &amp; Advisory</div>
+  <div class="advisory-row">
+    <strong>Attentive</strong> — Advisor (2017–2019) &nbsp;|&nbsp;
+    <strong>Techstars</strong> — Mentor (2018–2021) &nbsp;|&nbsp;
+    <strong>First Round Fast Track</strong> — Mentor (2019–2021)
+  </div>
+  <div class="advisory-row detail-only" style="margin-top:4px;">
+    Ongoing mentor-advisor to early-stage DTC and consumer founders on operations, hiring,
+    growth strategy, and organizational design. Trusted as a strategic sparring partner —
+    a peer who understands the founder journey.
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">Dad · Golfer · Cyclist · Ironman Finisher</div>
+
+</div>
+</div>
+
+<script>
+function setMode(mode) {
+  document.body.className = mode === 'detailed' ? 'detailed' : '';
+  document.querySelectorAll('.toggle-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.textContent.trim() === (mode === 'detailed' ? 'Detailed' : '1-Page'));
+  });
+}
+</script>
+</body>
+</html>

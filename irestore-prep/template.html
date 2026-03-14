@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>iRESTORE COO Interview Prep</title>
+<style>
+:root {
+  --sidebar-w: 280px;
+  --navy: #1a1a3e;
+  --blue: #4a7cff;
+  --light-green: #e8f5e9;
+  --bg: #f7f8fc;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: #333; font-size: 15px; line-height: 1.65; }
+
+/* SIDEBAR */
+.sidebar {
+  position: fixed; top: 0; left: 0; width: var(--sidebar-w); height: 100vh;
+  background: var(--navy); color: #ddd; display: flex; flex-direction: column;
+  z-index: 100; transition: transform 0.3s ease;
+}
+.sidebar-header { padding: 20px; font-size: 18px; font-weight: 700; color: #fff; border-bottom: 1px solid #2a2a4a; }
+.sidebar-search { padding: 8px 12px; }
+.sidebar-search input {
+  width: 100%; padding: 8px 12px; border-radius: 6px; border: 1px solid #3a3a6a;
+  background: #12122a; color: #ddd; font-size: 13px; outline: none;
+}
+.sidebar-search input::placeholder { color: #777; }
+.sidebar-search input:focus { border-color: var(--blue); }
+.sidebar-controls { display: flex; gap: 6px; padding: 6px 12px; border-bottom: 1px solid #2a2a4a; }
+.sidebar-controls button {
+  flex: 1; padding: 5px 0; border: 1px solid #3a3a6a; border-radius: 5px;
+  background: #12122a; color: #aaa; font-size: 11px; cursor: pointer; transition: all 0.15s;
+}
+.sidebar-controls button:hover { background: #2a2a4a; color: #fff; border-color: var(--blue); }
+.nav-items { flex: 1; overflow-y: auto; padding: 8px 0; -webkit-overflow-scrolling: touch; }
+.nav-item {
+  padding: 10px 20px; cursor: pointer; font-size: 13px; transition: all 0.15s;
+  border-left: 3px solid transparent;
+}
+.nav-item:hover { background: #2a2a4a; color: #fff; }
+.nav-item.active { background: #2a2a4a; color: #fff; border-left-color: var(--blue); }
+/* Group level */
+.nav-item.group {
+  display: flex; align-items: center; justify-content: space-between;
+  font-weight: 700; font-size: 13px; color: #fff; padding: 10px 16px;
+  background: #12122a; border-bottom: 1px solid #2a2a4a;
+  border-left: 4px solid var(--group-accent, #4a7cff);
+  text-transform: uppercase; letter-spacing: 0.5px;
+}
+.nav-item.group .chevron { font-size: 10px; transition: transform 0.2s; color: #666; }
+.nav-item.group.expanded .chevron { transform: rotate(90deg); color: #aaa; }
+.nav-item.group:hover { background: #1a1a3e; }
+/* Group accent colors */
+.nav-item.group[data-group="company"]   { --group-accent: #4a9fff; background: #0d1a30; }
+.nav-item.group[data-group="role"]      { --group-accent: #4caf50; background: #0d1f0d; }
+.nav-item.group[data-group="pitch"]     { --group-accent: #ff9800; background: #1f170d; }
+.nav-item.group[data-group="interview"] { --group-accent: #ce93d8; background: #1a0d1f; }
+.nav-item.group[data-group="gameday"]   { --group-accent: #ef5350; background: #1f0d0d; }
+/* Carry accent into child sections */
+.nav-item.parent[data-group="company"]   { border-left-color: rgba(74,159,255,0.3); }
+.nav-item.parent[data-group="role"]      { border-left-color: rgba(76,175,80,0.3); }
+.nav-item.parent[data-group="pitch"]     { border-left-color: rgba(255,152,0,0.3); }
+.nav-item.parent[data-group="interview"] { border-left-color: rgba(206,147,216,0.3); }
+.nav-item.parent[data-group="gameday"]   { border-left-color: rgba(239,83,80,0.3); }
+.nav-item.sub[data-group="company"].active   { border-left-color: #4a9fff; }
+.nav-item.sub[data-group="role"].active      { border-left-color: #4caf50; }
+.nav-item.sub[data-group="pitch"].active     { border-left-color: #ff9800; }
+.nav-item.sub[data-group="interview"].active { border-left-color: #ce93d8; }
+.nav-item.sub[data-group="gameday"].active   { border-left-color: #ef5350; }
+/* Section level (parent) */
+.nav-item.parent {
+  display: flex; align-items: center; justify-content: space-between;
+  font-weight: 600; padding-left: 24px; display: none;
+}
+.nav-item.parent.visible { display: flex; }
+.nav-item.parent .chevron { font-size: 10px; transition: transform 0.2s; color: #666; }
+.nav-item.parent.expanded .chevron { transform: rotate(90deg); color: #aaa; }
+/* Subsection level */
+.nav-item.sub { padding-left: 44px; font-size: 12px; color: #888; display: none; }
+.nav-item.sub.visible { display: block; }
+.nav-item.sub:hover, .nav-item.sub.active { color: #ccc; }
+
+/* HAMBURGER (mobile) */
+.hamburger {
+  display: none; position: fixed; top: 12px; left: 12px; z-index: 200;
+  background: var(--navy); border: none; color: #fff; font-size: 24px;
+  width: 44px; height: 44px; border-radius: 8px; cursor: pointer;
+  align-items: center; justify-content: center; box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+.overlay {
+  display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5);
+  z-index: 90;
+}
+
+/* MAIN */
+.main { margin-left: var(--sidebar-w); padding: 32px 48px 80px; max-width: 960px; }
+.section { display: none; }
+.section.active { display: block; }
+
+/* CONTENT STYLES */
+h1 { font-size: 28px; color: var(--navy); margin-bottom: 24px; padding-bottom: 12px; border-bottom: 3px solid var(--blue); }
+h2 { font-size: 22px; color: var(--navy); margin: 28px 0 16px; }
+h3 { font-size: 17px; color: #444; margin: 20px 0 10px; }
+p { margin-bottom: 14px; }
+ul, ol { margin: 0 0 16px 20px; }
+li { margin-bottom: 6px; }
+a { color: var(--blue); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 13px; }
+th, td { padding: 10px 12px; border: 1px solid #ddd; text-align: left; vertical-align: top; }
+th { background: var(--navy); color: #fff; font-weight: 600; }
+tr:nth-child(even) { background: #f9f9fc; }
+.highlight-row { background: #e3f2fd !important; font-weight: 600; }
+
+.card { background: #fff; border: 1px solid #e0e0e0; border-radius: 10px; padding: 20px; margin: 16px 0; }
+.card-header { font-weight: 700; color: var(--navy); margin-bottom: 10px; font-size: 15px; }
+.answer-block { background: #f0f4ff; border-left: 4px solid var(--blue); padding: 16px 20px; margin: 14px 0; border-radius: 0 8px 8px 0; }
+.tip { background: #fff8e1; border-left: 4px solid #ffa000; padding: 14px 18px; margin: 14px 0; border-radius: 0 8px 8px 0; }
+.muted { color: #888; font-size: 13px; }
+/* ORG CHART */
+.org-chart { display: flex; flex-direction: column; align-items: center; gap: 0; margin: 24px 0; }
+.org-node { background: #fff; border: 2px solid var(--blue); border-radius: 10px; padding: 14px 20px; text-align: center; min-width: 180px; max-width: 220px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+.org-node.ceo { background: var(--navy); color: #fff; border-color: var(--navy); min-width: 240px; max-width: 280px; }
+.org-node.ceo .org-note { color: rgba(255,255,255,0.7); }
+.org-node.you { background: #e8f5e9; border-color: #2e7d32; min-width: 240px; max-width: 280px; }
+.org-name { font-weight: 700; font-size: 14px; margin-bottom: 2px; }
+.org-title { font-size: 12px; color: #555; margin-bottom: 4px; }
+.org-node.ceo .org-title { color: rgba(255,255,255,0.85); }
+.org-node.you .org-title { color: #2e7d32; }
+.org-note { font-size: 11px; color: #888; line-height: 1.4; }
+.org-connector { width: 2px; height: 20px; background: #bbb; margin: 0 auto; }
+.org-row { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-top: 0; position: relative; }
+.org-row::before { content: ''; position: absolute; top: 0; left: 15%; right: 15%; height: 2px; background: #bbb; }
+.org-row .org-row::before { left: 10%; right: 10%; }
+.org-branch { display: flex; flex-direction: column; align-items: center; }
+.org-branch .org-connector { height: 16px; }
+.org-sub-section { display: flex; flex-direction: column; align-items: center; width: 100%; }
+.org-sub-label { font-size: 11px; font-weight: 700; color: #888; text-transform: uppercase; letter-spacing: 1px; margin: 16px 0 4px; }
+.org-node small { display: block; color: #888; font-size: 11px; }
+
+/* MOBILE RESPONSIVE */
+@media (max-width: 768px) {
+  :root { --sidebar-w: 280px; }
+  .sidebar { transform: translateX(-100%); }
+  .sidebar.open { transform: translateX(0); }
+  .hamburger { display: flex; }
+  .overlay.open { display: block; }
+  .main { margin-left: 0; padding: 70px 16px 60px; }
+  h1 { font-size: 22px; }
+  h2 { font-size: 18px; }
+  h3 { font-size: 15px; }
+  body { font-size: 14px; }
+  table { font-size: 12px; display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  th, td { padding: 8px; min-width: 100px; }
+  .card { padding: 14px; }
+  .answer-block, .tip { padding: 12px 14px; }
+  .org-chart { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .org-row { flex-wrap: wrap; gap: 12px; }
+  .org-row::before { display: none; }
+  .org-node { min-width: 150px; max-width: 200px; padding: 10px 14px; }
+  .org-node.ceo, .org-node.you { min-width: 200px; max-width: 240px; }
+}
+
+@media (max-width: 480px) {
+  .main { padding: 64px 12px 40px; }
+  table { font-size: 11px; }
+  th, td { padding: 6px; }
+}
+</style>
+</head>
+<body>
+
+<button class="hamburger" id="hamburger" aria-label="Open menu">☰</button>
+<div class="overlay" id="overlay"></div>
+
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-header">🎯 iRESTORE COO Prep</div>
+  <div class="sidebar-search"><input type="text" id="search" placeholder="Search everything..."></div>
+  <div class="sidebar-controls">
+    <button id="expandAll">▼ Expand All</button>
+    <button id="collapseAll">▲ Collapse All</button>
+  </div>
+  <div class="nav-items" id="nav"></div>
+</div>
+
+<div class="main" id="main"></div>
+
+<script>
+// ============================================================
+// GROUP DATA (injected by build script)
+// ============================================================
+const groups = %%SECTIONS_DATA%%;
+
+// ============================================================
+// APP ENGINE — 3-level: group → section → subsection
+// ============================================================
+const nav = document.getElementById('nav');
+const main = document.getElementById('main');
+const hamburger = document.getElementById('hamburger');
+const sidebar = document.getElementById('sidebar');
+const overlay = document.getElementById('overlay');
+
+// Mobile menu toggle
+function toggleMenu(open) {
+  const isOpen = open !== undefined ? open : !sidebar.classList.contains('open');
+  sidebar.classList.toggle('open', isOpen);
+  overlay.classList.toggle('open', isOpen);
+}
+hamburger.addEventListener('click', () => toggleMenu());
+overlay.addEventListener('click', () => toggleMenu(false));
+
+// Build nav + content panels
+let firstSubId = null;
+
+groups.forEach(group => {
+  // --- Group header ---
+  const groupEl = document.createElement('div');
+  groupEl.className = 'nav-item group expanded';
+  groupEl.dataset.group = group.id;
+  groupEl.innerHTML = '<span>' + group.icon + ' ' + group.title + '</span><span class="chevron">▶</span>';
+
+  const sectionIds = group.sections.map(s => s.id);
+  groupEl.onclick = () => {
+    const isExpanded = groupEl.classList.toggle('expanded');
+    // Show/hide sections under this group
+    document.querySelectorAll('.nav-item.parent').forEach(n => {
+      if (sectionIds.includes(n.dataset.section)) {
+        n.classList.toggle('visible', isExpanded);
+        // If collapsing group, also collapse sections
+        if (!isExpanded) {
+          n.classList.remove('expanded');
+          document.querySelectorAll(`.nav-item.sub[data-parent="${n.dataset.section}"]`).forEach(s => s.classList.remove('visible'));
+        }
+      }
+    });
+  };
+  nav.appendChild(groupEl);
+
+  // --- Sections within group ---
+  group.sections.forEach(sec => {
+    const parent = document.createElement('div');
+    parent.className = 'nav-item parent visible';
+    parent.dataset.section = sec.id;
+    parent.dataset.group = group.id;
+    parent.innerHTML = '<span>' + sec.icon + ' ' + sec.title + '</span><span class="chevron">▶</span>';
+
+    const subIds = sec.subs.map(s => s.id);
+    parent.onclick = (e) => {
+      const isExpanded = parent.classList.toggle('expanded');
+      document.querySelectorAll('.nav-item.sub').forEach(n => {
+        if (subIds.includes(n.dataset.id)) {
+          n.classList.toggle('visible', isExpanded);
+        }
+      });
+      if (isExpanded && sec.subs.length) activate(sec.subs[0].id);
+    };
+    nav.appendChild(parent);
+
+    // --- Subsections ---
+    sec.subs.forEach(sub => {
+      if (!firstSubId) firstSubId = sub.id;
+
+      const navItem = document.createElement('div');
+      navItem.className = 'nav-item sub';
+      navItem.dataset.id = sub.id;
+      navItem.dataset.parent = sec.id;
+      navItem.dataset.group = group.id;
+      navItem.textContent = sub.title;
+      navItem.onclick = () => activate(sub.id);
+      nav.appendChild(navItem);
+
+      const div = document.createElement('div');
+      div.className = 'section';
+      div.id = 'sec-' + sub.id;
+      div.innerHTML = '<h1>' + sub.title + '</h1>' + sub.html;
+      main.appendChild(div);
+    });
+  });
+});
+
+function activate(id) {
+  // Clear all active states
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+
+  // Activate content panel
+  const sec = document.getElementById('sec-' + id);
+  if (sec) { sec.classList.add('active'); }
+
+  // Activate nav item and ensure parents are expanded
+  const navItem = document.querySelector(`.nav-item.sub[data-id="${id}"]`);
+  if (navItem) {
+    navItem.classList.add('active');
+
+    // Expand parent section if collapsed
+    const parentId = navItem.dataset.parent;
+    if (parentId) {
+      const parentNav = document.querySelector(`.nav-item.parent[data-section="${parentId}"]`);
+      if (parentNav && !parentNav.classList.contains('expanded')) {
+        parentNav.classList.add('expanded');
+        document.querySelectorAll(`.nav-item.sub[data-parent="${parentId}"]`).forEach(n => n.classList.add('visible'));
+      }
+      // Expand parent group if collapsed
+      if (parentNav) {
+        const groupId = parentNav.dataset.group;
+        const groupNav = document.querySelector(`.nav-item.group[data-group="${groupId}"]`);
+        if (groupNav && !groupNav.classList.contains('expanded')) {
+          groupNav.classList.add('expanded');
+          document.querySelectorAll(`.nav-item.parent[data-group="${groupId}"]`).forEach(n => n.classList.add('visible'));
+        }
+      }
+    }
+    navItem.scrollIntoView({ block: 'nearest' });
+  }
+  // Close mobile menu on nav
+  if (window.innerWidth <= 768) toggleMenu(false);
+  window.scrollTo(0, 0);
+}
+
+// Search
+const searchInput = document.getElementById('search');
+searchInput.addEventListener('input', (e) => {
+  const q = e.target.value.toLowerCase().trim();
+  if (!q) {
+    // Reset: clear marks, collapse everything
+    document.querySelectorAll('.section').forEach(s => {
+      s.innerHTML = s.innerHTML.replace(/<mark>/g, '').replace(/<\/mark>/g, '');
+    });
+    document.querySelectorAll('.nav-item.sub').forEach(n => { n.style.display = ''; n.classList.remove('visible'); });
+    document.querySelectorAll('.nav-item.parent').forEach(n => { n.style.display = ''; n.classList.remove('expanded'); n.classList.add('visible'); });
+    document.querySelectorAll('.nav-item.group').forEach(n => n.classList.add('expanded'));
+    return;
+  }
+  let firstMatch = null;
+  const matchedParents = new Set();
+  const matchedGroups = new Set();
+
+  document.querySelectorAll('.nav-item.sub').forEach(n => {
+    const id = n.dataset.id;
+    const sec = document.getElementById('sec-' + id);
+    const text = sec.textContent.toLowerCase();
+    const match = text.includes(q) || n.textContent.toLowerCase().includes(q);
+    n.style.display = match ? 'block' : 'none';
+    if (match) {
+      n.classList.add('visible');
+      matchedParents.add(n.dataset.parent);
+      matchedGroups.add(n.dataset.group);
+      if (!firstMatch) firstMatch = id;
+    } else {
+      n.classList.remove('visible');
+    }
+  });
+
+  // Show/expand matched sections and groups
+  document.querySelectorAll('.nav-item.parent').forEach(n => {
+    const matched = matchedParents.has(n.dataset.section);
+    n.classList.toggle('expanded', matched);
+    n.classList.toggle('visible', matched);
+    n.style.display = matched ? 'flex' : 'none';
+  });
+  document.querySelectorAll('.nav-item.group').forEach(n => {
+    n.classList.toggle('expanded', matchedGroups.has(n.dataset.group));
+  });
+
+  if (firstMatch) activate(firstMatch);
+});
+
+// Expand / Collapse All — works across all 3 levels
+document.getElementById('expandAll').addEventListener('click', () => {
+  document.querySelectorAll('.nav-item.group').forEach(n => n.classList.add('expanded'));
+  document.querySelectorAll('.nav-item.parent').forEach(n => { n.classList.add('expanded'); n.classList.add('visible'); });
+  document.querySelectorAll('.nav-item.sub').forEach(n => n.classList.add('visible'));
+});
+document.getElementById('collapseAll').addEventListener('click', () => {
+  document.querySelectorAll('.nav-item.group').forEach(n => n.classList.remove('expanded'));
+  document.querySelectorAll('.nav-item.parent').forEach(n => { n.classList.remove('expanded'); n.classList.remove('visible'); });
+  document.querySelectorAll('.nav-item.sub').forEach(n => n.classList.remove('visible'));
+});
+
+// Init: start with everything collapsed (no auto-open)
+</script>
+</body>
+</html>

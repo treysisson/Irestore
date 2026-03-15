@@ -27,7 +27,7 @@ cd irestore-prep-shareable && python3 build.py 2>&1
 ```
 
 ### Key Directories
-- `irestore-prep/content/*.md` — 30 content files (YAML frontmatter + HTML body)
+- `irestore-prep/content/*.md` — 31 content files (YAML frontmatter + HTML body)
 - `irestore-prep-shareable/` — Kevin-safe version (no interview/comp content)
 - Root: transcripts, resumes, source docs
 
@@ -44,5 +44,10 @@ cd irestore-prep-shareable && python3 build.py 2>&1
 - When writing emails for Trey: sound human, not strategic or polished
 
 ## Tools & Capabilities (Cowork mode)
+- **GitHub MCP** available — can create PRs and merge via MCP tools (configured in Claude desktop app)
 - **Claude in Chrome** MCP tools available for LinkedIn, Twitter/X, YouTube (egress proxy blocks WebFetch for these)
 - Chrome tabs persist between sessions
+
+## Git Workflow
+- Push branches with `claude/` prefix, then create PR and merge via GitHub MCP tools
+- Branch `claude/expand-live-scenarios-sKmn9` is pushed but **not yet merged to master** — needs PR creation in next session

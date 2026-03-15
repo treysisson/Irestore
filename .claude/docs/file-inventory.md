@@ -31,7 +31,10 @@
 | `26-podcasts.md` | Podcast research on Kevin | company |
 | `27-glassdoor.md` | Glassdoor reviews | company |
 | `28-wholesale.md` | Wholesale playbook | company |
+| `28-spy-novel.md` | ~~DELETED~~ (Operation Phoenix — removed per Trey) | — |
 | `29-interview2-debrief.md` | Mar 13 interview debrief & analysis | gameday |
+| `30-live-exercise-prep.md` | Live exercise scenarios (expanded with 3 extra P&L practice sets) | gameday |
+| `31-warehouse-tour.md` | Warehouse tour questions by area + observation tips | gameday |
 
 ## Source Documents (root)
 | File | What it is |

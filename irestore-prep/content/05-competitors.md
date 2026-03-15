@@ -45,12 +45,51 @@ groupOrder: 4
 ## Red Light Panel Competitors
 <!-- id: comp-panels -->
 
+<p class="muted">Global red light therapy device market: ~$350–500M (2024) → $620M–$1.8B by 2032. Panels/beds segment: $950M (2025) → $2.9B by 2033 (14.8% CAGR). North America ~38% of global revenue. Market is highly fragmented — no single dominant player.</p>
+
 <table>
-        <tr><th>Company</th><th>Est. Revenue</th><th>Key Strengths</th><th>Threat Level</th></tr>
-        <tr><td><strong>Joovv</strong></td><td>~$50M+ (est. body panel category)</td><td>Market leader in body panels. Strong clinical positioning, professional + consumer market.</td><td>Medium-High</td></tr>
-        <tr><td><strong>PlatinumLED</strong></td><td>Niche (undisclosed)</td><td>Niche brand, limited Amazon presence, no dominant retail positioning.</td><td>Low</td></tr>
+        <tr><th>Company</th><th>Est. Revenue</th><th>Price Range</th><th>Key Strengths</th><th>Channels</th><th>Threat Level</th></tr>
+        <tr style="background:#fff3e0"><td><strong>Joovv</strong></td><td>$15–40M (est.)</td><td>$549–$11,099</td><td>Brand pioneer (founded 2015). Patented modular system (buy Solo, upgrade over time). Gen 3.0 lineup: Go, Mini, Solo, Half-Max, Duo, Max, Quad, Elite. SF 49ers partnership. Apple-like design. HSA/FSA eligible. ~11-20 employees, bootstrapped.</td><td>DTC only. <strong>No Amazon.</strong></td><td>Medium-High</td></tr>
+        <tr><td><strong>PlatinumLED</strong></td><td>Undisclosed</td><td>$598–$1,599</td><td>Highest raw power: BioMax Pro Ultra at 101 mW/cm². Best cost-per-watt ($5.90/watt). Unique wavelengths incl. blue light + 1060nm NIR. 16+ year veteran. FDA Class II device. Manufactured in own FDA-registered facility.</td><td>DTC only. <strong>No Amazon.</strong></td><td>Low-Medium</td></tr>
+        <tr><td><strong>Mito Red Light</strong></td><td>~$15M (75K customers)</td><td>$679–$4,999</td><td>Broadest range: budget MitoRED 2.0 through ultra-premium MitoADAPT ($4,999, 8 wavelengths, 11 modes). Patent-pending TruDual chip tech. MitoMIND transcranial helmet. New B2B/commercial line. Touchscreen + app on premium. Scottsdale, AZ. 20-49 employees.</td><td>Hybrid: DTC + Amazon (budget line)</td><td>Medium</td></tr>
+        <tr><td><strong>Rouge Red Light</strong></td><td>Undisclosed (small)</td><td>$99–$1,350</td><td>Canadian brand (Brossard, QC). Industry-first 8 wavelengths incl. 670nm (retinal health) and 1060nm (fat loss). Named "Best Panel of 2025" by reviewer Alex Fergus. Health Canada approved. 3-year warranty.</td><td>DTC only</td><td>Low</td></tr>
+        <tr><td><strong>Hooga</strong></td><td>Undisclosed (small)</td><td>$199–$4,500</td><td>Best price-to-performance in market. Named "Best Deep Tissue" (Garage Gym Reviews). HG1500 at 115+ mW/cm². Strong Amazon reviews. Three tiers: HG (entry), PRO (flicker-free), ULTRA (quad-chip). 3-year warranty.</td><td>Amazon primary + DTC</td><td>Low</td></tr>
+        <tr><td><strong>BestQool</strong></td><td>Undisclosed (small)</td><td>$99–$769</td><td>Budget Amazon leader. Pro300 full-body at ~$769. Zero EMF at 6". Also makes Redot belt/wrap line (Amazon bestseller). FDA Class II registered.</td><td>Amazon primary + DTC</td><td>Low</td></tr>
       </table>
-      <div class="tip"><strong>Key Takeaway:</strong> Body panels represent a ~$50M category, with Joovv as the current leader. Kevin stated iRESTORE plans to be #1 in this category within a year (via Q2 2026 body panel + belt launch). iRESTORE's advantage: DTC dominance, existing customer base (600K+), and the "bully" positioning — iRESTORE now has the most DTC advertising spend, highest brand awareness, and the best product. Kevin frames them as capable of taking competitors' market share aggressively.</div>
+
+<div class="tip"><strong>Key Takeaway:</strong> The panel market is fragmented and ripe for disruption. Joovv has brand recognition but tiny team, no Amazon, and a massive price umbrella ($1,699–$11,099). PlatinumLED has power specs but zero consumer awareness. Mito Red is the most sophisticated but only at $15M revenue. <strong>No competitor has iRESTORE's combination of:</strong> $90M+ scale, FDA clinical credibility, DTC marketing machine, Amazon expertise, AND Costco relationships. Kevin's $500K initial PO (on zero sales) signals channel partner confidence. The "bully" playbook that worked in hair — highest ad spend, best brand awareness, aggressive pricing — should translate directly to panels.</div>
+
+---
+
+## Red Light Belt & Wrap Competitors
+<!-- id: comp-belts -->
+
+<p class="muted">Emerging category at the intersection of red light therapy devices ($350M+) and non-invasive body contouring ($1.6–2.0B, 58% of revenue, growing ~18% CAGR). No standalone market sizing exists yet for wearable RLT belts — this is a greenfield category forming in real-time.</p>
+
+<table>
+        <tr><th>Company</th><th>Price</th><th>Key Specs</th><th>Channels</th><th>FDA/Claims</th><th>Threat Level</th></tr>
+        <tr style="background:#fff3e0"><td><strong>Nushape Lipo Wrap</strong></td><td>$550</td><td>600 LEDs, 635nm + 880nm (different wavelengths than standard). Battery-powered cordless. Neoprene. 5.0 stars / 954 Trustpilot reviews.</td><td>DTC only. No Amazon.</td><td>Claims FDA clearance for "circumferential inch loss." Fat loss, cellulite, body contouring. ⚠️ Independent analysis found no clinical trials supporting 635nm body contouring claims.</td><td>Medium</td></tr>
+        <tr><td><strong>Mito Red Light Belt</strong></td><td>$349</td><td>405 diodes / 1,215 chips (TriChip). 4 wavelengths (630, 660, 810, 850nm). 5 intensity levels. <strong>Plug-in only — no battery.</strong></td><td>DTC only. Not on Amazon.</td><td>IEC 60601. Pain relief, recovery. No fat loss claims.</td><td>Low-Medium</td></tr>
+        <tr><td><strong>NovaaLab Deep Healing Pad</strong></td><td>$350</td><td>450 LEDs, 200 mW/cm² (highest power in category). FDA Class II cleared. 0.6 lbs. Ranked #1 in multiple 2026 roundups.</td><td>DTC primary</td><td>FDA Class II cleared. Pain relief.</td><td>Medium</td></tr>
+        <tr style="background:#e8f5e9"><td><strong>Hooga Belt</strong></td><td>$279–$299</td><td>405 dual-chip LEDs (810 total chips). 660nm + 850nm. <strong>15,000mAh rechargeable battery / ~150 min.</strong> 3 modes, adjustable brightness, timer. Ranked #1 battery-powered belt in 2026 roundups.</td><td>Amazon primary + DTC</td><td>Pain relief, recovery. No fat loss claims.</td><td>Medium</td></tr>
+        <tr><td><strong>LifePro AllevaRed</strong></td><td>$99–$290</td><td>105 triple-chip LEDs. 660nm + 850nm. Pro adds vibration + pulsed light (1–1000 Hz). USB or rechargeable battery. 996 Amazon reviews.</td><td><strong>Widest retail:</strong> Amazon, Dick's, Macy's, Kohl's, QVC, Walmart</td><td>Pain relief. HSA/FSA. No fat loss. ⚠️ Reliability complaints — units failing within a year.</td><td>Low-Medium</td></tr>
+        <tr><td><strong>BestQool Redot</strong></td><td>$116–$199</td><td>105–220 LEDs, triple-chip 660nm + 850nm. Zero EMF at 6". &lt;1 lb. <strong>Corded only.</strong> Amazon bestseller in category.</td><td>Amazon primary</td><td>HSA/FSA. Pain relief. 1-year warranty only.</td><td>Low</td></tr>
+        <tr><td><strong>DGYAO / DGXINJUN</strong></td><td>$35–$230</td><td>Budget range from 117 LEDs (basic) to 288 LEDs (D MAX cordless, 80 mW/cm²). 4000mAh battery. 900+ Amazon reviews, 4.3 stars.</td><td>Amazon + eBay</td><td>Questionable "body slim" claims. No clinical evidence. Low-trust brand.</td><td>Low</td></tr>
+      </table>
+
+<h3>Professional / Clinical (Not Direct Competitors)</h3>
+<table>
+        <tr><th>Company</th><th>Positioning</th><th>Relevance</th></tr>
+        <tr><td><strong>Celluma CONTOUR</strong></td><td>Claims "only FDA-cleared LED device for OTC body contouring." Clinical/medspa channel.</td><td>Sets the FDA benchmark for body contouring claims. If iRESTORE pursues fat loss claims, this is the clearance standard.</td></tr>
+        <tr><td><strong>Contour Light</strong></td><td>FDA 510(k) cleared for "temporary reduction of waist, hip, and thigh circumference." Professional-grade, clinic channel only.</td><td>Proven 510(k) pathway exists for body contouring. Could inform iRESTORE's regulatory strategy.</td></tr>
+</table>
+
+<div class="tip"><strong>Key Takeaway:</strong> The belt category is early-stage and fragmented — no brand owns it. Key dynamics:<br>
+<strong>1. Nobody has clinical credibility.</strong> No belt competitor has published their own clinical trial. iRESTORE's existing clinical evidence + FDA clearances transfer massive brand trust.<br>
+<strong>2. Battery vs. corded is a dividing line.</strong> Hooga's 150-min rechargeable battery sets the bar. Mito Red and BestQool are corded-only — a major UX disadvantage for Kevin's "multitask while working" positioning.<br>
+<strong>3. Fat loss claims are lucrative but risky.</strong> Nushape charges $550 on fat loss positioning but has thin clinical backing. The safer play is pain relief + recovery with an optional FDA pathway for body contouring later.<br>
+<strong>4. No competitor has app connectivity.</strong> Zero belts connect to an app — clear differentiator for iRESTORE.<br>
+<strong>5. Amazon is wide open.</strong> Hooga, LifePro, and DGYAO own the Amazon belt space by default — no premium brand competes there. iRESTORE's Amazon expertise is a structural advantage.</div>
 
 ---
 

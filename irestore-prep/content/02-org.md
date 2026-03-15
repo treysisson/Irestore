@@ -207,10 +207,21 @@ groupOrder: 2
         </ul>
       </div>
       <div class="card">
+        <div class="card-header">Saima Fariz – Chief of Staff (Replacing Daniel Ju)</div>
+        <p><strong><a href="https://www.linkedin.com/in/saimafariz/" target="_blank">LinkedIn</a></strong> | UC Berkeley (English, High Honors). Career progression from legal/case management into people operations leadership.</p>
+        <ul>
+          <li><strong>Background:</strong> Lyon Law PC (Litigation Case Manager) → Tiger Capital Group (Ops Project Manager → Ops Manager, People Strategy) → CloudKitchens (Partner, Global People Strategy) → Edge (Global Director, HR Operations) → iRESTORE</li>
+          <li><strong>Strengths for iRESTORE:</strong> Deep experience scaling people operations at high-growth companies. CloudKitchens and Tiger Capital are both fast-moving, operations-heavy businesses — relevant to iRESTORE's stage.</li>
+          <li><strong>Your approach:</strong> Saima is likely taking over Daniel's Chief of Staff / HR responsibilities. As COO, you'd work closely with her on hiring, org structure, and people strategy. She's a key ally — the COO and Chief of Staff need to be tightly aligned, especially during the transition period with three simultaneous departures.</li>
+        </ul>
+        <div class="tip"><strong>Onsite:</strong> You'll meet Saima <strong>in-person</strong>. She's a critical relationship — the CoS is your operational partner for people and org-building. Come prepared to discuss how you'd collaborate on the hiring plan and culture during the transition.</div>
+      </div>
+      <div class="card">
         <div class="card-header">Longchuan Huang, PhD – Head of Product Development (New – ~3 months)</div>
         <p><strong><a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">LinkedIn</a></strong> | Previously Technical Director, Product Development at <strong>Wella</strong> (haircare/beauty). PhD from UPenn, MBA from UC San Diego. Career spans premium beauty and pharma: Kate Somerville Skincare, Beiersdorf (NIVEA), Janssen (J&J pharma division), plus biotech startups (Nucelis, Phenvogen). Deep regulatory + formulation expertise across cosmetics and medical products.</p>
         <p>Owns formulations and project management for device development. Kevin retains innovation and tech strategy — staying hands-on with the "beginning and end" (vision and breakthrough) while delegating execution in the middle. Native Chinese speaker, which has been "life-changing" for Kevin since it dramatically improves communication with the Shenzhen factory.</p>
         <div class="tip"><strong>Interview edge:</strong> Knowing Longchuan's name and background signals deep research. Say: "I saw you brought on Longchuan from Wella to lead product development — that tells me you're serious about the skincare pipeline. His regulatory background across cosmetics and pharma is exactly what you need for the MoCRA transition and the topicals expansion."</div>
+        <div class="tip"><strong>Onsite:</strong> You'll meet Longchuan <strong>in-person</strong>. As COO, product development execution would flow through you. Come ready to discuss how you'd support his work without stepping on Kevin's innovation role.</div>
       </div>
       <div class="card">
         <div class="card-header">Fractional CFO</div>
@@ -233,13 +244,15 @@ groupOrder: 2
       <table>
         <tr><th>Name</th><th>Title</th><th>Location</th><th>Notes</th></tr>
         <tr style="background:#e8f5e9"><td><strong><a href="https://www.linkedin.com/in/kevin-chen-a5ab6b21/" target="_blank">Kevin Chen</a></strong></td><td>Co-Founder & CEO</td><td>Brentwood / La Mirada, CA</td><td>Your direct report-to. UC Irvine engineering. From Taiwan, moved to Irvine at age 10.</td></tr>
+        <tr style="background:#fff3e0"><td><strong><a href="https://www.linkedin.com/in/saimafariz/" target="_blank">Saima Fariz</a></strong></td><td>Chief of Staff</td><td>Los Angeles, CA</td><td>UC Berkeley (English, High Honors). Career arc: legal ops → people strategy → HR leadership. Prior: CloudKitchens (Global People Strategy), Edge (Global Dir. HR Ops), Tiger Capital Group (Ops Manager, People Strategy). Deep HR/ops/people background. <strong>Meeting in-person</strong> at onsite.</td></tr>
       </table>
 
       <h3>Operations & Supply Chain</h3>
       <table>
         <tr><th>Name</th><th>Title</th><th>Location</th><th>Notes</th></tr>
         <tr><td><strong>Daniel Ju</strong></td><td>Chief of Staff / HR (transitioning out)</td><td>Los Angeles, CA</td><td>UC Berkeley grad. <a href=”https://www.linkedin.com/in/danielju/” target=”_blank”>LinkedIn</a>. Kevin’s college friend, 8.5 years with company. Actual role: Chief of Staff / HR, not SVP of Operations (LinkedIn outdated). Asked Kevin to become COO; Kevin declined. Departing end of April with 60-90 day transition (amicable). Was managing Brandon but served as “just a messenger for me” — Kevin hated this dynamic. Brandon now reports directly to Kevin.</td></tr>
-        <tr><td><strong><a href=”https://www.linkedin.com/in/brandon-k-3b99a611/” target=”_blank”>Brandon K.</a></strong></td><td>Director of Ops</td><td>Likely overseas / remote</td><td><a href=”https://www.linkedin.com/in/brandon-k-3b99a611/” target=”_blank”>LinkedIn</a>. Kevin described in detail: came from Amazon/FBA world. Reliable executor but not strategic. “Boxed in” thinking. Key person you’d manage directly.</td></tr>
+        <tr style=”background:#fff3e0”><td><strong><a href=”https://www.linkedin.com/in/saimafariz/” target=”_blank”>Saima Fariz</a></strong></td><td>Chief of Staff (replacing Daniel)</td><td>Los Angeles, CA</td><td>UC Berkeley (English, High Honors). Career: Tiger Capital (Ops/People Strategy) → CloudKitchens (Global People Strategy) → Edge (Global Dir. HR Ops) → iRESTORE. Deep HR operations and people strategy background. <strong>Meeting in-person</strong> at onsite.</td></tr>
+        <tr><td><strong><a href=”https://www.linkedin.com/in/brandon-k-3b99a611/” target=”_blank”>Brandon K.</a></strong></td><td>Director of Ops</td><td>Washington State (remote)</td><td><a href=”https://www.linkedin.com/in/brandon-k-3b99a611/” target=”_blank”>LinkedIn</a>. Kevin described in detail: came from Amazon/FBA world. Reliable executor but not strategic. “Boxed in” thinking. Key person you’d manage directly. <strong>Meeting via Zoom</strong> during onsite.</td></tr>
         <tr><td><strong>Danica Baltazar</strong></td><td>Senior Operations Manager</td><td>Philippines (likely)</td><td><a href="https://www.linkedin.com/in/danicadbaltazar/" target="_blank">LinkedIn</a>. 10+ years in ops, digital marketing, e-commerce. Manages business operations, recruitment, logistics, budgets, employee supervision. Described as “amazing team leader.”</td></tr>
         <tr><td><strong>Andrew Domagas</strong></td><td>Team Lead</td><td>Cavite, Philippines</td><td><a href="https://www.linkedin.com/in/andrew-domagas-01862b28b/" target="_blank">LinkedIn</a>. Part of the ~50-person overseas team Kevin mentioned.</td></tr>
       </table>

@@ -36,7 +36,7 @@ groupOrder: 2
           <div class="org-branch">
             <div class="org-connector"></div>
             <div class="org-node">
-              <div class="org-name">Brandon</div>
+              <div class="org-name"><a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">Brandon</a></div>
               <div class="org-title">Director of Ops & Supply Chain</div>
               <div class="org-note">Overseas ops, supply chain, logistics<br>La Mirada warehouse<br>Reliable but not strategic</div>
             </div>
@@ -113,7 +113,7 @@ groupOrder: 2
               <div class="org-branch">
                 <div class="org-connector"></div>
                 <div class="org-node">
-                  <div class="org-name">Brandon</div>
+                  <div class="org-name"><a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">Brandon</a></div>
                   <div class="org-title">Dir. Ops & Supply Chain</div>
                   <div class="org-note">Overseas ops, logistics<br>La Mirada warehouse</div>
                 </div>
@@ -197,7 +197,7 @@ groupOrder: 2
 <!-- id: org-people -->
 
 <div class="card">
-        <div class="card-header">Brandon – Director of Operations & Supply Chain</div>
+        <div class="card-header"><a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">Brandon</a> – Director of Operations & Supply Chain</div>
         <p>This is likely your most direct report (now reports to Kevin, but will report to you as COO). Kevin's assessment:</p>
         <ul>
           <li><strong>Strengths:</strong> Reliable executor. "If you tell him 'figure this out,' he'll figure it out." Good at maintaining existing systems.</li>
@@ -239,7 +239,7 @@ groupOrder: 2
       <table>
         <tr><th>Name</th><th>Title</th><th>Location</th><th>Notes</th></tr>
         <tr><td><strong>Daniel Ju</strong></td><td>Chief of Staff / HR (transitioning out)</td><td>Los Angeles, CA</td><td>UC Berkeley grad. <a href=”https://www.linkedin.com/in/danielju/” target=”_blank”>LinkedIn</a>. Kevin’s college friend, 8.5 years with company. Actual role: Chief of Staff / HR, not SVP of Operations (LinkedIn outdated). Asked Kevin to become COO; Kevin declined. Departing end of April with 60-90 day transition (amicable). Was managing Brandon but served as “just a messenger for me” — Kevin hated this dynamic. Brandon now reports directly to Kevin.</td></tr>
-        <tr><td><strong>Brandon [Last Name Unknown]</strong></td><td>Director of Ops</td><td>Likely overseas / remote</td><td>Kevin described in detail: came from Amazon/FBA world. Reliable executor but not strategic. “Boxed in” thinking. Key person you’d manage directly.</td></tr>
+        <tr><td><strong><a href=”https://www.linkedin.com/in/brandon-k-3b99a611/” target=”_blank”>Brandon K.</a></strong></td><td>Director of Ops</td><td>Likely overseas / remote</td><td><a href=”https://www.linkedin.com/in/brandon-k-3b99a611/” target=”_blank”>LinkedIn</a>. Kevin described in detail: came from Amazon/FBA world. Reliable executor but not strategic. “Boxed in” thinking. Key person you’d manage directly.</td></tr>
         <tr><td><strong>Danica Baltazar</strong></td><td>Senior Operations Manager</td><td>Philippines (likely)</td><td><a href="https://www.linkedin.com/in/danicadbaltazar/" target="_blank">LinkedIn</a>. 10+ years in ops, digital marketing, e-commerce. Manages business operations, recruitment, logistics, budgets, employee supervision. Described as “amazing team leader.”</td></tr>
         <tr><td><strong>Andrew Domagas</strong></td><td>Team Lead</td><td>Cavite, Philippines</td><td><a href="https://www.linkedin.com/in/andrew-domagas-01862b28b/" target="_blank">LinkedIn</a>. Part of the ~50-person overseas team Kevin mentioned.</td></tr>
       </table>

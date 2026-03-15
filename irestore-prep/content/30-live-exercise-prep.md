@@ -134,6 +134,88 @@ groupOrder: 3
 <p><strong>The strategic framing:</strong> "Every point of margin I recover on a $90M base is $900K. On a $150M base next year, it's $1.5M. And at a 15x EBITDA multiple, every dollar of margin improvement is worth $15 in enterprise value. That's the COO value prop — I'm not a cost center, I'm a value multiplier."</p>
 </div>
 
+<h4>📊 Practice P&L #2: "The New Product Drag"</h4>
+<p class="muted">Kevin might show you a P&L where new product lines (body panels, skincare wand) are dragging down the blended margin. Here's what that looks like:</p>
+
+<table>
+<tr><th>Line Item</th><th>Hair Devices</th><th>% Rev</th><th>Body Panels (New)</th><th>% Rev</th><th>Red Light Belt (New)</th><th>% Rev</th></tr>
+<tr><td><strong>Net Revenue</strong></td><td><strong>$72.0M</strong></td><td>100%</td><td><strong>$12.0M</strong></td><td>100%</td><td><strong>$6.0M</strong></td><td>100%</td></tr>
+<tr><td>COGS</td><td>($21.6M)</td><td>30%</td><td>($5.4M)</td><td>45%</td><td>($2.4M)</td><td>40%</td></tr>
+<tr style="background:#e8f5e9"><td><strong>Gross Profit</strong></td><td><strong>$50.4M</strong></td><td><strong>70%</strong></td><td><strong>$6.6M</strong></td><td><strong>55%</strong></td><td><strong>$3.6M</strong></td><td><strong>60%</strong></td></tr>
+<tr><td>Ad Spend / CAC</td><td>($9.4M)</td><td>13%</td><td>($3.6M)</td><td>30%</td><td>($2.1M)</td><td>35%</td></tr>
+<tr><td>Channel & Fulfillment</td><td>($11.5M)</td><td>16%</td><td>($2.4M)</td><td>20%</td><td>($1.2M)</td><td>20%</td></tr>
+<tr style="background:#e3f2fd"><td><strong>Contribution Margin</strong></td><td><strong>$29.5M</strong></td><td><strong>41%</strong></td><td><strong>$0.6M</strong></td><td><strong>5%</strong></td><td><strong>$0.3M</strong></td><td><strong>5%</strong></td></tr>
+</table>
+
+<div class="card card-green">
+<p><strong>How to read it:</strong></p>
+<ul>
+<li><strong>The core business is healthy.</strong> Hair devices at 70% gross / 41% CM — that's a cash cow. Don't touch it.</li>
+<li><strong>New products are margin-negative at the unit economics level</strong> once you layer in launch CAC. Body panels at 5% CM and belts at 5% CM are basically breakeven.</li>
+<li><strong>This is NORMAL for new product launches.</strong> The CAC is high because you're building awareness from zero. The question is: what does the CAC curve look like 6 months in?</li>
+<li><strong>COGS is high on new products</strong> (45% and 40% vs. 30% for hair). First production runs always cost more. At scale, these should converge to 30-33%.</li>
+</ul>
+
+<p><strong>What to say:</strong> "The new products are dragging blended margin, but that's a launch investment, not a structural problem. I'd want to see the monthly CAC trend on body panels — if it's declining month-over-month, we're building a second growth engine. If it's flat after 3 months, we have a product-market fit question. The COGS gap is the easier fix — at $12M run rate, we should be negotiating component pricing down to 35% within two production cycles."</p>
+
+<p><strong>The opportunity:</strong> "Hair devices are subsidizing the new launches right now, which is fine if we have a clear path to 30% CM on body panels within 12 months. I'd set that as the milestone — and if we're not on track by month 6, we adjust the launch spend, not the product."</p>
+</div>
+
+<h4>📊 Practice P&L #3: "The Quarterly Trend"</h4>
+<p class="muted">Kevin might show you quarterly data to see if you can spot seasonality and trend problems. This is common for DTC companies with Q4 peaks.</p>
+
+<table>
+<tr><th>Metric</th><th>Q1 2025</th><th>Q2 2025</th><th>Q3 2025</th><th>Q4 2025</th><th>FY 2025</th></tr>
+<tr><td><strong>Net Revenue</strong></td><td>$16.2M</td><td>$18.0M</td><td>$20.7M</td><td>$35.1M</td><td><strong>$90.0M</strong></td></tr>
+<tr><td>COGS %</td><td>33%</td><td>32%</td><td>31%</td><td>35%</td><td>33%</td></tr>
+<tr><td><strong>Gross Margin</strong></td><td><strong>67%</strong></td><td><strong>68%</strong></td><td><strong>69%</strong></td><td><strong>65%</strong></td><td><strong>67%</strong></td></tr>
+<tr><td>Total CAC %</td><td>19%</td><td>18%</td><td>16%</td><td>15%</td><td>17%</td></tr>
+<tr><td>Channel & Fulfillment %</td><td>18%</td><td>17%</td><td>16%</td><td>18%</td><td>17%</td></tr>
+<tr style="background:#e3f2fd"><td><strong>Contribution Margin %</strong></td><td><strong>30%</strong></td><td><strong>33%</strong></td><td><strong>37%</strong></td><td><strong>32%</strong></td><td><strong>33%</strong></td></tr>
+<tr><td>OpEx %</td><td>21%</td><td>19%</td><td>17%</td><td>13%</td><td>17%</td></tr>
+<tr style="background:#fff3e0"><td><strong>EBITDA %</strong></td><td><strong>9%</strong></td><td><strong>14%</strong></td><td><strong>20%</strong></td><td><strong>19%</strong></td><td><strong>16%</strong></td></tr>
+<tr><td>Return Rate</td><td>8%</td><td>9%</td><td>9%</td><td>14%</td><td>10%</td></tr>
+</table>
+
+<div class="card card-green">
+<p><strong>How to read it:</strong></p>
+<ul>
+<li><strong>Q4 is 39% of annual revenue</strong> ($35.1M of $90M). Massive holiday concentration — common for gift-category devices.</li>
+<li><strong>Q4 COGS spikes to 35%.</strong> Why? Air freight for inventory replenishment (didn't plan enough ocean freight ahead of peak), overtime labor, or expedited production runs. This is a planning failure, not a product margin issue.</li>
+<li><strong>Q4 return rate jumps to 14%.</strong> Gift returns. People buy hair growth devices as gifts, recipients don't want them or don't set expectations correctly. This is where the "results timeline" content and a January-targeted "save the sale" campaign would pay off.</li>
+<li><strong>Q1 EBITDA is only 9%.</strong> Post-holiday hangover: high returns processing, low revenue, but fixed OpEx doesn't shrink. This is the cash flow danger zone.</li>
+<li><strong>CAC decreases through the year</strong> (19% → 15%) — organic demand builds as the year progresses. Q4 benefits from gift-intent searches. Q1 CAC resets high because you're starting cold.</li>
+<li><strong>OpEx leverage is working:</strong> Fixed costs spread across higher Q4 revenue — 21% in Q1 vs 13% in Q4. This is healthy.</li>
+</ul>
+
+<p><strong>What to say:</strong> "Three things jump out. First, Q4 COGS is 4 points above Q2/Q3 — that's a $1.4M penalty and it's almost certainly freight and production planning. If I get the S&OP cadence right — locking ocean freight by August — that normalizes to 32%. Second, Q4 returns at 14% vs 8-9% rest of year — gift returns are killing you. A 'new owner activation' campaign in January targeting gift recipients could cut that by half. Third, Q1 at 9% EBITDA is your cash flow pinch point. I'd plan working capital for a lean Q1 and front-load marketing spend into Q3 where the CAC efficiency is best."</p>
+</div>
+
+<h4>📊 Practice P&L #4: "The SKU-Level View"</h4>
+<p class="muted">If Kevin goes granular and shows you product-level data, here's how to read it:</p>
+
+<table>
+<tr><th>Product</th><th>Revenue</th><th>Mix</th><th>Gross Margin</th><th>Units</th><th>ASP</th><th>Return Rate</th></tr>
+<tr><td>Pro Helmet (iR1080)</td><td>$38.0M</td><td>42%</td><td>72%</td><td>48K</td><td>$795</td><td>7%</td></tr>
+<tr><td>Essential Helmet (iR272)</td><td>$22.0M</td><td>24%</td><td>68%</td><td>56K</td><td>$395</td><td>9%</td></tr>
+<tr><td>Laser Cap (iR148)</td><td>$10.0M</td><td>11%</td><td>65%</td><td>33K</td><td>$299</td><td>12%</td></tr>
+<tr><td>Body Panels</td><td>$8.0M</td><td>9%</td><td>55%</td><td>8K</td><td>$999</td><td>15%</td></tr>
+<tr><td>Red Light Belt</td><td>$4.0M</td><td>4%</td><td>58%</td><td>13K</td><td>$299</td><td>11%</td></tr>
+<tr><td>Serums & Accessories</td><td>$8.0M</td><td>9%</td><td>80%</td><td>200K</td><td>$40</td><td>3%</td></tr>
+</table>
+
+<div class="card card-green">
+<p><strong>How to read it:</strong></p>
+<ul>
+<li><strong>The Pro Helmet is the franchise.</strong> 42% of revenue, highest margin (72%), lowest return rate (7%). Protect this at all costs.</li>
+<li><strong>Serums & Accessories at 80% gross margin and 3% returns</strong> — this is the repeat-purchase gold mine. At $8M, it's already meaningful. Every helmet customer who buys 2 serums/year ($80) adds $64 of gross profit at near-zero CAC. Growing this from 9% to 15% of mix is a $5M+ opportunity.</li>
+<li><strong>The Laser Cap has the worst return/margin combo</strong> — 12% returns and 65% margin. This is likely the "I expected it to work faster" product. Consider: is this SKU worth keeping, or does it cannibalize Essential Helmet sales at a worse margin?</li>
+<li><strong>Body Panels: 15% return rate at $999 ASP</strong> is expensive. Each return costs ~$50 in processing + ~$150 in reverse freight for oversized items. That's ~1,200 returns/year costing $240K in processing alone.</li>
+</ul>
+
+<p><strong>What to say:</strong> "Your SKU economics tell a clear story: the Pro Helmet and Serums are your profit engines. I'd double down on the cross-sell — every Pro Helmet buyer should get a serum subscription offer at checkout and a 90-day replenishment email. The Laser Cap concerns me — 12% returns and lowest margin. I'd want to understand if it's cannibalizing the Essential Helmet. If customers are choosing Cap over Essential and returning at a higher rate, we might be leaving $3-5M of higher-margin revenue on the table. And on Body Panels — 15% returns at $999 means we need a much better pre-purchase expectation-setting flow. A 60-second video showing realistic results timeline could cut returns by a third."</p>
+</div>
+
 <h4>⚡ Sub-Scenarios: What If the Data Looks Different?</h4>
 
 <div class="card">

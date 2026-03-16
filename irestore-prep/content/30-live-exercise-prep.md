@@ -236,38 +236,38 @@ groupOrder: 3
 </tr>
 <tr>
   <td><strong>Essential Helmet</strong> (120 diodes)</td>
-  <td>$439</td>
+  <td>$499</td>
   <td>$11.0M</td>
   <td>12%</td>
   <td style="background:#fff9c4;">64%</td>
-  <td>25K</td>
+  <td>22K</td>
   <td style="background:#ffcdd2;">12%</td>
-  <td style="background:#ffcdd2;font-size:0.85em;">🔴 Worst return rate of helmets. Buyers at $439 may have higher expectations vs. results from only 120 diodes. Is this creating negative word-of-mouth?</td>
+  <td style="background:#ffcdd2;font-size:0.85em;">🔴 Worst return rate of helmets. Buyers at $499 may have higher expectations vs. results from only 120 diodes. Is this creating negative word-of-mouth?</td>
 </tr>
 <tr>
   <td><strong>Illumina Face Mask</strong> (360 LEDs)</td>
-  <td>$399</td>
-  <td style="background:#fff9c4;">$8.0M</td>
+  <td>$499</td>
+  <td style="background:#fff9c4;">$8.5M</td>
   <td>9%</td>
   <td style="background:#fff9c4;">66%</td>
-  <td>20K</td>
+  <td>17K</td>
   <td>9%</td>
   <td style="background:#fff9c4;font-size:0.85em;">🟡 New category, still ramping. 9% mix is solid for year one. Watch margin — LED skincare is more competitive than hair. Cross-sell to helmet buyers is the play.</td>
 </tr>
 <tr>
   <td><strong>Illumina Neck & Chest</strong> (230 LEDs)</td>
-  <td>$449</td>
-  <td>$3.6M</td>
+  <td>$399</td>
+  <td>$3.2M</td>
   <td>4%</td>
   <td>62%</td>
   <td>8K</td>
   <td style="background:#ffcdd2;">14%</td>
-  <td style="background:#ffcdd2;font-size:0.85em;">🔴 14% returns at $449 = expensive. Body skincare devices have a results-expectation problem. Needs better pre-purchase education or bundle-only positioning.</td>
+  <td style="background:#ffcdd2;font-size:0.85em;">🔴 14% returns at $399 = expensive. Body skincare devices have a results-expectation problem. Needs better pre-purchase education or bundle-only positioning.</td>
 </tr>
 <tr>
   <td><strong>Illumina Eye Mask</strong> (180 LEDs)</td>
-  <td>$279</td>
-  <td>$2.2M</td>
+  <td>$249</td>
+  <td>$2.0M</td>
   <td>2%</td>
   <td>60%</td>
   <td>8K</td>
@@ -275,14 +275,14 @@ groupOrder: 3
   <td style="font-size:0.85em;">Small SKU. Monitor — if Illumina line takes off, this could be a gateway product. Low risk at 2% of mix.</td>
 </tr>
 <tr>
-  <td><strong>Serums & Supplements</strong></td>
-  <td>$25–35</td>
-  <td style="background:#c8e6c9;">$8.5M</td>
-  <td style="background:#c8e6c9;">9%</td>
+  <td><strong>Serums, Skincare & Supplements</strong></td>
+  <td>$35–75</td>
+  <td style="background:#c8e6c9;">$8.6M</td>
+  <td style="background:#c8e6c9;">10%</td>
   <td style="background:#c8e6c9;">82%</td>
-  <td>280K</td>
+  <td>180K</td>
   <td style="background:#c8e6c9;">2%</td>
-  <td style="background:#c8e6c9;font-size:0.85em;">🟢 Repeat-purchase gold mine. 82% margin, 2% returns, near-zero CAC on reorders. Every helmet buyer who adds a $30/mo serum subscription = $295/yr at 82% margin. Growing this from 9% → 15% of mix is a $5M+ opportunity.</td>
+  <td style="background:#c8e6c9;font-size:0.85em;">🟢 Repeat-purchase gold mine. 82% margin, 2% returns, near-zero CAC on reorders. Includes REVIVE hair serums ($60), shampoo/conditioner ($40), supplements ($35-90), and RENEW skincare ($30-75). Growing this from 10% → 18% of mix is a $7M+ opportunity.</td>
 </tr>
 <tr style="font-weight:bold; border-top: 2px solid #333;">
   <td><strong>TOTAL</strong></td>
@@ -290,8 +290,8 @@ groupOrder: 3
   <td>$90.0M</td>
   <td>100%</td>
   <td>71%</td>
-  <td>384K</td>
-  <td>7.8%</td>
+  <td>278K</td>
+  <td>7.4%</td>
   <td></td>
 </tr>
 </table>
@@ -302,12 +302,12 @@ groupOrder: 3
 <li><strong>The Elite Helmet is the franchise.</strong> 38% of revenue at 74% gross margin and only 5% returns. At $1,899, each unit delivers ~$1,405 in gross profit. This is the SKU that funds everything else. Protect the brand positioning — don't discount this, don't put it on Costco shelves.</li>
 <li><strong>Elite + Professional = 63% of revenue</strong> and both are healthy. The two-tier helmet strategy works — different price points attract different buyers without cannibalization. The Professional at $899 is the volume play; the Elite is the profit play.</li>
 <li><strong>The Essential Helmet has the worst return profile</strong> — 12% returns at the lowest margin (64%) of any helmet. At $439, buyers may expect results comparable to higher-diode models. This is the "disappointed expectations" SKU. Worth investigating: are Essential returns driven by efficacy complaints or price-sensitivity (impulse buy → regret)?</li>
-<li><strong>Illumina Neck & Chest at 14% returns</strong> is the biggest per-unit return cost problem. At $449 ASP, each return costs ~$40 in processing + restock. That's 1,120 returns × $40 = ~$45K in direct processing costs, plus the lost margin. Bundle-only (with Face Mask) or better expectation-setting content could cut this significantly.</li>
-<li><strong>Serums at 82% margin are the hidden weapon.</strong> $8.5M at 2% returns. Every helmet customer who subscribes to a $30/month serum adds ~$295/year at 82% margin — that's $242 of gross profit per subscriber at near-zero incremental CAC. If 30% of helmet buyers subscribe (vs. maybe 15% today), that's a $4-5M revenue lift at 82% margin.</li>
-<li><strong>The Illumina line is a bet on category expansion.</strong> Face + Neck + Eye = $13.8M (15% of mix) in what's likely year one. If the skincare LED market grows as projected, this could be 25-30% of revenue in 2 years. But watch the Neck & Chest returns closely — a bad reputation in a new category kills growth.</li>
+<li><strong>Illumina Neck & Chest at 14% returns</strong> is the biggest per-unit return cost problem. At $399 ASP, each return costs ~$40 in processing + restock. That's 1,120 returns × $40 = ~$45K in direct processing costs, plus the lost margin. Bundle-only (with Face Mask as the "Duo" at $898) or better expectation-setting content could cut this significantly.</li>
+<li><strong>Consumables at 82% margin are the hidden weapon.</strong> $8.6M at 2% returns across REVIVE hair care (serums $60, shampoo/conditioner $40, supplements $35-90) and RENEW skincare ($30-75). Every helmet customer who subscribes to a monthly replenishment adds ~$480/year at 82% margin — that's $394 of gross profit per subscriber at near-zero incremental CAC. If 30% of device buyers subscribe (vs. maybe 15% today), that's a $5-7M revenue lift at 82% margin.</li>
+<li><strong>The Illumina line is a bet on category expansion.</strong> Face + Neck + Eye = $13.7M (15% of mix) in what's likely year one. They're also selling bundles (Duo at $898, Trio at $1,197) which boost AOV. If the skincare LED market grows as projected, this could be 25-30% of revenue in 2 years. But watch the Neck & Chest returns closely — a bad reputation in a new category kills growth.</li>
 </ul>
 
-<p><strong>What to say:</strong> "Your SKU data tells me three things. First, the Elite Helmet is your franchise — 38% of revenue at 74% margin and 5% returns. That's a $25M gross profit engine from a single SKU. Protect the brand, don't discount, don't channel-stuff this into Costco. Second, I'm concerned about the Essential — 12% returns at the lowest helmet margin. I'd want to dig into the return reasons. If it's efficacy disappointment from only 120 diodes, we might be better off sunsetting this and steering budget buyers to the Professional with financing. Third, your consumables at 82% margin are the unlock. If we get helmet-to-serum subscription attach rate from 15% to 30%, that's $4-5M of nearly pure profit. I'd build the subscription offer into the unboxing experience — QR code in the box, 20% off first 3 months, auto-replenish."</p>
+<p><strong>What to say:</strong> "Your SKU data tells me three things. First, the Elite Helmet is your franchise — 38% of revenue at 74% margin and 5% returns. That's a $25M gross profit engine from a single SKU. Protect the brand, don't discount, don't channel-stuff this into Costco. Second, I'm concerned about the Essential at $499 — 12% returns at the lowest helmet margin. I'd want to dig into the return reasons. If it's efficacy disappointment from only 120 diodes, we might be better off sunsetting this and steering budget buyers to the Professional with financing. Third, your REVIVE and RENEW consumables at 82% margin are the unlock. You've got a full product ecosystem now — serums, shampoo, conditioner, supplements, skincare. If we get device-to-subscription attach rate from 15% to 30%, that's $5-7M of nearly pure profit. I'd build the subscription offer into the unboxing experience — QR code in the box, 20% off first 3 months, auto-replenish."</p>
 </div>
 
 <h4>⚡ Sub-Scenarios: What If the Data Looks Different?</h4>

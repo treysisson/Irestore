@@ -1706,7 +1706,9 @@ document.getElementById('collapseAll').addEventListener('click', () => {
   document.querySelectorAll('.nav-item.sub').forEach(n => n.classList.remove('visible'));
 });
 
-// Init: start with everything collapsed (no auto-open)
+// Init: default to Game Day section
+const gamedaySub = document.querySelector('.nav-item.sub[data-group="gameday"]');
+if (gamedaySub) activate(gamedaySub.dataset.id);
 </script>
 </body>
 </html>

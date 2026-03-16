@@ -92,6 +92,14 @@ groupOrder: 2
                   <div class="org-note">Replacing Daniel Ju<br>HR, people ops, culture</div>
                 </div>
               </div>
+              <div class="org-branch">
+                <div class="org-connector" style="border-left-style: dashed;"></div>
+                <div class="org-node" style="border-style: dashed; opacity: 0.85;">
+                  <div class="org-name">Fractional CFO</div>
+                  <div class="org-title">Strategic Finance (dotted line)</div>
+                  <div class="org-note">FP&A, strategy, exit planning<br>Supplements Controller</div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

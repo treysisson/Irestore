@@ -6,8 +6,10 @@ order: 32
 group: "gameday"
 groupOrder: 5
 ---
-## <a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">Longchuan Huang, PhD</a> — Head of Product Development
+## Longchuan Huang, PhD — Head of Product Development
 <!-- id: onsite-longchuan -->
+
+<p><a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">View LinkedIn Profile →</a></p>
 
 <div class="card">
   <div class="card-header">Background</div>
@@ -59,8 +61,10 @@ groupOrder: 5
 
 ---
 
-## <a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">Brandon K.</a> — Director of Operations & Supply Chain
+## Brandon K. — Director of Operations & Supply Chain
 <!-- id: onsite-brandon -->
+
+<p><a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">View LinkedIn Profile →</a></p>
 
 <div class="card">
   <div class="card-header">Background</div>
@@ -118,8 +122,10 @@ groupOrder: 5
 
 ---
 
-## <a href="https://www.linkedin.com/in/saimafariz/" target="_blank">Saima Fariz</a> — Chief of Staff
+## Saima Fariz — Chief of Staff
 <!-- id: onsite-saima -->
+
+<p><a href="https://www.linkedin.com/in/saimafariz/" target="_blank">View LinkedIn Profile →</a></p>
 
 <div class="card">
   <div class="card-header">Background</div>
@@ -171,8 +177,10 @@ groupOrder: 5
 
 ---
 
-## <a href="https://www.linkedin.com/in/kevin-chen-a5ab6b21/" target="_blank">Kevin Chen</a> — CEO (Round 3)
+## Kevin Chen — CEO (Round 3)
 <!-- id: onsite-kevin -->
+
+<p><a href="https://www.linkedin.com/in/kevin-chen-a5ab6b21/" target="_blank">View LinkedIn Profile →</a></p>
 
 <div class="card">
   <div class="card-header">Context for Round 3</div>

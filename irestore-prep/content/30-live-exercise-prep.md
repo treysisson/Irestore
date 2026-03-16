@@ -1177,8 +1177,8 @@ groupOrder: 3
 
 <div class="card">
 <h3>Hire #3 (Weeks 8-12): Don't Backfill the Product Manager</h3>
-<p><strong>Why not:</strong> Longchuan just started 3 months ago as Head of PD. He should absorb the departing PM's responsibilities — it actually simplifies his reporting structure. If he needs support, hire a junior PM/coordinator, not another manager.</p>
-<p><strong>The test:</strong> If Longchuan can't handle the PM's scope, that's a signal about his capability. Better to learn that now than hire around him.</p>
+<p><strong>Why not:</strong> Longchuan just started 3 months ago as Head of PD. She should absorb the departing PM's responsibilities — it actually simplifies her reporting structure. If she needs support, hire a junior PM/coordinator, not another manager.</p>
+<p><strong>The test:</strong> If Longchuan can't handle the PM's scope, that's a signal about her capability. Better to learn that now than hire around her.</p>
 </div>
 
 <h4>💰 Org Cost Comparison</h4>
@@ -1201,7 +1201,7 @@ groupOrder: 3
 
 <p><strong>On Brandon:</strong> "Brandon is reliable and execution-oriented. I wouldn't change his reporting line on day one — that signals instability. Instead, I'd work alongside him for 90 days. If the working relationship is strong and Kevin's comfortable, we transition. If it's better with Brandon direct to you, we keep it. No ego."</p>
 
-<p><strong>On the PM gap:</strong> "I wouldn't backfill the PM. Longchuan is 3 months in — this is his chance to fully own the product pipeline. If he needs tactical support, a junior PM at $60K is better than another director competing with him."</p>
+<p><strong>On the PM gap:</strong> "I wouldn't backfill the PM. Longchuan is 3 months in — this is her chance to fully own the product pipeline. If she needs tactical support, a junior PM at $60K is better than another director competing with her."</p>
 </div>
 
 <h4>⚡ Sub-Scenarios</h4>
@@ -1215,7 +1215,7 @@ groupOrder: 3
 <div class="card">
 <h3>Sub-Scenario B: Kevin asks "What about Longchuan?"</h3>
 <p>Product development is Kevin's passion — he may not want to give up the Longchuan reporting line. And honestly, that's fine. PD is "value creation."</p>
-<p><strong>What to say:</strong> "Longchuan should report to you. Product innovation is your domain and your passion. What I'd want is a strong working relationship with Longchuan on launch operations — I own the 'get it to market' side, he owns the 'build it' side. We align on launch readiness, but he doesn't need to go through me."</p>
+<p><strong>What to say:</strong> "Longchuan should report to you. Product innovation is your domain and your passion. What I'd want is a strong working relationship with Longchuan on launch operations — I own the 'get it to market' side, she owns the 'build it' side. We align on launch readiness, but she doesn't need to go through me."</p>
 </div>
 
 <div class="card">

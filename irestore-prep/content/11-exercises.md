@@ -823,12 +823,12 @@ groupOrder: 4
   <p><strong>What he's probably feeling:</strong> Still learning the org. May be cautious about a COO hire because it could add a layer between him and Kevin. Or he may welcome it — if Kevin is too involved in PD, a COO who takes operational load off Kevin frees Kevin to be a better product collaborator.</p>
   <p><strong>Your approach:</strong></p>
   <ul>
-    <li><strong>Show you understand his value:</strong> "Your background in regulatory and formulation across cosmetics and pharma is exactly what the skincare expansion needs. How's the transition from OUAI been?"</li>
+    <li><strong>Show you understand her value:</strong> "Your background in regulatory and formulation across cosmetics and pharma is exactly what the skincare expansion needs. How's the transition from OUAI been?"</li>
     <li><strong>Ask about the pipeline:</strong> "I know the skincare wand is a big launch. What does the product pipeline look like beyond that? What's your biggest bottleneck — formulation, regulatory, manufacturing?"</li>
     <li><strong>Connect to your role:</strong> "My job as COO would be to make sure the infrastructure supports the pipeline you're building — supply chain, launch ops, regulatory timelines. What would make your life easier from an ops perspective?"</li>
     <li><strong>The Chinese language angle:</strong> Don't bring this up directly (it's awkward to say "I know you speak Chinese"). But if factory communication comes up, acknowledge: "Having direct language alignment with the factory must speed things up enormously."</li>
   </ul>
-  <p><strong>What to tell Kevin after:</strong> "Longchuan is a serious hire — the regulatory depth he brings is exactly what you need for MoCRA compliance and the topicals expansion. He's early, so I'd want to give him space to build his function. My role would be to make sure the ops side keeps pace with whatever pipeline he builds."</p>
+  <p><strong>What to tell Kevin after:</strong> "Longchuan is a serious hire — the regulatory depth she brings is exactly what you need for MoCRA compliance and the topicals expansion. She's early, so I'd want to give her space to build her function. My role would be to make sure the ops side keeps pace with whatever pipeline she builds."</p>
 </div>
 
 <div class="card">

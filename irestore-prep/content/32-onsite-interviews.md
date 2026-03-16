@@ -12,27 +12,27 @@ groupOrder: 5
 <div class="card">
   <div class="card-header">Background</div>
   <p><strong>PhD (UPenn), MBA (UC San Diego)</strong>. Career: Kate Somerville → Beiersdorf (NIVEA) → Janssen (J&J pharma) → Wella (Technical Director, Product Development) → biotech startups → iRESTORE (~3 months in as of Mar 13).</p>
-  <p><strong>Why Kevin hired him:</strong> Deep regulatory + formulation expertise across cosmetics, medical products, and pharma. Native Chinese speaker — Kevin called this "life-changing" for Shenzhen factory communication. Replacing departing PM's responsibilities.</p>
-  <p><strong>His domain:</strong> Formulations, project management for device development. Kevin retains innovation/tech strategy ("beginning and end"), Longchuan executes the middle.</p>
+  <p><strong>Why Kevin hired her:</strong> Deep regulatory + formulation expertise across cosmetics, medical products, and pharma. Native Chinese speaker — Kevin called this "life-changing" for Shenzhen factory communication. Replacing departing PM's responsibilities.</p>
+  <p><strong>Her domain:</strong> Formulations, project management for device development. Kevin retains innovation/tech strategy ("beginning and end"), Longchuan executes the middle.</p>
 </div>
 
 <h3>What Longchuan Cares About</h3>
 <ul>
-  <li><strong>Autonomy</strong> — He's a PhD with deep technical expertise. He does NOT want a COO telling him how to do product development.</li>
-  <li><strong>Resources & support</strong> — He's new, absorbing a departing PM's responsibilities, and managing a massive Q2 launch pipeline. He needs operational support, not another layer of management.</li>
-  <li><strong>MoCRA compliance</strong> — His regulatory background makes him the point person for the FDA Modernization of Cosmetics Regulation Act transition. This is a big deal he's likely thinking about.</li>
-  <li><strong>Factory communication</strong> — His Chinese language skills are a strategic asset. He'll want to know you respect that channel, not try to insert yourself into it.</li>
+  <li><strong>Autonomy</strong> — She's a PhD with deep technical expertise. She does NOT want a COO telling her how to do product development.</li>
+  <li><strong>Resources & support</strong> — She's new, absorbing a departing PM's responsibilities, and managing a massive Q2 launch pipeline. She needs operational support, not another layer of management.</li>
+  <li><strong>MoCRA compliance</strong> — Her regulatory background makes her the point person for the FDA Modernization of Cosmetics Regulation Act transition. This is a big deal she's likely thinking about.</li>
+  <li><strong>Factory communication</strong> — Her Chinese language skills are a strategic asset. She'll want to know you respect that channel, not try to insert yourself into it.</li>
 </ul>
 
 <h3>Your Angle</h3>
-<p><strong>Frame yourself as the person who clears the path for him to succeed.</strong> You're not his boss — you're the person who makes sure supply chain, ops, and launch timelines don't bottleneck his product work.</p>
+<p><strong>Frame yourself as the person who clears the path for her to succeed.</strong> You're not her boss — you're the person who makes sure supply chain, ops, and launch timelines don't bottleneck her product work.</p>
 
 <table>
   <tr><th>Do</th><th>Don't</th></tr>
-  <tr><td>Ask about his biggest operational bottlenecks</td><td>Suggest changes to product development process</td></tr>
-  <tr><td>Show curiosity about the Q2 launch complexity</td><td>Imply you'd manage or oversee his work</td></tr>
-  <tr><td>Reference MoCRA and regulatory readiness</td><td>Question his formulation or technical decisions</td></tr>
-  <tr><td>Acknowledge his factory communication advantage</td><td>Talk about "streamlining" product development</td></tr>
+  <tr><td>Ask about her biggest operational bottlenecks</td><td>Suggest changes to product development process</td></tr>
+  <tr><td>Show curiosity about the Q2 launch complexity</td><td>Imply you'd manage or oversee her work</td></tr>
+  <tr><td>Reference MoCRA and regulatory readiness</td><td>Question her formulation or technical decisions</td></tr>
+  <tr><td>Acknowledge her factory communication advantage</td><td>Talk about "streamlining" product development</td></tr>
   <tr><td>Ask: "What does a great COO look like from your seat?"</td><td>Position yourself as "the adult in the room"</td></tr>
 </table>
 
@@ -44,7 +44,7 @@ groupOrder: 5
   <li>"What did the handoff look like from the departing PM? Anything still in flux that I should know about?"</li>
 </ul>
 
-<div class="tip"><strong>Read the room:</strong> Longchuan is a serious scientist. Match his energy — be substantive, not salesy. If he gets technical, lean in and ask smart follow-ups rather than redirecting to strategy talk. He'll respect intellectual curiosity over executive posturing.</div>
+<div class="tip"><strong>Read the room:</strong> Longchuan is a serious scientist. Match her energy — be substantive, not salesy. If she gets technical, lean in and ask smart follow-ups rather than redirecting to strategy talk. She'll respect intellectual curiosity over executive posturing.</div>
 
 ---
 

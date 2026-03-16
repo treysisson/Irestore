@@ -6,7 +6,7 @@ order: 32
 group: "gameday"
 groupOrder: 5
 ---
-## Longchuan Huang, PhD — Head of Product Development
+## <a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">Longchuan Huang, PhD</a> — Head of Product Development
 <!-- id: onsite-longchuan -->
 
 <div class="card">
@@ -44,11 +44,22 @@ groupOrder: 5
   <li>"What did the handoff look like from the departing PM? Anything still in flux that I should know about?"</li>
 </ul>
 
+<h3>Questions to Ask Longchuan</h3>
+<ol>
+  <li>"What does the product development timeline look like from concept to launch right now? Where are the biggest bottlenecks?"</li>
+  <li>"You're ramping up body panels with a different manufacturer — how is that relationship compared to the core Shenzhen factory? Any quality or communication gaps?"</li>
+  <li>"How are you thinking about the skincare/topicals pipeline from a regulatory standpoint? Is MoCRA compliance something you're building toward proactively or reacting to?"</li>
+  <li>"What's the handoff like between product development and ops when something goes to production? Is there a structured process or is it more ad hoc?"</li>
+  <li>"If you had unlimited resources for one thing in product development right now, what would it be?"</li>
+  <li>"How do you see the COO role fitting into your world? What would make your job easier vs. harder?"</li>
+  <li>"Kevin mentioned he's still pretty hands-on with product — how do you two divide that? What's working and what isn't?"</li>
+</ol>
+
 <div class="tip"><strong>Read the room:</strong> Longchuan is a serious scientist. Match her energy — be substantive, not salesy. If she gets technical, lean in and ask smart follow-ups rather than redirecting to strategy talk. She'll respect intellectual curiosity over executive posturing.</div>
 
 ---
 
-## Brandon K. — Director of Operations & Supply Chain
+## <a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">Brandon K.</a> — Director of Operations & Supply Chain
 <!-- id: onsite-brandon -->
 
 <div class="card">
@@ -91,11 +102,23 @@ groupOrder: 5
   <li>"What does the Q4 planning cycle look like right now? How far out are you forecasting?"</li>
 </ul>
 
+<h3>Questions to Ask Brandon</h3>
+<ol>
+  <li>"Walk me through a container arriving at La Mirada — what does the receiving process look like end to end?"</li>
+  <li>"How are you handling demand forecasting right now? Is it spreadsheet-based, or do you have systems in place?"</li>
+  <li>"What's the warehouse capacity situation? Kevin mentioned Q4 got tight — where are you on that now?"</li>
+  <li>"With body panels launching Q2, that's a totally different form factor. How are you thinking about storage and fulfillment for those?"</li>
+  <li>"What's your relationship like with the Shenzhen factory team? How does communication flow when there's an issue?"</li>
+  <li>"If the company 2x's in the next 18 months, what breaks first in your operation?"</li>
+  <li>"What does the freight and logistics setup look like? How many containers are you bringing in per month, and how do you manage carrier relationships?"</li>
+  <li>"Is there anything you wish Kevin understood better about what it takes to run the ops side?"</li>
+</ol>
+
 <div class="tip"><strong>Note:</strong> Brandon will likely be via Zoom during the onsite (he's remote in Washington). Zoom dynamics are different — be extra warm, make eye contact with the camera, and don't let the in-person people dominate the conversation. Ask Brandon direct questions and give him space to talk.</div>
 
 ---
 
-## Saima Fariz — Chief of Staff
+## <a href="https://www.linkedin.com/in/saimafariz/" target="_blank">Saima Fariz</a> — Chief of Staff
 <!-- id: onsite-saima -->
 
 <div class="card">
@@ -133,11 +156,22 @@ groupOrder: 5
   <li>"What's the team's vibe right now with the transitions? Anything I should be sensitive to?"</li>
 </ul>
 
+<h3>Questions to Ask Saima</h3>
+<ol>
+  <li>"What's the handoff plan for Daniel's departure? What's being covered vs. what's falling through the cracks?"</li>
+  <li>"With three leadership transitions at once, how are you prioritizing backfills? What gets replaced first?"</li>
+  <li>"What does the hiring process look like right now? Kevin mentioned he's the final interview for everyone — is that sustainable?"</li>
+  <li>"How would you describe the culture here? What do people love about working at iRESTORE, and what do they complain about?"</li>
+  <li>"How do you see the COO and Chief of Staff roles dividing responsibilities? Where have you seen that relationship go wrong?"</li>
+  <li>"What's the biggest people challenge you're facing right now that an incoming COO should know about?"</li>
+  <li>"Are there roles that need to be created that don't exist yet? Any structural gaps in the org?"</li>
+</ol>
+
 <div class="tip"><strong>Key insight:</strong> Saima's CloudKitchens background means she's seen aggressive, sometimes chaotic growth environments. She'll appreciate someone who brings structure without rigidity. Show her you're the kind of COO who builds systems that make everyone's job easier — including hers.</div>
 
 ---
 
-## Kevin Chen — CEO (Round 3)
+## <a href="https://www.linkedin.com/in/kevin-chen-a5ab6b21/" target="_blank">Kevin Chen</a> — CEO (Round 3)
 <!-- id: onsite-kevin -->
 
 <div class="card">
@@ -173,6 +207,17 @@ groupOrder: 5
   <li>"You mentioned last time that you hate the 'messenger' dynamic. Let me tell you how I'd actually handle a disagreement with you..."</li>
   <li>"What's the one thing about this role that makes you nervous about hiring for it?"</li>
 </ul>
+
+<h3>Questions to Ask Kevin (Round 3)</h3>
+<ol>
+  <li>"After meeting your team today, here's what I'm seeing as the biggest unlock in the next 90 days — [X]. Am I reading that right?"</li>
+  <li>"You've talked about value creation vs. value protection. In practice, where do you see the gray areas? Where will we need to negotiate ownership?"</li>
+  <li>"What happened with the last person you considered for this role? What didn't work?"</li>
+  <li>"When you imagine this role working perfectly 6 months from now — what does that look like day-to-day? What are you NOT doing anymore?"</li>
+  <li>"What's the one decision you're sitting on right now that you wish someone else could just own?"</li>
+  <li>"How do you want to handle disagreements between us? What's your preferred dynamic when we see something differently?"</li>
+  <li>"You mentioned the exit timeline is 2-4 years. What needs to be true operationally for that to happen?"</li>
+</ol>
 
 <div class="tip"><strong>Power move:</strong> If Kevin asks "do you have any questions?" — don't pull out a list. Ask ONE question that shows you've been synthesizing everything all day. Something like: "After meeting Longchuan, Brandon, and Saima — I think the biggest unlock in the next 90 days is [X]. Am I reading that right, or am I missing something?"</div>
 

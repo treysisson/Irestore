@@ -1,10 +1,10 @@
 ---
 id: "comp"
-title: "15. Compensation & Negotiation"
+title: "Compensation & Negotiation"
 icon: "💰"
-order: 16
-group: "role"
-groupOrder: 4
+order: 99
+group: "negotiation"
+groupOrder: 1
 ---
 ## Your Equity Target: 5–8%
 <!-- id: comp-target -->

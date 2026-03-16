@@ -63,53 +63,53 @@ groupOrder: 3
 </div>
 
 <h4>📋 Example Data You Might Receive</h4>
-<p>Kevin will likely hand you something resembling this. Study the structure so nothing surprises you:</p>
+<p>Kevin will likely hand you something resembling this. Study the structure so nothing surprises you. <strong>Color key:</strong> <span style="background:#ffcdd2; padding: 2px 6px; border-radius: 3px;">Red = margin leak, action needed</span> <span style="background:#c8e6c9; padding: 2px 6px; border-radius: 3px;">Green = working well</span> <span style="background:#fff9c4; padding: 2px 6px; border-radius: 3px;">Yellow = watch / investigate</span></p>
 
 <table>
-<tr><th>Line Item</th><th>2024 Actual</th><th>% Rev</th><th>2025 Actual</th><th>% Rev</th><th>Δ</th></tr>
-<tr><td><strong>Net Revenue</strong></td><td><strong>$50.0M</strong></td><td>100%</td><td><strong>$90.0M</strong></td><td>100%</td><td>+80%</td></tr>
-<tr><td>COGS (Manufacturing)</td><td>($12.0M)</td><td>24%</td><td>($22.5M)</td><td>25%</td><td style="color:red">+1pp ⚠️</td></tr>
-<tr><td>Inbound Freight & Duties</td><td>($2.5M)</td><td>5%</td><td>($5.4M)</td><td>6%</td><td style="color:red">+1pp ⚠️</td></tr>
-<tr><td>Packaging</td><td>($0.9M)</td><td>1.8%</td><td>($1.8M)</td><td>2%</td><td>Flat</td></tr>
-<tr style="background:#e8f5e9"><td><strong>Gross Profit</strong></td><td><strong>$34.6M</strong></td><td><strong>69%</strong></td><td><strong>$60.3M</strong></td><td><strong>67%</strong></td><td style="color:red">-2pp ⚠️</td></tr>
-<tr><td>Amazon PPC</td><td>($3.2M)</td><td>6.4%</td><td>($7.0M)</td><td>7.8%</td><td style="color:red">+1.4pp ⚠️</td></tr>
-<tr><td>Meta/Google/TikTok</td><td>($3.0M)</td><td>6%</td><td>($6.5M)</td><td>7.2%</td><td style="color:red">+1.2pp ⚠️</td></tr>
-<tr><td>Influencer & Affiliates</td><td>($0.7M)</td><td>1.4%</td><td>($1.8M)</td><td>2%</td><td>+0.6pp</td></tr>
-<tr><td>Amazon Fees (Referral + FBA)</td><td>($5.0M)</td><td>10%</td><td>($10.4M)</td><td>11.6%</td><td style="color:red">+1.6pp ⚠️</td></tr>
-<tr><td>DTC Fulfillment & Shipping</td><td>($1.2M)</td><td>2.4%</td><td>($2.7M)</td><td>3%</td><td>+0.6pp</td></tr>
-<tr><td>Payment Processing</td><td>($0.4M)</td><td>0.8%</td><td>($0.8M)</td><td>0.9%</td><td>Flat</td></tr>
-<tr><td>Costco Co-op & Freight</td><td>($0.5M)</td><td>1%</td><td>($1.6M)</td><td>1.8%</td><td style="color:red">+0.8pp ⚠️</td></tr>
-<tr style="background:#e3f2fd"><td><strong>Contribution Margin</strong></td><td><strong>$19.6M</strong></td><td><strong>39%</strong></td><td><strong>$29.5M</strong></td><td><strong>33%</strong></td><td style="color:red"><strong>-6pp ⚠️⚠️</strong></td></tr>
-<tr><td>People (Salary + Benefits)</td><td>($4.8M)</td><td>9.6%</td><td>($8.1M)</td><td>9%</td><td style="color:green">-0.6pp ✓</td></tr>
-<tr><td>Technology & Software</td><td>($0.8M)</td><td>1.6%</td><td>($1.6M)</td><td>1.8%</td><td>Flat</td></tr>
-<tr><td>Rent & Facilities</td><td>($0.6M)</td><td>1.2%</td><td>($1.2M)</td><td>1.3%</td><td>Flat</td></tr>
-<tr><td>Professional Services</td><td>($0.4M)</td><td>0.8%</td><td>($0.8M)</td><td>0.9%</td><td>Flat</td></tr>
-<tr><td>G&A / Other</td><td>($1.0M)</td><td>2%</td><td>($1.6M)</td><td>1.8%</td><td style="color:green">-0.2pp ✓</td></tr>
-<tr style="background:#fff3e0"><td><strong>EBITDA</strong></td><td><strong>$12.0M</strong></td><td><strong>24%</strong></td><td><strong>$14.3M</strong></td><td><strong>16%</strong></td><td style="color:red"><strong>-8pp ⚠️⚠️⚠️</strong></td></tr>
+<tr><th>Line Item</th><th>2024 Actual</th><th>% Rev</th><th>2025 Actual</th><th>% Rev</th><th>Δ</th><th>Call Out</th></tr>
+<tr><td><strong>Net Revenue</strong></td><td><strong>$50.0M</strong></td><td>100%</td><td><strong>$90.0M</strong></td><td>100%</td><td>+80%</td><td></td></tr>
+<tr><td>COGS (Manufacturing)</td><td>($12.0M)</td><td>24%</td><td style="background:#ffcdd2">($22.5M)</td><td style="background:#ffcdd2">25%</td><td style="color:red">+1pp</td><td style="background:#ffcdd2"><strong>Should DECLINE with scale.</strong> New products (panels, belt) at higher COGS? Or tariff creep? Ask: "Is this mix shift or unit cost increase?"</td></tr>
+<tr><td>Inbound Freight & Duties</td><td>($2.5M)</td><td>5%</td><td style="background:#ffcdd2">($5.4M)</td><td style="background:#ffcdd2">6%</td><td style="color:red">+1pp</td><td style="background:#ffcdd2"><strong>Low-hanging fruit.</strong> Volume doubled but freight wasn't renegotiated. Topocean contract competitive? 12% duty rate = ~$3.6M in duties alone — is someone auditing HTS classification?</td></tr>
+<tr><td>Packaging</td><td>($0.9M)</td><td>1.8%</td><td>($1.8M)</td><td>2%</td><td>Flat</td><td></td></tr>
+<tr style="background:#e8f5e9"><td><strong>Gross Profit</strong></td><td><strong>$34.6M</strong></td><td><strong>69%</strong></td><td style="background:#fff9c4"><strong>$60.3M</strong></td><td style="background:#fff9c4"><strong>67%</strong></td><td style="color:red">-2pp</td><td style="background:#fff9c4"><strong>Still excellent for devices, but trending wrong.</strong> 2pp = $1.8M lost at $90M. Every point you recover here is worth $15M in enterprise value at 15x EBITDA.</td></tr>
+<tr><td>Amazon PPC</td><td>($3.2M)</td><td>6.4%</td><td style="background:#ffcdd2">($7.0M)</td><td style="background:#ffcdd2">7.8%</td><td style="color:red">+1.4pp</td><td style="background:#ffcdd2"><strong>ACoS rising.</strong> Competition heating up (Capillus, HairMax investing in PPC). Negative keyword audit + dayparting could recover 1-2pp. Ask: "What's our ACoS by product?"</td></tr>
+<tr><td>Meta/Google/TikTok</td><td>($3.0M)</td><td>6%</td><td style="background:#ffcdd2">($6.5M)</td><td style="background:#ffcdd2">7.2%</td><td style="color:red">+1.2pp</td><td style="background:#ffcdd2"><strong>DTC CAC rising.</strong> Is creative fatiguing? New TikTok spend not optimized yet? Ask: "What's our blended CAC and payback period by channel?"</td></tr>
+<tr><td>Influencer & Affiliates</td><td>($0.7M)</td><td>1.4%</td><td>($1.8M)</td><td>2%</td><td style="background:#fff9c4">+0.6pp</td><td style="background:#fff9c4">Growing fast. Need to track ROI per influencer. Some will be high-performers subsidizing dead weight.</td></tr>
+<tr><td>Amazon Fees (Referral + FBA)</td><td>($5.0M)</td><td>10%</td><td style="background:#ffcdd2">($10.4M)</td><td style="background:#ffcdd2">11.6%</td><td style="color:red">+1.6pp</td><td style="background:#ffcdd2"><strong>Biggest single margin leak.</strong> Amazon mix growing + FBA rate increases. Evaluate SFP (Seller-Fulfilled Prime) for oversized items. Every 1pp = $900K.</td></tr>
+<tr><td>DTC Fulfillment & Shipping</td><td>($1.2M)</td><td>2.4%</td><td>($2.7M)</td><td>3%</td><td>+0.6pp</td><td></td></tr>
+<tr><td>Payment Processing</td><td>($0.4M)</td><td>0.8%</td><td>($0.8M)</td><td>0.9%</td><td>Flat</td><td></td></tr>
+<tr><td>Costco Co-op & Freight</td><td>($0.5M)</td><td>1%</td><td style="background:#fff9c4">($1.6M)</td><td style="background:#fff9c4">1.8%</td><td style="color:red">+0.8pp</td><td style="background:#fff9c4"><strong>Costco growing but expensive.</strong> Co-op + freight-to-DC + 30% returns = is this channel actually profitable? Need a fully-loaded Costco P&L.</td></tr>
+<tr style="background:#e3f2fd"><td><strong>Contribution Margin</strong></td><td><strong>$19.6M</strong></td><td><strong>39%</strong></td><td style="background:#ffcdd2"><strong>$29.5M</strong></td><td style="background:#ffcdd2"><strong>33%</strong></td><td style="color:red"><strong>-6pp</strong></td><td style="background:#ffcdd2"><strong>This is the story of the P&L.</strong> Revenue +80%, contribution only +50%. Six cents of every new dollar leaked to variable costs.</td></tr>
+<tr><td>People (Salary + Benefits)</td><td>($4.8M)</td><td>9.6%</td><td style="background:#c8e6c9">($8.1M)</td><td style="background:#c8e6c9">9%</td><td style="color:green">-0.6pp</td><td style="background:#c8e6c9"><strong>Leverage working.</strong> Headcount grew less than revenue. Call this out — shows discipline.</td></tr>
+<tr><td>Technology & Software</td><td>($0.8M)</td><td>1.6%</td><td>($1.6M)</td><td>1.8%</td><td>Flat</td><td></td></tr>
+<tr><td>Rent & Facilities</td><td>($0.6M)</td><td>1.2%</td><td>($1.2M)</td><td>1.3%</td><td>Flat</td><td></td></tr>
+<tr><td>Professional Services</td><td>($0.4M)</td><td>0.8%</td><td>($0.8M)</td><td>0.9%</td><td>Flat</td><td></td></tr>
+<tr><td>G&A / Other</td><td>($1.0M)</td><td>2%</td><td style="background:#c8e6c9">($1.6M)</td><td style="background:#c8e6c9">1.8%</td><td style="color:green">-0.2pp</td><td style="background:#c8e6c9"><strong>Good cost discipline.</strong></td></tr>
+<tr style="background:#fff3e0"><td><strong>EBITDA</strong></td><td><strong>$12.0M</strong></td><td><strong>24%</strong></td><td style="background:#ffcdd2"><strong>$14.3M</strong></td><td style="background:#ffcdd2"><strong>16%</strong></td><td style="color:red"><strong>-8pp</strong></td><td style="background:#ffcdd2"><strong>Revenue +80%, EBITDA +19%.</strong> 8 points of margin absorbed. At $90M, each point = $900K. Recovering 4 points = $3.6M to bottom line = $54M in enterprise value at 15x.</td></tr>
 </table>
 
 <h4>🔍 How to Read This (Step-by-Step)</h4>
 <div class="card card-green">
 <p><strong>Step 1: The headline story.</strong> Revenue grew 80% but EBITDA only grew 19% ($12M → $14.3M). EBITDA margin compressed from 24% to 16%. This is the single most important thing to call out. The business is growing fast but getting less profitable per dollar.</p>
 
-<p><strong>Step 2: Where did the 8 points of margin go?</strong> Walk down line by line and flag anything that grew faster than revenue (i.e., % of rev went UP):</p>
+<p><strong>Step 2: Where did the 8 points of margin go?</strong> Walk down the red-highlighted cells — anything that grew faster than revenue (i.e., % of rev went UP):</p>
 <ul>
-<li><strong>Amazon fees:</strong> +1.6pp → Amazon mix growing and/or FBA rates increasing. $1.4M drag at $90M.</li>
-<li><strong>Amazon PPC:</strong> +1.4pp → Getting more expensive to acquire on Amazon. Possible competition heating up.</li>
-<li><strong>Meta/Google:</strong> +1.2pp → DTC CAC rising. Is creative fatiguing? Are they in new channels (TikTok) that haven't optimized yet?</li>
-<li><strong>COGS:</strong> +1pp → Should be going DOWN with scale. Are new products (body panels) at lower margin? Or is this tariff-related?</li>
-<li><strong>Freight:</strong> +1pp → Volume growth without rate renegotiation. Low-hanging fruit.</li>
-<li><strong>Costco:</strong> +0.8pp → Costco growing but the co-op costs and freight are brutal.</li>
+<li><strong>Amazon fees (+1.6pp):</strong> Biggest single leak. Amazon mix growing and/or FBA rates increasing. $1.4M drag at $90M. Ask about SFP for oversized SKUs.</li>
+<li><strong>Amazon PPC (+1.4pp):</strong> Getting more expensive to acquire on Amazon. Competition heating up (Capillus, HairMax). Negative keyword audit is a quick win.</li>
+<li><strong>Meta/Google (+1.2pp):</strong> DTC CAC rising. Creative fatigue? New TikTok spend unoptimized? Ask for blended CAC by channel.</li>
+<li><strong>COGS (+1pp):</strong> Should be going DOWN with scale. New products (body panels at ~45% COGS) dragging the blend? Or tariff creep on existing products?</li>
+<li><strong>Freight & Duties (+1pp):</strong> Volume growth without rate renegotiation. Low-hanging fruit — competitive bid the Topocean contract.</li>
+<li><strong>Costco (+0.8pp):</strong> Costco growing but co-op costs and 30% lifetime returns are brutal. Need a fully-loaded channel P&L.</li>
 </ul>
 
-<p><strong>Step 3: What's working?</strong> Don't only be negative — call out wins:</p>
+<p><strong>Step 3: Scan the green cells — what's working?</strong> Don't only be negative — call out wins:</p>
 <ul>
 <li>People costs as % of revenue went DOWN 0.6pp despite 80% growth → operational leverage working</li>
 <li>G&A declining as % → overhead being managed</li>
 <li>67% gross margin is still excellent for devices</li>
 </ul>
 
-<p><strong>Step 4: Size the opportunities.</strong> For every problem, put a dollar number on it:</p>
+<p><strong>Step 4: Size the opportunities.</strong> For every red cell, put a dollar number on the recovery:</p>
 </div>
 
 <h4>💡 The Opportunities to Present (Ranked by Impact)</h4>
@@ -137,14 +137,20 @@ groupOrder: 3
 <h4>📊 Practice P&L #2: "The New Product Drag"</h4>
 <p class="muted">Kevin might show you a P&L where new product lines (body panels, skincare wand) are dragging down the blended margin. Here's what that looks like:</p>
 
+<p style="font-size: 0.85em; margin-bottom: 0.5em;">
+<span style="display:inline-block;width:14px;height:14px;background:#c8e6c9;border:1px solid #aaa;vertical-align:middle;margin-right:3px;"></span> Strength
+<span style="display:inline-block;width:14px;height:14px;background:#ffcdd2;border:1px solid #aaa;vertical-align:middle;margin-right:3px;margin-left:10px;"></span> Problem
+<span style="display:inline-block;width:14px;height:14px;background:#fff9c4;border:1px solid #aaa;vertical-align:middle;margin-right:3px;margin-left:10px;"></span> Watch
+</p>
+
 <table>
 <tr><th>Line Item</th><th>Hair Devices</th><th>% Rev</th><th>Body Panels (New)</th><th>% Rev</th><th>Red Light Belt (New)</th><th>% Rev</th></tr>
-<tr><td><strong>Net Revenue</strong></td><td><strong>$72.0M</strong></td><td>100%</td><td><strong>$12.0M</strong></td><td>100%</td><td><strong>$6.0M</strong></td><td>100%</td></tr>
-<tr><td>COGS</td><td>($21.6M)</td><td>30%</td><td>($5.4M)</td><td>45%</td><td>($2.4M)</td><td>40%</td></tr>
-<tr style="background:#e8f5e9"><td><strong>Gross Profit</strong></td><td><strong>$50.4M</strong></td><td><strong>70%</strong></td><td><strong>$6.6M</strong></td><td><strong>55%</strong></td><td><strong>$3.6M</strong></td><td><strong>60%</strong></td></tr>
-<tr><td>Ad Spend / CAC</td><td>($9.4M)</td><td>13%</td><td>($3.6M)</td><td>30%</td><td>($2.1M)</td><td>35%</td></tr>
-<tr><td>Channel & Fulfillment</td><td>($11.5M)</td><td>16%</td><td>($2.4M)</td><td>20%</td><td>($1.2M)</td><td>20%</td></tr>
-<tr style="background:#e3f2fd"><td><strong>Contribution Margin</strong></td><td><strong>$29.5M</strong></td><td><strong>41%</strong></td><td><strong>$0.6M</strong></td><td><strong>5%</strong></td><td><strong>$0.3M</strong></td><td><strong>5%</strong></td></tr>
+<tr><td><strong>Net Revenue</strong></td><td style="background:#c8e6c9;"><strong>$72.0M</strong></td><td>100%</td><td><strong>$12.0M</strong></td><td>100%</td><td><strong>$6.0M</strong></td><td>100%</td></tr>
+<tr><td>COGS</td><td>($21.6M)</td><td style="background:#c8e6c9;">30%</td><td>($5.4M)</td><td style="background:#ffcdd2;">45%</td><td>($2.4M)</td><td style="background:#ffcdd2;">40%</td></tr>
+<tr style="background:#e8f5e9"><td><strong>Gross Profit</strong></td><td><strong>$50.4M</strong></td><td style="background:#c8e6c9;"><strong>70%</strong></td><td><strong>$6.6M</strong></td><td style="background:#fff9c4;"><strong>55%</strong></td><td><strong>$3.6M</strong></td><td style="background:#fff9c4;"><strong>60%</strong></td></tr>
+<tr><td>Ad Spend / CAC</td><td>($9.4M)</td><td style="background:#c8e6c9;">13%</td><td>($3.6M)</td><td style="background:#ffcdd2;">30%</td><td>($2.1M)</td><td style="background:#ffcdd2;">35%</td></tr>
+<tr><td>Channel & Fulfillment</td><td>($11.5M)</td><td>16%</td><td>($2.4M)</td><td style="background:#fff9c4;">20%</td><td>($1.2M)</td><td style="background:#fff9c4;">20%</td></tr>
+<tr style="background:#e3f2fd"><td><strong>Contribution Margin</strong></td><td style="background:#c8e6c9;"><strong>$29.5M</strong></td><td style="background:#c8e6c9;"><strong>41%</strong></td><td><strong>$0.6M</strong></td><td style="background:#ffcdd2;"><strong>5%</strong></td><td><strong>$0.3M</strong></td><td style="background:#ffcdd2;"><strong>5%</strong></td></tr>
 </table>
 
 <div class="card card-green">
@@ -164,17 +170,23 @@ groupOrder: 3
 <h4>📊 Practice P&L #3: "The Quarterly Trend"</h4>
 <p class="muted">Kevin might show you quarterly data to see if you can spot seasonality and trend problems. This is common for DTC companies with Q4 peaks.</p>
 
+<p style="font-size: 0.85em; margin-bottom: 0.5em;">
+<span style="display:inline-block;width:14px;height:14px;background:#c8e6c9;border:1px solid #aaa;vertical-align:middle;margin-right:3px;"></span> Strength
+<span style="display:inline-block;width:14px;height:14px;background:#ffcdd2;border:1px solid #aaa;vertical-align:middle;margin-right:3px;margin-left:10px;"></span> Problem
+<span style="display:inline-block;width:14px;height:14px;background:#fff9c4;border:1px solid #aaa;vertical-align:middle;margin-right:3px;margin-left:10px;"></span> Watch
+</p>
+
 <table>
 <tr><th>Metric</th><th>Q1 2025</th><th>Q2 2025</th><th>Q3 2025</th><th>Q4 2025</th><th>FY 2025</th></tr>
-<tr><td><strong>Net Revenue</strong></td><td>$16.2M</td><td>$18.0M</td><td>$20.7M</td><td>$35.1M</td><td><strong>$90.0M</strong></td></tr>
-<tr><td>COGS %</td><td>33%</td><td>32%</td><td>31%</td><td>35%</td><td>33%</td></tr>
-<tr><td><strong>Gross Margin</strong></td><td><strong>67%</strong></td><td><strong>68%</strong></td><td><strong>69%</strong></td><td><strong>65%</strong></td><td><strong>67%</strong></td></tr>
-<tr><td>Total CAC %</td><td>19%</td><td>18%</td><td>16%</td><td>15%</td><td>17%</td></tr>
-<tr><td>Channel & Fulfillment %</td><td>18%</td><td>17%</td><td>16%</td><td>18%</td><td>17%</td></tr>
-<tr style="background:#e3f2fd"><td><strong>Contribution Margin %</strong></td><td><strong>30%</strong></td><td><strong>33%</strong></td><td><strong>37%</strong></td><td><strong>32%</strong></td><td><strong>33%</strong></td></tr>
-<tr><td>OpEx %</td><td>21%</td><td>19%</td><td>17%</td><td>13%</td><td>17%</td></tr>
-<tr style="background:#fff3e0"><td><strong>EBITDA %</strong></td><td><strong>9%</strong></td><td><strong>14%</strong></td><td><strong>20%</strong></td><td><strong>19%</strong></td><td><strong>16%</strong></td></tr>
-<tr><td>Return Rate</td><td>8%</td><td>9%</td><td>9%</td><td>14%</td><td>10%</td></tr>
+<tr><td><strong>Net Revenue</strong></td><td>$16.2M</td><td>$18.0M</td><td>$20.7M</td><td style="background:#c8e6c9;">$35.1M</td><td><strong>$90.0M</strong></td></tr>
+<tr><td>COGS %</td><td>33%</td><td>32%</td><td style="background:#c8e6c9;">31%</td><td style="background:#ffcdd2;">35%</td><td>33%</td></tr>
+<tr><td><strong>Gross Margin</strong></td><td><strong>67%</strong></td><td><strong>68%</strong></td><td style="background:#c8e6c9;"><strong>69%</strong></td><td style="background:#ffcdd2;"><strong>65%</strong></td><td><strong>67%</strong></td></tr>
+<tr><td>Total CAC %</td><td style="background:#ffcdd2;">19%</td><td>18%</td><td>16%</td><td style="background:#c8e6c9;">15%</td><td>17%</td></tr>
+<tr><td>Channel & Fulfillment %</td><td>18%</td><td>17%</td><td style="background:#c8e6c9;">16%</td><td style="background:#fff9c4;">18%</td><td>17%</td></tr>
+<tr style="background:#e3f2fd"><td><strong>Contribution Margin %</strong></td><td style="background:#fff9c4;"><strong>30%</strong></td><td><strong>33%</strong></td><td style="background:#c8e6c9;"><strong>37%</strong></td><td><strong>32%</strong></td><td><strong>33%</strong></td></tr>
+<tr><td>OpEx %</td><td style="background:#ffcdd2;">21%</td><td>19%</td><td>17%</td><td style="background:#c8e6c9;">13%</td><td>17%</td></tr>
+<tr style="background:#fff3e0"><td><strong>EBITDA %</strong></td><td style="background:#ffcdd2;"><strong>9%</strong></td><td><strong>14%</strong></td><td style="background:#c8e6c9;"><strong>20%</strong></td><td style="background:#c8e6c9;"><strong>19%</strong></td><td><strong>16%</strong></td></tr>
+<tr><td>Return Rate</td><td style="background:#c8e6c9;">8%</td><td>9%</td><td>9%</td><td style="background:#ffcdd2;">14%</td><td>10%</td></tr>
 </table>
 
 <div class="card card-green">
@@ -192,28 +204,110 @@ groupOrder: 3
 </div>
 
 <h4>📊 Practice P&L #4: "The SKU-Level View"</h4>
-<p class="muted">If Kevin goes granular and shows you product-level data, here's how to read it:</p>
+<p class="muted">If Kevin goes granular and shows you product-level data, here's how to read it. Based on iRESTORE's actual product lineup and price points:</p>
+
+<p style="font-size: 0.85em; margin-bottom: 0.5em;">
+<span style="display:inline-block;width:14px;height:14px;background:#c8e6c9;border:1px solid #aaa;vertical-align:middle;margin-right:3px;"></span> Strength / protect this
+<span style="display:inline-block;width:14px;height:14px;background:#ffcdd2;border:1px solid #aaa;vertical-align:middle;margin-right:3px;margin-left:10px;"></span> Problem / action needed
+<span style="display:inline-block;width:14px;height:14px;background:#fff9c4;border:1px solid #aaa;vertical-align:middle;margin-right:3px;margin-left:10px;"></span> Watch / opportunity
+</p>
 
 <table>
-<tr><th>Product</th><th>Revenue</th><th>Mix</th><th>Gross Margin</th><th>Units</th><th>ASP</th><th>Return Rate</th></tr>
-<tr><td>Pro Helmet (iR1080)</td><td>$38.0M</td><td>42%</td><td>72%</td><td>48K</td><td>$795</td><td>7%</td></tr>
-<tr><td>Essential Helmet (iR272)</td><td>$22.0M</td><td>24%</td><td>68%</td><td>56K</td><td>$395</td><td>9%</td></tr>
-<tr><td>Laser Cap (iR148)</td><td>$10.0M</td><td>11%</td><td>65%</td><td>33K</td><td>$299</td><td>12%</td></tr>
-<tr><td>Body Panels</td><td>$8.0M</td><td>9%</td><td>55%</td><td>8K</td><td>$999</td><td>15%</td></tr>
-<tr><td>Red Light Belt</td><td>$4.0M</td><td>4%</td><td>58%</td><td>13K</td><td>$299</td><td>11%</td></tr>
-<tr><td>Serums & Accessories</td><td>$8.0M</td><td>9%</td><td>80%</td><td>200K</td><td>$40</td><td>3%</td></tr>
+<tr><th>Product</th><th>ASP</th><th>Revenue</th><th>Mix</th><th>Gross Margin</th><th>Units</th><th>Return Rate</th><th>Call Out</th></tr>
+<tr>
+  <td><strong>Elite Helmet</strong> (500 diodes)</td>
+  <td>$1,899</td>
+  <td style="background:#c8e6c9;">$34.2M</td>
+  <td>38%</td>
+  <td style="background:#c8e6c9;">74%</td>
+  <td>18K</td>
+  <td style="background:#c8e6c9;">5%</td>
+  <td style="background:#c8e6c9;font-size:0.85em;">🟢 Flagship cash cow. Highest margin, lowest returns. 18K units × $1,405 gross profit = $25.3M. Protect the brand and justify the premium.</td>
+</tr>
+<tr>
+  <td><strong>Professional Helmet</strong> (282 diodes)</td>
+  <td>$899</td>
+  <td>$22.5M</td>
+  <td>25%</td>
+  <td>70%</td>
+  <td>25K</td>
+  <td>8%</td>
+  <td style="background:#c8e6c9;font-size:0.85em;">🟢 Volume workhorse. Solid margin at lower price. Good entry point that doesn't cannibalize Elite — different buyer psychology.</td>
+</tr>
+<tr>
+  <td><strong>Essential Helmet</strong> (120 diodes)</td>
+  <td>$499</td>
+  <td>$11.0M</td>
+  <td>12%</td>
+  <td style="background:#fff9c4;">64%</td>
+  <td>22K</td>
+  <td style="background:#ffcdd2;">12%</td>
+  <td style="background:#ffcdd2;font-size:0.85em;">🔴 Worst return rate of helmets. Buyers at $499 may have higher expectations vs. results from only 120 diodes. Is this creating negative word-of-mouth?</td>
+</tr>
+<tr>
+  <td><strong>Illumina Face Mask</strong> (360 LEDs)</td>
+  <td>$499</td>
+  <td style="background:#fff9c4;">$8.5M</td>
+  <td>9%</td>
+  <td style="background:#fff9c4;">66%</td>
+  <td>17K</td>
+  <td>9%</td>
+  <td style="background:#fff9c4;font-size:0.85em;">🟡 New category, still ramping. 9% mix is solid for year one. Watch margin — LED skincare is more competitive than hair. Cross-sell to helmet buyers is the play.</td>
+</tr>
+<tr>
+  <td><strong>Illumina Neck & Chest</strong> (230 LEDs)</td>
+  <td>$399</td>
+  <td>$3.2M</td>
+  <td>4%</td>
+  <td>62%</td>
+  <td>8K</td>
+  <td style="background:#ffcdd2;">14%</td>
+  <td style="background:#ffcdd2;font-size:0.85em;">🔴 14% returns at $399 = expensive. Body skincare devices have a results-expectation problem. Needs better pre-purchase education or bundle-only positioning.</td>
+</tr>
+<tr>
+  <td><strong>Illumina Eye Mask</strong> (180 LEDs)</td>
+  <td>$249</td>
+  <td>$2.0M</td>
+  <td>2%</td>
+  <td>60%</td>
+  <td>8K</td>
+  <td>10%</td>
+  <td style="font-size:0.85em;">Small SKU. Monitor — if Illumina line takes off, this could be a gateway product. Low risk at 2% of mix.</td>
+</tr>
+<tr>
+  <td><strong>Serums, Skincare & Supplements</strong></td>
+  <td>$35–75</td>
+  <td style="background:#c8e6c9;">$8.6M</td>
+  <td style="background:#c8e6c9;">10%</td>
+  <td style="background:#c8e6c9;">82%</td>
+  <td>180K</td>
+  <td style="background:#c8e6c9;">2%</td>
+  <td style="background:#c8e6c9;font-size:0.85em;">🟢 Repeat-purchase gold mine. 82% margin, 2% returns, near-zero CAC on reorders. Includes REVIVE hair serums ($60), shampoo/conditioner ($40), supplements ($35-90), and RENEW skincare ($30-75). Growing this from 10% → 18% of mix is a $7M+ opportunity.</td>
+</tr>
+<tr style="font-weight:bold; border-top: 2px solid #333;">
+  <td><strong>TOTAL</strong></td>
+  <td>—</td>
+  <td>$90.0M</td>
+  <td>100%</td>
+  <td>71%</td>
+  <td>278K</td>
+  <td>7.4%</td>
+  <td></td>
+</tr>
 </table>
 
 <div class="card card-green">
 <p><strong>How to read it:</strong></p>
 <ul>
-<li><strong>The Pro Helmet is the franchise.</strong> 42% of revenue, highest margin (72%), lowest return rate (7%). Protect this at all costs.</li>
-<li><strong>Serums & Accessories at 80% gross margin and 3% returns</strong> — this is the repeat-purchase gold mine. At $8M, it's already meaningful. Every helmet customer who buys 2 serums/year ($80) adds $64 of gross profit at near-zero CAC. Growing this from 9% to 15% of mix is a $5M+ opportunity.</li>
-<li><strong>The Laser Cap has the worst return/margin combo</strong> — 12% returns and 65% margin. This is likely the "I expected it to work faster" product. Consider: is this SKU worth keeping, or does it cannibalize Essential Helmet sales at a worse margin?</li>
-<li><strong>Body Panels: 15% return rate at $999 ASP</strong> is expensive. Each return costs ~$50 in processing + ~$150 in reverse freight for oversized items. That's ~1,200 returns/year costing $240K in processing alone.</li>
+<li><strong>The Elite Helmet is the franchise.</strong> 38% of revenue at 74% gross margin and only 5% returns. At $1,899, each unit delivers ~$1,405 in gross profit. This is the SKU that funds everything else. Protect the brand positioning — don't discount this, don't put it on Costco shelves.</li>
+<li><strong>Elite + Professional = 63% of revenue</strong> and both are healthy. The two-tier helmet strategy works — different price points attract different buyers without cannibalization. The Professional at $899 is the volume play; the Elite is the profit play.</li>
+<li><strong>The Essential Helmet has the worst return profile</strong> — 12% returns at the lowest margin (64%) of any helmet. At $439, buyers may expect results comparable to higher-diode models. This is the "disappointed expectations" SKU. Worth investigating: are Essential returns driven by efficacy complaints or price-sensitivity (impulse buy → regret)?</li>
+<li><strong>Illumina Neck & Chest at 14% returns</strong> is the biggest per-unit return cost problem. At $399 ASP, each return costs ~$40 in processing + restock. That's 1,120 returns × $40 = ~$45K in direct processing costs, plus the lost margin. Bundle-only (with Face Mask as the "Duo" at $898) or better expectation-setting content could cut this significantly.</li>
+<li><strong>Consumables at 82% margin are the hidden weapon.</strong> $8.6M at 2% returns across REVIVE hair care (serums $60, shampoo/conditioner $40, supplements $35-90) and RENEW skincare ($30-75). Every helmet customer who subscribes to a monthly replenishment adds ~$480/year at 82% margin — that's $394 of gross profit per subscriber at near-zero incremental CAC. If 30% of device buyers subscribe (vs. maybe 15% today), that's a $5-7M revenue lift at 82% margin.</li>
+<li><strong>The Illumina line is a bet on category expansion.</strong> Face + Neck + Eye = $13.7M (15% of mix) in what's likely year one. They're also selling bundles (Duo at $898, Trio at $1,197) which boost AOV. If the skincare LED market grows as projected, this could be 25-30% of revenue in 2 years. But watch the Neck & Chest returns closely — a bad reputation in a new category kills growth.</li>
 </ul>
 
-<p><strong>What to say:</strong> "Your SKU economics tell a clear story: the Pro Helmet and Serums are your profit engines. I'd double down on the cross-sell — every Pro Helmet buyer should get a serum subscription offer at checkout and a 90-day replenishment email. The Laser Cap concerns me — 12% returns and lowest margin. I'd want to understand if it's cannibalizing the Essential Helmet. If customers are choosing Cap over Essential and returning at a higher rate, we might be leaving $3-5M of higher-margin revenue on the table. And on Body Panels — 15% returns at $999 means we need a much better pre-purchase expectation-setting flow. A 60-second video showing realistic results timeline could cut returns by a third."</p>
+<p><strong>What to say:</strong> "Your SKU data tells me three things. First, the Elite Helmet is your franchise — 38% of revenue at 74% margin and 5% returns. That's a $25M gross profit engine from a single SKU. Protect the brand, don't discount, don't channel-stuff this into Costco. Second, I'm concerned about the Essential at $499 — 12% returns at the lowest helmet margin. I'd want to dig into the return reasons. If it's efficacy disappointment from only 120 diodes, we might be better off sunsetting this and steering budget buyers to the Professional with financing. Third, your REVIVE and RENEW consumables at 82% margin are the unlock. You've got a full product ecosystem now — serums, shampoo, conditioner, supplements, skincare. If we get device-to-subscription attach rate from 15% to 30%, that's $5-7M of nearly pure profit. I'd build the subscription offer into the unboxing experience — QR code in the box, 20% off first 3 months, auto-replenish."</p>
 </div>
 
 <h4>⚡ Sub-Scenarios: What If the Data Looks Different?</h4>
@@ -243,6 +337,68 @@ groupOrder: 3
 <li><strong>Don't ignore the growth story.</strong> 80% YoY is incredible. Lead with respect for what they've built, then show how to make it more profitable.</li>
 <li><strong>Don't propose a 6-month study.</strong> Kevin wants "here's what I'd do Monday morning."</li>
 </ul>
+
+<h4>📊 Quick-Reference Summary Tables</h4>
+
+<p><strong>Margin Compression Waterfall — Where the 8 Points Went</strong></p>
+<table>
+<tr><th>Cost Category</th><th>2024 % Rev</th><th>2025 % Rev</th><th>Δ (pp)</th><th>$ Impact at $90M</th></tr>
+<tr><td>Amazon Fees (Referral + FBA)</td><td>10.0%</td><td>11.6%</td><td style="background:#ffcdd2;">+1.6</td><td>$1.4M</td></tr>
+<tr><td>Amazon PPC</td><td>6.4%</td><td>7.8%</td><td style="background:#ffcdd2;">+1.4</td><td>$1.3M</td></tr>
+<tr><td>Meta / Google / TikTok</td><td>6.0%</td><td>7.2%</td><td style="background:#ffcdd2;">+1.2</td><td>$1.1M</td></tr>
+<tr><td>COGS</td><td>24.0%</td><td>25.0%</td><td style="background:#ffcdd2;">+1.0</td><td>$0.9M</td></tr>
+<tr><td>Inbound Freight & Duties</td><td>5.0%</td><td>6.0%</td><td style="background:#ffcdd2;">+1.0</td><td>$0.9M</td></tr>
+<tr><td>Costco Co-op & Freight</td><td>1.0%</td><td>1.8%</td><td style="background:#fff9c4;">+0.8</td><td>$0.7M</td></tr>
+<tr><td>Influencer & Affiliates</td><td>1.4%</td><td>2.0%</td><td style="background:#fff9c4;">+0.6</td><td>$0.5M</td></tr>
+<tr><td>DTC Fulfillment & Shipping</td><td>2.4%</td><td>3.0%</td><td>+0.6</td><td>$0.5M</td></tr>
+<tr><td>People (helped offset)</td><td>9.6%</td><td>9.0%</td><td style="background:#c8e6c9;">-0.6</td><td>($0.5M)</td></tr>
+<tr><td>G&A / Other (helped offset)</td><td>2.0%</td><td>1.8%</td><td style="background:#c8e6c9;">-0.2</td><td>($0.2M)</td></tr>
+<tr style="font-weight:bold; border-top:2px solid #333;"><td>Net Margin Compression</td><td></td><td></td><td style="background:#ffcdd2;"><strong>+7.4pp</strong></td><td><strong>$6.6M</strong></td></tr>
+</table>
+
+<p><strong>Unit Economics Snapshot — Per Device Sold</strong></p>
+<table>
+<tr><th>Metric</th><th>Elite ($1,899)</th><th>Professional ($899)</th><th>Essential ($499)</th><th>Illumina Face ($499)</th></tr>
+<tr><td>Gross Profit / Unit</td><td style="background:#c8e6c9;">$1,405</td><td>$629</td><td>$319</td><td>$329</td></tr>
+<tr><td>Est. Blended CAC / Unit</td><td>$285</td><td>$180</td><td>$125</td><td>$150</td></tr>
+<tr><td>Amazon Fee / Unit (if FBA)</td><td>$220</td><td>$104</td><td>$58</td><td>$58</td></tr>
+<tr><td>Return Cost / Return</td><td>$95</td><td>$45</td><td>$25</td><td>$25</td></tr>
+<tr><td>Return Rate</td><td style="background:#c8e6c9;">5%</td><td>8%</td><td style="background:#ffcdd2;">12%</td><td>9%</td></tr>
+<tr><td><strong>Fully-Loaded Contribution / Unit</strong></td><td style="background:#c8e6c9;"><strong>$896</strong></td><td><strong>$343</strong></td><td style="background:#fff9c4;"><strong>$133</strong></td><td><strong>$143</strong></td></tr>
+</table>
+
+<p><strong>Revenue Concentration Risk</strong></p>
+<table>
+<tr><th>Dimension</th><th>Top Segment</th><th>% of Revenue</th><th>Risk Level</th></tr>
+<tr><td>Product</td><td>Elite + Professional Helmets</td><td style="background:#fff9c4;">63%</td><td>Two SKUs = 63% of revenue</td></tr>
+<tr><td>Channel</td><td>Amazon (est.)</td><td style="background:#ffcdd2;">~43%</td><td>Platform risk + rising fees</td></tr>
+<tr><td>Geography</td><td>United States</td><td style="background:#fff9c4;">~85%+</td><td>Minimal international diversification</td></tr>
+<tr><td>Category</td><td>Hair Growth Devices</td><td>~75%</td><td>Illumina skincare still early</td></tr>
+<tr><td>Season</td><td>Q4 (Holiday)</td><td style="background:#fff9c4;">~39%</td><td>Cash flow stress in Q1</td></tr>
+</table>
+
+<h4>❓ Practice Questions — Kevin Might Ask You These</h4>
+<p class="muted">Try answering these cold, then come back with your responses and I'll grade them. These are the kinds of follow-up questions Kevin would ask after handing you the P&L.</p>
+
+<div class="card card-yellow">
+<ol>
+<li><strong>"Our EBITDA margin went from 24% to 16% while revenue grew 80%. Is that a problem, or is that just the cost of growth?"</strong></li>
+
+<li><strong>"Amazon fees are our biggest cost after COGS. What would you actually do about that in your first 90 days?"</strong></li>
+
+<li><strong>"We're thinking about expanding into Costco more aggressively. They want us in 200 more stores. Should we do it?"</strong></li>
+
+<li><strong>"Our return rate is about 10% blended. What's your approach to getting that down?"</strong></li>
+
+<li><strong>"We have a family-owned factory in Shenzhen. How does that change how you think about our COGS?"</strong></li>
+
+<li><strong>"If you could only fix three things on this P&L in your first 6 months, what would they be and why those three?"</strong></li>
+
+<li><strong>"Our Essential helmet has the highest return rate but it's also our entry-level product that gets people into the brand. Do we kill it?"</strong></li>
+
+<li><strong>"How would you think about the right marketing spend level? We're at about 17% of revenue on total ad spend — too much, too little, or about right?"</strong></li>
+</ol>
+</div>
 
 ---
 

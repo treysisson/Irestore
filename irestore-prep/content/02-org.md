@@ -9,79 +9,13 @@ groupOrder: 2
 ## Organization Chart
 <!-- id: org-chart -->
 
-<p>Based on Kevin's descriptions in the first call. iRESTORE runs very flat — no C-suite besides Kevin. The COO/Integrator role would sit directly below Kevin and above all current department heads.</p>
+<p>Based on Kevin's descriptions across both interviews. Kevin owns "value creation" (marketing, sales, product innovation, distribution) while the COO owns "value protection" (operations, finance, CX, supply chain). This is NOT a traditional V/I model — Kevin explicitly does not want everything funneling through one person.</p>
 
       <div class="org-chart">
         <div class="org-node ceo">
-          <div class="org-name">Kevin Chen</div>
+          <div class="org-name"><a href="https://www.linkedin.com/in/kevin-chen-a5ab6b21/" target="_blank">Kevin Chen</a></div>
           <div class="org-title">Co-Founder & CEO / Visionary</div>
           <div class="org-note">Lives in Brentwood, in office 1-2x/week</div>
-        </div>
-        <div class="org-connector"></div>
-        <div class="org-node you">
-          <div class="org-name">COO / Integrator (You)</div>
-          <div class="org-title">Chief Operating Officer</div>
-          <div class="org-note">New role — all dept heads would report here</div>
-        </div>
-        <div class="org-connector"></div>
-        <div class="org-row">
-          <div class="org-branch">
-            <div class="org-connector"></div>
-            <div class="org-node">
-              <div class="org-name">Junior Reyes</div>
-              <div class="org-title">VP of Growth & Data</div>
-              <div class="org-note">Dir. of E-Comm reports to them<br>Manages Amazon, Target, misc channels<br>Marketing team (remote)</div>
-            </div>
-          </div>
-          <div class="org-branch">
-            <div class="org-connector"></div>
-            <div class="org-node">
-              <div class="org-name"><a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">Brandon</a></div>
-              <div class="org-title">Director of Ops & Supply Chain</div>
-              <div class="org-note">Overseas ops, supply chain, logistics<br>La Mirada warehouse<br>Reliable but not strategic</div>
-            </div>
-          </div>
-          <div class="org-branch">
-            <div class="org-connector"></div>
-            <div class="org-node">
-              <div class="org-name">Longchuan Huang, PhD</div>
-              <div class="org-title">Head of Product Development</div>
-              <div class="org-note">~3 months in, from OUAI Haircare<br>PhD (UPenn), MBA (UCSD)<br>Prior: Kate Somerville, Beiersdorf, Janssen<br>Native Chinese speaker<br>Kevin still heavily involved</div>
-            </div>
-          </div>
-          <div class="org-branch">
-            <div class="org-connector"></div>
-            <div class="org-node">
-              <div class="org-name">Financial Controller</div>
-              <div class="org-title">Finance & Accounting</div>
-              <div class="org-note">Been there several years<br>Tax & accounting, not FP&A<br>Fractional CFO supports strategy</div>
-            </div>
-          </div>
-          <div class="org-branch">
-            <div class="org-connector"></div>
-            <div class="org-node">
-              <div class="org-name">Amanda Schoep</div>
-              <div class="org-title">Dir. of Customer Experience</div>
-              <div class="org-note">Promoted Aug 2024 from Sr. Growth Mktg Mgr<br>3+ yrs at iRESTORE; UCF grad<br>7-day support (email/chat/phone)</div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="tip">Kevin also mentioned: ~80 FTE + ~50 overseas (at/near father's factory) + contractors = 100+ total. Ops, warehouse, and finance are in-office at La Mirada. Marketing is fully remote.</div>
-
----
-
-## Alternate Org Chart: Marketing → Kevin
-<!-- id: org-chart-alt -->
-
-<p><strong>Alternative view:</strong> In this model, the VP of Growth / Marketing reports directly to Kevin (the Visionary) rather than through the COO. This reflects Kevin's deep involvement in brand, product marketing, and growth strategy — areas where Visionaries in EOS often want to stay hands-on.</p>
-
-      <div class="org-chart">
-        <div class="org-node ceo">
-          <div class="org-name">Kevin Chen</div>
-          <div class="org-title">Co-Founder & CEO / Visionary</div>
-          <div class="org-note">Two direct reports: COO + VP of Growth</div>
         </div>
         <div class="org-connector"></div>
         <div class="org-row">
@@ -90,15 +24,31 @@ groupOrder: 2
             <div class="org-node you">
               <div class="org-name">COO / Integrator (You)</div>
               <div class="org-title">Chief Operating Officer</div>
-              <div class="org-note">Owns execution & systems</div>
+              <div class="org-note">Value Protection: Ops, Finance, CX, Supply Chain</div>
             </div>
           </div>
           <div class="org-branch">
             <div class="org-connector"></div>
             <div class="org-node" style="border-color: #f57c00; background: #fff3e0;">
-              <div class="org-name">Junior Reyes</div>
+              <div class="org-name"><a href="https://www.linkedin.com/in/reyesjunior/" target="_blank">Junior Reyes</a></div>
               <div class="org-title">VP of Growth & Data</div>
-              <div class="org-note">Reports directly to Kevin</div>
+              <div class="org-note">Marketing (remote team)<br>Reports to Kevin</div>
+            </div>
+          </div>
+          <div class="org-branch">
+            <div class="org-connector"></div>
+            <div class="org-node" style="border-color: #f57c00; background: #fff3e0;">
+              <div class="org-name"><a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">Longchuan Huang, PhD</a></div>
+              <div class="org-title">Head of Product Development</div>
+              <div class="org-note">Innovation & formulations<br>Reports to Kevin</div>
+            </div>
+          </div>
+          <div class="org-branch">
+            <div class="org-connector"></div>
+            <div class="org-node" style="border-color: #f57c00; background: #fff3e0;">
+              <div class="org-name"><a href="https://www.linkedin.com/in/edan-barel-9a811a1bb/" target="_blank">Edan Barel</a></div>
+              <div class="org-title">Head of B2B Sales</div>
+              <div class="org-note">New hire, clinic/salon channel<br>Reports to Kevin</div>
             </div>
           </div>
         </div>
@@ -113,33 +63,33 @@ groupOrder: 2
               <div class="org-branch">
                 <div class="org-connector"></div>
                 <div class="org-node">
-                  <div class="org-name"><a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">Brandon</a></div>
+                  <div class="org-name"><a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">Brandon K.</a></div>
                   <div class="org-title">Dir. Ops & Supply Chain</div>
-                  <div class="org-note">Overseas ops, logistics<br>La Mirada warehouse</div>
+                  <div class="org-note">La Mirada warehouse, logistics<br>Remote (Washington State)</div>
                 </div>
               </div>
               <div class="org-branch">
                 <div class="org-connector"></div>
                 <div class="org-node">
-                  <div class="org-name">Longchuan Huang, PhD</div>
-                  <div class="org-title">Product Development</div>
-                  <div class="org-note">~3 months in, from OUAI<br>PhD (UPenn), MBA (UCSD)<br>Native Chinese speaker</div>
-                </div>
-              </div>
-              <div class="org-branch">
-                <div class="org-connector"></div>
-                <div class="org-node">
-                  <div class="org-name">Financial Controller</div>
-                  <div class="org-title">Finance & Accounting</div>
+                  <div class="org-name"><a href="https://www.linkedin.com/in/angel-chao-449a8877/" target="_blank">Angel Chao</a></div>
+                  <div class="org-title">Financial Controller</div>
                   <div class="org-note">Tax & accounting<br>Fractional CFO for strategy</div>
                 </div>
               </div>
               <div class="org-branch">
                 <div class="org-connector"></div>
                 <div class="org-node">
-                  <div class="org-name">Amanda Schoep</div>
-                  <div class="org-title">Dir. Customer Experience</div>
-                  <div class="org-note">Promoted Aug 2024<br>3+ yrs at iRESTORE</div>
+                  <div class="org-name">CX Director (TBH)</div>
+                  <div class="org-title">Customer Experience</div>
+                  <div class="org-note">Amanda Schoep departing<br>25-person team → rightsize + AI</div>
+                </div>
+              </div>
+              <div class="org-branch">
+                <div class="org-connector"></div>
+                <div class="org-node">
+                  <div class="org-name"><a href="https://www.linkedin.com/in/saimafariz/" target="_blank">Saima Fariz</a></div>
+                  <div class="org-title">Chief of Staff</div>
+                  <div class="org-note">Replacing Daniel Ju<br>HR, people ops, culture</div>
                 </div>
               </div>
             </div>
@@ -147,31 +97,31 @@ groupOrder: 2
         </div>
         <div style="flex: 1; min-width: 280px;">
           <div class="org-chart">
-            <div class="org-sub-label" style="color: #f57c00;">Kevin's Marketing Arm</div>
+            <div class="org-sub-label" style="color: #f57c00;">Kevin's Direct Reports</div>
             <div class="org-connector"></div>
             <div class="org-row">
               <div class="org-branch">
                 <div class="org-connector"></div>
                 <div class="org-node" style="border-color: #f57c00;">
-                  <div class="org-name">Dir. Growth Marketing</div>
-                  <div class="org-title">Paid Media & Performance</div>
-                  <div class="org-note">Matt Parmely (Austin, TX)</div>
+                  <div class="org-name"><a href="https://www.linkedin.com/in/mattparmely/" target="_blank">Matt Parmely</a></div>
+                  <div class="org-title">Dir. Growth Marketing</div>
+                  <div class="org-note">Paid media & performance<br>Reports through Junior</div>
                 </div>
               </div>
               <div class="org-branch">
                 <div class="org-connector"></div>
                 <div class="org-node" style="border-color: #f57c00;">
-                  <div class="org-name">Sr. E-Comm Manager</div>
-                  <div class="org-title">Shopify & Marketplace</div>
-                  <div class="org-note">Amazon, DTC, Costco channels</div>
+                  <div class="org-name"><a href="https://www.linkedin.com/in/dianedaykim/" target="_blank">Diane Kim</a></div>
+                  <div class="org-title">Head of Performance Creative</div>
+                  <div class="org-note">Creative strategy<br>Reports through Junior</div>
                 </div>
               </div>
               <div class="org-branch">
                 <div class="org-connector"></div>
                 <div class="org-node" style="border-color: #f57c00;">
-                  <div class="org-name">Content & Influencer</div>
-                  <div class="org-title">Brand & Creative</div>
-                  <div class="org-note">Art Director, Influencer Mgr<br>All remote (NY, FL, LV)</div>
+                  <div class="org-name">B2B Sales Team</div>
+                  <div class="org-title">Clinic & Salon Channel</div>
+                  <div class="org-note">New division<br>Reports through Edan</div>
                 </div>
               </div>
             </div>
@@ -179,17 +129,7 @@ groupOrder: 2
         </div>
       </div>
 
-      <div class="card">
-        <div class="card-header">When to Propose This Model</div>
-        <ul>
-          <li><strong>If Kevin signals he wants to stay hands-on with marketing/brand:</strong> "I could see marketing reporting directly to you — your brand instincts are clearly a competitive advantage. That frees me to focus entirely on operations, supply chain, finance, and scaling the infrastructure."</li>
-          <li><strong>Pros:</strong> Kevin keeps direct control of growth levers. COO has a cleaner operational mandate. Avoids tension if Kevin second-guesses marketing decisions made through COO.</li>
-          <li><strong>Cons:</strong> Harder for COO to drive full P&L accountability. Channel-mix optimization requires coordinating across marketing and ops — that gets harder with split reporting. Risk of marketing and ops working in silos.</li>
-          <li><strong>Compromise:</strong> "Marketing reports to me operationally (budgets, headcount, performance metrics) and to you for creative direction and brand strategy." This is common in Visionary/Integrator setups — the Integrator manages the people and processes while the Visionary sets the creative direction.</li>
-        </ul>
-      </div>
-
-      <div class="tip"><strong>EOS perspective:</strong> In a pure EOS model, ALL department heads report to the Integrator. But many Visionaries resist giving up marketing. A dotted-line structure (solid to COO, dotted to Kevin for creative) is the pragmatic middle ground that most EOS coaches recommend.</div>
+      <div class="tip">~80 FTE + ~50 overseas (at/near father's Shenzhen factory) + contractors = 130+ total. Ops, warehouse, and finance are in-office at La Mirada. Marketing is fully remote. Kevin owns marketing, sales, product innovation ("value creation"). COO owns operations, finance, CX, supply chain ("value protection").</div>
 
 ---
 
@@ -222,6 +162,14 @@ groupOrder: 2
         <p>Owns formulations and project management for device development. Kevin retains innovation and tech strategy — staying hands-on with the "beginning and end" (vision and breakthrough) while delegating execution in the middle. Native Chinese speaker, which has been "life-changing" for Kevin since it dramatically improves communication with the Shenzhen factory.</p>
         <div class="tip"><strong>Interview edge:</strong> Knowing Longchuan's name and background signals deep research. Say: "I saw you brought on Longchuan from Wella to lead product development — that tells me you're serious about the skincare pipeline. Her regulatory background across cosmetics and pharma is exactly what you need for the MoCRA transition and the topicals expansion."</div>
         <div class="tip"><strong>Onsite:</strong> You'll meet Longchuan <strong>in-person</strong>. As COO, product development execution would flow through you. Come ready to discuss how you'd support her work without stepping on Kevin's innovation role.</div>
+      </div>
+      <div class="card">
+        <div class="card-header"><a href="https://www.linkedin.com/in/edan-barel-9a811a1bb/" target="_blank">Edan Barel</a> – Head of B2B Sales (New)</div>
+        <p>Recently brought on to lead the B2B clinic/salon channel. Reports directly to Kevin.</p>
+        <ul>
+          <li><strong>Why it matters:</strong> B2B is brand new at iRESTORE — targeting Revian's eight-figure business with higher-priced machines (~$10K) sourced through the Shenzhen network. This is a "value creation" function that Kevin owns directly.</li>
+          <li><strong>Your approach:</strong> Edan reports to Kevin, not you. But B2B sales touches supply chain and ops (different product specs, different fulfillment). Coordinate on the operational side without stepping on the sales relationship.</li>
+        </ul>
       </div>
       <div class="card">
         <div class="card-header">Fractional CFO</div>
@@ -283,6 +231,12 @@ groupOrder: 2
         <tr><td><strong>Angel Chao</strong></td><td>Financial Controller</td><td>Mission Viejo, CA (in-office)</td><td><a href="https://www.linkedin.com/in/angel-chao-449a8877/" target="_blank">LinkedIn</a>. UCLA Economics, Cal Poly Pomona Masters. Kevin described: been there “a few years,” handles tax & accounting but not strategic FP&A. Fractional CFO provides the strategy layer.</td></tr>
       </table>
 
+      <h3>Sales</h3>
+      <table>
+        <tr><th>Name</th><th>Title</th><th>Location</th><th>Notes</th></tr>
+        <tr><td><strong><a href="https://www.linkedin.com/in/edan-barel-9a811a1bb/" target="_blank">Edan Barel</a></strong></td><td>Head of B2B Sales</td><td>TBD</td><td>Recently hired to lead the B2B clinic/salon channel. Reports directly to Kevin. iRESTORE is targeting Revian's eight-figure B2B business with higher-priced machines (~$10K) sourced through the Shenzhen network.</td></tr>
+      </table>
+
       <h3>Other / Former</h3>
       <table>
         <tr><th>Name</th><th>Title</th><th>Notes</th></tr>
@@ -296,7 +250,7 @@ groupOrder: 2
           <li><strong>Marketing is 100% remote and distributed</strong> (NY, Austin, Las Vegas, Orlando, FL). You’d need to manage a distributed team. This is a strength for you if you have remote management experience.</li>
           <li><strong>The Philippines team (~50 people)</strong> handles customer support, marketing associates, and some ops. Danica Baltazar and Andrew Domagas appear to be key leaders there.</li>
           <li><strong>Daniel Ju as SVP of Operations</strong> is interesting — Kevin described the ops lead as “Brandon,” and Daniel’s title suggests he may be senior to Brandon. Clarify the reporting relationship in interview.</li>
-          <li><strong>No Head of Sales found on LinkedIn.</strong> Kevin mentioned they just launched B2B. A WayUp job posting for “Head of Sales” exists, suggesting this may be an open or recently filled role.</li>
+          <li><strong>Head of B2B Sales:</strong> <a href=”https://www.linkedin.com/in/edan-barel-9a811a1bb/” target=”_blank”>Edan Barel</a> — recently brought on to lead the B2B clinic/salon channel. Reports directly to Kevin.</li>
           <li><strong>Head of Product Development</strong> — <a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">Longchuan Huang, PhD</a>. ~3 months in, from OUAI Haircare. Previously at Kate Somerville, Beiersdorf, Janssen. PhD (UPenn), MBA (UCSD). Native Chinese speaker. Serious R&D hire signaling skincare/topicals expansion.</li>
         </ul>
       </div>

@@ -6,7 +6,7 @@ order: 32
 group: "gameday"
 groupOrder: 5
 ---
-## Longchuan Huang, PhD — Head of Product Development
+## <a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">Longchuan Huang, PhD</a> — Head of Product Development
 <!-- id: onsite-longchuan -->
 
 <div class="card">
@@ -48,7 +48,7 @@ groupOrder: 5
 
 ---
 
-## Brandon K. — Director of Operations & Supply Chain
+## <a href="https://www.linkedin.com/in/brandon-k-3b99a611/" target="_blank">Brandon K.</a> — Director of Operations & Supply Chain
 <!-- id: onsite-brandon -->
 
 <div class="card">
@@ -95,7 +95,7 @@ groupOrder: 5
 
 ---
 
-## Saima Fariz — Chief of Staff
+## <a href="https://www.linkedin.com/in/saimafariz/" target="_blank">Saima Fariz</a> — Chief of Staff
 <!-- id: onsite-saima -->
 
 <div class="card">
@@ -137,7 +137,7 @@ groupOrder: 5
 
 ---
 
-## Kevin Chen — CEO (Round 3)
+## <a href="https://www.linkedin.com/in/kevin-chen-a5ab6b21/" target="_blank">Kevin Chen</a> — CEO (Round 3)
 <!-- id: onsite-kevin -->
 
 <div class="card">

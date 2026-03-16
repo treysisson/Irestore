@@ -27,6 +27,7 @@ GROUPS = [
     {"id": "pitch",     "title": "Your Pitch",        "icon": "💪"},
     {"id": "interview", "title": "Interview Prep",    "icon": "🎤"},
     {"id": "gameday",   "title": "Game Day",          "icon": "🏁"},
+    {"id": "negotiation", "title": "Negotiation",     "icon": "💰"},
 ]
 
 

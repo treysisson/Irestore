@@ -338,6 +338,68 @@ groupOrder: 3
 <li><strong>Don't propose a 6-month study.</strong> Kevin wants "here's what I'd do Monday morning."</li>
 </ul>
 
+<h4>📊 Quick-Reference Summary Tables</h4>
+
+<p><strong>Margin Compression Waterfall — Where the 8 Points Went</strong></p>
+<table>
+<tr><th>Cost Category</th><th>2024 % Rev</th><th>2025 % Rev</th><th>Δ (pp)</th><th>$ Impact at $90M</th></tr>
+<tr><td>Amazon Fees (Referral + FBA)</td><td>10.0%</td><td>11.6%</td><td style="background:#ffcdd2;">+1.6</td><td>$1.4M</td></tr>
+<tr><td>Amazon PPC</td><td>6.4%</td><td>7.8%</td><td style="background:#ffcdd2;">+1.4</td><td>$1.3M</td></tr>
+<tr><td>Meta / Google / TikTok</td><td>6.0%</td><td>7.2%</td><td style="background:#ffcdd2;">+1.2</td><td>$1.1M</td></tr>
+<tr><td>COGS</td><td>24.0%</td><td>25.0%</td><td style="background:#ffcdd2;">+1.0</td><td>$0.9M</td></tr>
+<tr><td>Inbound Freight & Duties</td><td>5.0%</td><td>6.0%</td><td style="background:#ffcdd2;">+1.0</td><td>$0.9M</td></tr>
+<tr><td>Costco Co-op & Freight</td><td>1.0%</td><td>1.8%</td><td style="background:#fff9c4;">+0.8</td><td>$0.7M</td></tr>
+<tr><td>Influencer & Affiliates</td><td>1.4%</td><td>2.0%</td><td style="background:#fff9c4;">+0.6</td><td>$0.5M</td></tr>
+<tr><td>DTC Fulfillment & Shipping</td><td>2.4%</td><td>3.0%</td><td>+0.6</td><td>$0.5M</td></tr>
+<tr><td>People (helped offset)</td><td>9.6%</td><td>9.0%</td><td style="background:#c8e6c9;">-0.6</td><td>($0.5M)</td></tr>
+<tr><td>G&A / Other (helped offset)</td><td>2.0%</td><td>1.8%</td><td style="background:#c8e6c9;">-0.2</td><td>($0.2M)</td></tr>
+<tr style="font-weight:bold; border-top:2px solid #333;"><td>Net Margin Compression</td><td></td><td></td><td style="background:#ffcdd2;"><strong>+7.4pp</strong></td><td><strong>$6.6M</strong></td></tr>
+</table>
+
+<p><strong>Unit Economics Snapshot — Per Device Sold</strong></p>
+<table>
+<tr><th>Metric</th><th>Elite ($1,899)</th><th>Professional ($899)</th><th>Essential ($499)</th><th>Illumina Face ($499)</th></tr>
+<tr><td>Gross Profit / Unit</td><td style="background:#c8e6c9;">$1,405</td><td>$629</td><td>$319</td><td>$329</td></tr>
+<tr><td>Est. Blended CAC / Unit</td><td>$285</td><td>$180</td><td>$125</td><td>$150</td></tr>
+<tr><td>Amazon Fee / Unit (if FBA)</td><td>$220</td><td>$104</td><td>$58</td><td>$58</td></tr>
+<tr><td>Return Cost / Return</td><td>$95</td><td>$45</td><td>$25</td><td>$25</td></tr>
+<tr><td>Return Rate</td><td style="background:#c8e6c9;">5%</td><td>8%</td><td style="background:#ffcdd2;">12%</td><td>9%</td></tr>
+<tr><td><strong>Fully-Loaded Contribution / Unit</strong></td><td style="background:#c8e6c9;"><strong>$896</strong></td><td><strong>$343</strong></td><td style="background:#fff9c4;"><strong>$133</strong></td><td><strong>$143</strong></td></tr>
+</table>
+
+<p><strong>Revenue Concentration Risk</strong></p>
+<table>
+<tr><th>Dimension</th><th>Top Segment</th><th>% of Revenue</th><th>Risk Level</th></tr>
+<tr><td>Product</td><td>Elite + Professional Helmets</td><td style="background:#fff9c4;">63%</td><td>Two SKUs = 63% of revenue</td></tr>
+<tr><td>Channel</td><td>Amazon (est.)</td><td style="background:#ffcdd2;">~43%</td><td>Platform risk + rising fees</td></tr>
+<tr><td>Geography</td><td>United States</td><td style="background:#fff9c4;">~85%+</td><td>Minimal international diversification</td></tr>
+<tr><td>Category</td><td>Hair Growth Devices</td><td>~75%</td><td>Illumina skincare still early</td></tr>
+<tr><td>Season</td><td>Q4 (Holiday)</td><td style="background:#fff9c4;">~39%</td><td>Cash flow stress in Q1</td></tr>
+</table>
+
+<h4>❓ Practice Questions — Kevin Might Ask You These</h4>
+<p class="muted">Try answering these cold, then come back with your responses and I'll grade them. These are the kinds of follow-up questions Kevin would ask after handing you the P&L.</p>
+
+<div class="card card-yellow">
+<ol>
+<li><strong>"Our EBITDA margin went from 24% to 16% while revenue grew 80%. Is that a problem, or is that just the cost of growth?"</strong></li>
+
+<li><strong>"Amazon fees are our biggest cost after COGS. What would you actually do about that in your first 90 days?"</strong></li>
+
+<li><strong>"We're thinking about expanding into Costco more aggressively. They want us in 200 more stores. Should we do it?"</strong></li>
+
+<li><strong>"Our return rate is about 10% blended. What's your approach to getting that down?"</strong></li>
+
+<li><strong>"We have a family-owned factory in Shenzhen. How does that change how you think about our COGS?"</strong></li>
+
+<li><strong>"If you could only fix three things on this P&L in your first 6 months, what would they be and why those three?"</strong></li>
+
+<li><strong>"Our Essential helmet has the highest return rate but it's also our entry-level product that gets people into the brand. Do we kill it?"</strong></li>
+
+<li><strong>"How would you think about the right marketing spend level? We're at about 17% of revenue on total ad spend — too much, too little, or about right?"</strong></li>
+</ol>
+</div>
+
 ---
 
 ## Scenario 2: Channel Profitability Breakdown

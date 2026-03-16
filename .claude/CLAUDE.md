@@ -43,6 +43,11 @@ cd irestore-prep-shareable && python3 build.py 2>&1
 - Trey's email tone: casual, direct, no corporate-speak, asks real questions
 - When writing emails for Trey: sound human, not strategic or polished
 
+## PR Creation
+- **Do NOT use `gh` CLI or GitHub MCP tools** — they don't work in this environment
+- Instead, give Trey a clickable GitHub compare URL to create the PR manually:
+  `https://github.com/treysisson/Irestore/compare/master...<branch-name>?expand=1`
+
 ## Tools & Capabilities (Cowork mode)
 - **Claude in Chrome** MCP tools available for LinkedIn, Twitter/X, YouTube (egress proxy blocks WebFetch for these)
 - Chrome tabs persist between sessions

@@ -99,11 +99,12 @@ groupOrder: 4
 ## Market Positioning & Competitive Advantage
 <!-- id: comp-positioning -->
 
-**"The Bullies"**: Kevin explicitly positioned iRESTORE as having the competitive dominance to aggressively capture market share across categories (hair, skincare, panels). iRESTORE now has:
-- **Most DTC advertising spend** among competitors
-- **Highest brand awareness** in beauty devices
-- **Best-in-category products** (per Kevin's assessment)
-
-This "bully" positioning is a key strategic narrative — iRESTORE is leveraging scale and awareness to expand from hair into adjacent categories where larger, more established players (Joovv, Omnilux, FOREO) have been complacent or slow-moving.
+<p><strong>"The Bullies"</strong>: Kevin explicitly positioned iRESTORE as having the competitive dominance to aggressively capture market share across categories (hair, skincare, panels). iRESTORE now has:</p>
+<ul>
+  <li><strong>Most DTC advertising spend</strong> among competitors</li>
+  <li><strong>Highest brand awareness</strong> in beauty devices</li>
+  <li><strong>Best-in-category products</strong> (per Kevin's assessment)</li>
+</ul>
+<p>This "bully" positioning is a key strategic narrative — iRESTORE is leveraging scale and awareness to expand from hair into adjacent categories where larger, more established players (Joovv, Omnilux, FOREO) have been complacent or slow-moving.</p>
 
 ---

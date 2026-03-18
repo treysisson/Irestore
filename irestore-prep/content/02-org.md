@@ -137,7 +137,7 @@ groupOrder: 2
         </div>
       </div>
 
-      <div class="tip">~80 FTE + ~50 overseas (at/near father's Shenzhen factory) + contractors = 130+ total. Ops, warehouse, and finance are in-office at La Mirada. Marketing is fully remote. Kevin owns marketing, sales, product innovation ("value creation"). COO owns operations, finance, CX, supply chain ("value protection").</div>
+      <div class="tip"><strong>Headcount (from Kevin, Mar 2026):</strong> ~20–25 FT corporate + ~6–8 warehouse + ~50 overseas (distributed globally, not just Shenzhen) + contractors/fractional across departments (including Finance/fractional CFO) = ~80–85 total. Kevin owns marketing, sales, product innovation ("value creation"). COO owns operations, finance, CX, supply chain ("value protection").</div>
 
 ---
 
@@ -181,7 +181,7 @@ groupOrder: 2
       </div>
       <div class="card">
         <div class="card-header">Fractional CFO</div>
-        <p>Not named in the conversation. Provides FP&A and strategic finance support that the Financial Controller can't. The Controller handles tax, accounting, and compliance. Kevin mentioned the controller has been there "a few years" but is not at the strategic level.</p>
+        <p>Not named. Kevin confirmed in Mar 2026 that Finance runs on a fractional CFO model — explicitly named as one of the contractor/fractional roles across the company. The Controller (Angel Chao) handles tax, accounting, and compliance. The fractional CFO provides FP&A and strategic finance (exit prep, capital allocation). Kevin mentioned the controller has been there "a few years" but is not at the strategic level.</p>
       </div>
       <div class="card">
         <div class="card-header">Father – Manufacturing (Shenzhen)</div>
@@ -194,7 +194,7 @@ groupOrder: 2
 <!-- id: org-linkedin -->
 
 <h2>iRESTORE Team Members from Public Sources</h2>
-      <p class="muted">Compiled from LinkedIn, RocketReach, TheOrg, ZoomInfo, and other public directories. ~43 employees per LinkedIn; ~80 FTE + ~50 overseas per Kevin. Use this to prep for who you might meet and understand reporting lines.</p>
+      <p class="muted">Compiled from LinkedIn, RocketReach, TheOrg, ZoomInfo, and other public directories. ~43 employees per LinkedIn. Kevin's breakdown (Mar 2026): ~20–25 FT corporate + ~6–8 warehouse + ~50 overseas (global) + contractors/fractional = ~80–85 total. Use this to prep for who you might meet and understand reporting lines.</p>
 
       <h3>Leadership / C-Suite</h3>
       <table>
@@ -256,7 +256,7 @@ groupOrder: 2
         <div class="card-header">Key Insights for Your Interview</div>
         <ul>
           <li><strong>Marketing is 100% remote and distributed</strong> (NY, Austin, Las Vegas, Orlando, FL). You’d need to manage a distributed team. This is a strength for you if you have remote management experience.</li>
-          <li><strong>The Philippines team (~50 people)</strong> handles customer support, marketing associates, and some ops. Danica Baltazar and Andrew Domagas appear to be key leaders there.</li>
+          <li><strong>The ~50 overseas team is global, not just Shenzhen.</strong> Kevin said "all over the world" — the Philippines appears to be a major hub (Danica Baltazar, Andrew Domagas are key leaders there). Don't assume overseas = factory.</li>
           <li><strong>Daniel Ju as SVP of Operations</strong> is interesting — Kevin described the ops lead as “Brandon,” and Daniel’s title suggests he may be senior to Brandon. Clarify the reporting relationship in interview.</li>
           <li><strong>Head of B2B Sales:</strong> <a href=”https://www.linkedin.com/in/edan-barel-9a811a1bb/” target=”_blank”>Edan Barel</a> — recently brought on to lead the B2B clinic/salon channel. Reports directly to Kevin.</li>
           <li><strong>Head of Product Development</strong> — <a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">Longchuan Huang, PhD</a>. ~3 months in, from OUAI Haircare. Previously at Kate Somerville, Beiersdorf, Janssen. PhD (UPenn), MBA (UCSD). Native Chinese speaker. Serious R&D hire signaling skincare/topicals expansion.</li>

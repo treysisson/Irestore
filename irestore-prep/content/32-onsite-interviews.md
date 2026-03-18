@@ -225,6 +225,7 @@ groupOrder: 5
   <li>"What's the one decision you're sitting on right now that you wish someone else could just own?"</li>
   <li>"How do you want to handle disagreements between us? What's your preferred dynamic when we see something differently?"</li>
   <li>"You mentioned the exit timeline is 2-4 years. What needs to be true operationally for that to happen?"</li>
+  <li>"I'd love to hear more about your long-term vision — how you see the org evolving as you scale, how you arrived at the current revenue projections, and honestly, how much you've thought through what an exit actually looks like. I want to make sure I'm building toward the same picture you have in your head."</li>
 </ol>
 
 <div class="tip"><strong>Power move:</strong> If Kevin asks "do you have any questions?" — don't pull out a list. Ask ONE question that shows you've been synthesizing everything all day. Something like: "After meeting Longchuan, Brandon, and Saima — I think the biggest unlock in the next 90 days is [X]. Am I reading that right, or am I missing something?"</div>

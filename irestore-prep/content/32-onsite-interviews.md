@@ -340,6 +340,62 @@ groupOrder: 5
 
 ---
 
+## Angel Chao — Financial Controller
+<!-- id: onsite-angel -->
+
+<p><a href="https://www.linkedin.com/in/angel-chao-449a8877/" target="_blank">View LinkedIn Profile →</a></p>
+
+<div class="card">
+  <div class="card-header">Background</div>
+  <p><strong>In-office (Mission Viejo, CA — near La Mirada)</strong>. UCLA Economics, Cal Poly Pomona Masters. Been at iRESTORE "a few years" per Kevin. Handles tax, accounting, and compliance. Not strategic FP&A — that's the fractional CFO's lane.</p>
+  <p><strong>His role:</strong> Month-end close, tax filings, accounts payable/receivable, financial reporting. The operational finance layer — keeping the books clean and compliant. He's the person who knows where every dollar actually goes.</p>
+  <p><strong>Reporting:</strong> Will likely report to you as COO. Kevin currently sits above the finance function but the COO takes that over. Angel probably knows this is coming.</p>
+</div>
+
+<h3>What Angel Cares About</h3>
+<ul>
+  <li><strong>Not being overshadowed by the fractional CFO</strong> — There's an inherent tension between Controller and fractional CFO. He does the day-to-day work; the fractional CFO gets the strategic spotlight. He'll want to know you see the value in what he does.</li>
+  <li><strong>Job security</strong> — A new COO taking over finance is a change in his reporting relationship. He's been there a few years and built the accounting function. That could feel threatening.</li>
+  <li><strong>Clean data and good process</strong> — He lives and dies by the close. Anything that makes month-end harder (bad POs, ops not coding expenses correctly, inventory discrepancies) is his problem.</li>
+  <li><strong>Clear scope</strong> — He does accounting, not strategy. He doesn't want to be asked to do things the fractional CFO should own, and vice versa.</li>
+  <li><strong>Institutional knowledge being respected</strong> — He's seen the company grow. He knows the vendor relationships, the payment terms, the historical patterns. That's valuable.</li>
+</ul>
+
+<h3>Your Angle</h3>
+<p><strong>Angel is a key source of institutional knowledge and your anchor on financial truth.</strong> The fractional CFO tells you where you're going; Angel tells you where you actually are. Treat him as a partner in building a faster, cleaner close — not just someone who generates reports.</p>
+
+<table>
+  <tr><th>Do</th><th>Don't</th></tr>
+  <tr><td>Ask what slows down the month-end close — offer to fix it from the ops side</td><td>Imply the fractional CFO is more important than him</td></tr>
+  <tr><td>Show you understand the Controller vs. CFO distinction clearly</td><td>Ask him to do strategic FP&A work</td></tr>
+  <tr><td>Treat him as institutional memory — he's seen the company's financial history</td><td>Suggest "modernizing" or "overhauling" finance on day one</td></tr>
+  <tr><td>Ask what reporting or tooling would make his job easier</td><td>Pile new reporting requests on him before you've assessed the workload</td></tr>
+  <tr><td>Acknowledge the value of having someone who owns compliance and accuracy</td><td>Talk about "efficiency" in a way that sounds like headcount reduction</td></tr>
+</table>
+
+<h3>Conversation Starters</h3>
+<ul>
+  <li>"You've been here through a lot of growth — what does the financial infrastructure look like compared to where it was when you joined?"</li>
+  <li>"What does the month-end close look like right now? How long does it take, and where does it slow down?"</li>
+  <li>"From a Controller's perspective, what's the messiest part of the business financially? Where do you spend the most time cleaning things up?"</li>
+  <li>"What's the one thing on the ops side that would make your job significantly easier?"</li>
+</ul>
+
+<h3>Questions to Ask Angel</h3>
+<ol>
+  <li>"Walk me through the month-end close — timeline, who owns what, where does it typically get stuck?"</li>
+  <li>"How clean is the channel-level P&L right now? Can you separate Amazon, DTC, Costco, and B2B at the gross margin line?"</li>
+  <li>"What does inventory accounting look like — FIFO, weighted average? And how do you handle write-offs and returns?"</li>
+  <li>"How does the relationship with the fractional CFO work day-to-day? What does he/she own vs. what you own?"</li>
+  <li>"Are there any financial compliance or reporting issues I should know about as I come in?"</li>
+  <li>"What financial systems are you running — NetSuite, QuickBooks, something else? And where are the integration gaps?"</li>
+  <li>"What would make your job materially easier that you haven't been able to get prioritized yet?"</li>
+</ol>
+
+<div class="tip"><strong>Key insight:</strong> Angel knows the real numbers — not the forecast, the actuals. Within your first 30 days, you want to sit with him for a few hours and go line-by-line through the P&L and balance sheet. He will tell you things about the business that nobody else will, simply because he's been watching the numbers quietly for years.</div>
+
+---
+
 ## Dinner Playbook
 <!-- id: onsite-dinner -->
 

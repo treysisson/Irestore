@@ -232,6 +232,114 @@ groupOrder: 5
 
 ---
 
+## Junior Reyes — VP of Growth & Data (Zoom)
+<!-- id: onsite-junior -->
+
+<p><a href="https://www.linkedin.com/in/reyesjunior/" target="_blank">View LinkedIn Profile →</a></p>
+
+<div class="card">
+  <div class="card-header">Background</div>
+  <p><strong>Remote (New York)</strong>. Promoted to VP of Growth & Data in Nov 2024 from Head of Paid Acquisition & Data. Previously Head of Growth at The Perfect Jean; Investor/Advisor at Source Medium (DTC analytics). Manhattanville University, B.A. Math & CS. Posts about AI tools including Claude Code — the most technically sophisticated person on the marketing side.</p>
+  <p><strong>His world:</strong> Paid social (Meta/TikTok), Google/SEM, performance creative strategy, attribution, and data infrastructure. Owns Matt Parmely and Diane Kim. Reports directly to Kevin.</p>
+  <p><strong>Key dynamic:</strong> Junior runs the growth engine — the thing that drives revenue. Everything he does creates downstream ops demand: campaign spikes fill the warehouse, new channel tests stress fulfillment, promo planning needs inventory coordination. The COO-VP Growth relationship is where marketing commitments meet operational capacity. If this interface breaks, the business breaks.</p>
+</div>
+
+<h3>What Junior Cares About</h3>
+<ul>
+  <li><strong>Speed</strong> — Growth teams move fast. He does not want a COO who's a speed bump on campaign launches or channel decisions.</li>
+  <li><strong>Data infrastructure</strong> — He cares about clean attribution, accurate demand signals, and systems that give him reliable data. If your ops data feeds his forecasting models, that's a direct dependency.</li>
+  <li><strong>AI fluency</strong> — He posts about AI tools. He'll respect someone who uses AI seriously, not someone who name-drops it.</li>
+  <li><strong>Not being second-guessed on marketing strategy</strong> — He reports to Kevin, not to you. He doesn't need the COO weighing in on creative or channel decisions.</li>
+  <li><strong>Inventory visibility</strong> — His biggest ops pain point is probably running campaigns for products that go out of stock. That's the COO's problem to solve for him.</li>
+</ul>
+
+<h3>Your Angle</h3>
+<p><strong>Position yourself as the person who makes his campaigns work operationally.</strong> Junior's world ends at "customer clicks." Your world starts there. Show him you understand demand amplification — that a good campaign creates a fulfillment problem, and your job is to make sure the warehouse is ready before he launches, not catching up after.</p>
+
+<table>
+  <tr><th>Do</th><th>Don't</th></tr>
+  <tr><td>Ask about his biggest ops-related friction points</td><td>Suggest any changes to marketing strategy or channel mix</td></tr>
+  <tr><td>Show genuine AI fluency — you actually use these tools</td><td>Name-drop AI tools you don't actually use</td></tr>
+  <tr><td>Frame yourself as inventory visibility and capacity planning support</td><td>Imply you'd want advance notice on every campaign</td></tr>
+  <tr><td>Acknowledge that his data infrastructure affects your demand planning</td><td>Talk about "ops approval" for campaign launches</td></tr>
+  <tr><td>Ask: "What's broken between growth and ops that a COO could fix?"</td><td>Make him feel like ops is a constraint on growth</td></tr>
+</table>
+
+<h3>Conversation Starters</h3>
+<ul>
+  <li>"The growth-ops interface is usually the messiest thing at a company your size — campaigns drive demand spikes that surprise the warehouse. What does that look like here?"</li>
+  <li>"You've built a pretty sophisticated data stack. How does demand signal flow from your side to ops and inventory planning today?"</li>
+  <li>"I saw you're into AI tooling — I actually use Claude Code pretty heavily for data work. What are you finding most useful right now?"</li>
+  <li>"If I could solve one ops-side thing that would unlock more for you on growth, what would it be?"</li>
+</ul>
+
+<h3>Questions to Ask Junior</h3>
+<ol>
+  <li>"When you're planning a campaign or promo — how far in advance does ops know? Is there a formal handoff or is it more ad hoc?"</li>
+  <li>"What's your demand forecasting process look like? Are you feeding signals into inventory planning, or does that live separately?"</li>
+  <li>"What channels are growing fastest right now, and what operational constraints slow you down in those channels?"</li>
+  <li>"How do you think about the COO role relative to growth? Where do you want input versus where do you want autonomy?"</li>
+  <li>"What data do you wish you had from the ops side that you don't have today?"</li>
+  <li>"You're in New York, ops is in La Mirada — how has the remote dynamic worked? What breaks down across that distance?"</li>
+</ol>
+
+<div class="tip"><strong>Zoom tip:</strong> Junior is tech-forward and probably has a good remote setup. Match his energy — have a clean background, good lighting, be direct. He'll appreciate someone who gets to the point. The AI conversation is a genuine connector — use it naturally, not as a tactic.</div>
+
+---
+
+## Fractional CFO (Zoom — Name TBD)
+<!-- id: onsite-cfo -->
+
+<div class="card">
+  <div class="card-header">What We Know</div>
+  <p><strong>Not named publicly.</strong> Kevin confirmed in March 2026 that Finance runs on a fractional CFO model — explicitly one of the contractor/fractional roles. The Controller (Angel Chao) handles tax, accounting, and compliance. The fractional CFO handles FP&A, strategic finance, exit prep, and capital allocation.</p>
+  <p><strong>Why they matter to you:</strong> As COO, you own the finance function. The fractional CFO is your strategic finance partner — they're the person who helps you build the exit narrative, model capital allocation decisions, and pressure-test the P&L. Getting alignment with them early is critical.</p>
+  <p><strong>Likely background:</strong> Fractional CFOs at PE-backed or exit-stage DTC companies typically come from investment banking, PE, or Big 4 with deep FP&A experience. They probably have 3–5 other clients and spend a few days per month at iRESTORE.</p>
+</div>
+
+<h3>What the Fractional CFO Cares About</h3>
+<ul>
+  <li><strong>Clean data and a timely close</strong> — Their deliverables depend on getting reliable numbers from the Controller on time. If the close is late or dirty, their work suffers.</li>
+  <li><strong>A strategic partner internally</strong> — Fractional CFOs often feel isolated — they're not full-time, not in the building, not in every meeting. A COO who treats them as a real partner is rare and valuable.</li>
+  <li><strong>Exit readiness</strong> — If iRESTORE is targeting a $500M exit in 2–4 years, the fractional CFO is building toward that. They'll want to know the COO understands what "exit-ready financials" means.</li>
+  <li><strong>Channel P&L clarity</strong> — Amazon/DTC/Costco/B2B have very different margin profiles. Getting clean channel-level profitability is usually a fractional CFO priority that ops has to enable.</li>
+</ul>
+
+<h3>Your Angle</h3>
+<p><strong>Be the COO they've always wanted.</strong> Most fractional CFOs work with ops leaders who treat finance as a reporting function, not a strategy function. Show up as someone who wants to co-own the financial narrative — exit positioning, channel P&L, margin improvement — not just receive reports.</p>
+
+<table>
+  <tr><th>Do</th><th>Don't</th></tr>
+  <tr><td>Ask how you can make the close faster and cleaner from the ops side</td><td>Treat them as a report-generator</td></tr>
+  <tr><td>Show you understand the exit thesis and what it requires financially</td><td>Focus only on operational metrics</td></tr>
+  <tr><td>Ask about the channel P&L model and where the data gaps are</td><td>Imply finance is separate from your domain</td></tr>
+  <tr><td>Discuss working capital and cash conversion cycle proactively</td><td>Wait for them to raise financial issues with you</td></tr>
+  <tr><td>Ask: "What would make you more effective in your role?"</td><td>Treat fractional = less important</td></tr>
+</table>
+
+<h3>Conversation Starters</h3>
+<ul>
+  <li>"As COO I'll own the finance function — I want us to be tightly aligned. How are you thinking about the COO-CFO working relationship here?"</li>
+  <li>"Where are the biggest data or process gaps that make your job harder right now? I want to fix those from the ops side."</li>
+  <li>"What does exit-ready look like financially from your perspective? What needs to be true in 2 years that isn't true today?"</li>
+  <li>"How clean is the channel P&L right now? Can you separate Amazon from DTC from Costco at the contribution margin level?"</li>
+</ul>
+
+<h3>Questions to Ask the Fractional CFO</h3>
+<ol>
+  <li>"How does the current financial close work — timeline, who owns what, where does it slow down?"</li>
+  <li>"What's the quality of channel-level profitability data? Can you see DTC vs. Amazon vs. Costco margin clearly, or is it blended?"</li>
+  <li>"What are your biggest concerns about the business from a financial health standpoint right now?"</li>
+  <li>"With a $500M exit target in 2–4 years, what are the 2–3 financial things that need to be true for that to happen?"</li>
+  <li>"How do you think about working capital management given the net-150 terms with the factory? Is that a structural advantage or a dependency risk?"</li>
+  <li>"What does the relationship between your role and the Controller look like today? Any gaps or overlap?"</li>
+  <li>"What would make you more effective? What do you need from the COO that you're not getting from the current structure?"</li>
+</ol>
+
+<div class="tip"><strong>Note:</strong> You may not know who this person is before the onsite — their name may come up in pre-meeting materials or from Kevin directly. If you find out beforehand, research their background and adjust accordingly. If they have PE or banking background, lean into the exit narrative. If they're a DTC operator background, lean into channel economics and unit economics.</div>
+
+---
+
 ## Dinner Playbook
 <!-- id: onsite-dinner -->
 

@@ -22,10 +22,10 @@ OUTPUT_PATH = os.path.join(os.path.dirname(__file__), 'dist', 'index.html')
 
 # Canonical group definitions: id, title, icon, order
 GROUPS = [
-    {"id": "company",   "title": "Company & Leadership",  "icon": "🏢"},
-    {"id": "strategy",  "title": "Strategy & Operations",  "icon": "📊"},
-    {"id": "market",    "title": "Products & Market",      "icon": "🔬"},
-    {"id": "growth",    "title": "Growth & Expansion",     "icon": "🚀"},
+    {"id": "recap",    "title": "Onsite & Observations",   "icon": ""},
+    {"id": "market",   "title": "Market & Landscape",      "icon": ""},
+    {"id": "strategy", "title": "Strategy & Operations",    "icon": ""},
+    {"id": "action",   "title": "Action & Next Steps",     "icon": ""},
 ]
 
 
@@ -84,9 +84,9 @@ def load_sections():
         sections.append({
             'id': fm.get('id', filename.replace('.md', '')),
             'title': fm.get('title', filename),
-            'icon': fm.get('icon', '📄'),
+            'icon': fm.get('icon', ''),
             'order': fm.get('order', 99),
-            'group': fm.get('group', 'company'),
+            'group': fm.get('group', 'recap'),
             'groupOrder': fm.get('groupOrder', 99),
             'subs': subs,
         })
@@ -99,7 +99,6 @@ def load_sections():
     for g in GROUPS:
         group_sections = [s for s in sections if s['group'] == g['id']]
         group_sections.sort(key=lambda s: s['groupOrder'])
-        # Strip internal fields
         clean = []
         for s in group_sections:
             clean.append({
@@ -108,12 +107,13 @@ def load_sections():
                 'icon': s['icon'],
                 'subs': s['subs'],
             })
-        groups_out.append({
-            'id': g['id'],
-            'title': g['title'],
-            'icon': g['icon'],
-            'sections': clean,
-        })
+        if clean:  # Only include groups that have content
+            groups_out.append({
+                'id': g['id'],
+                'title': g['title'],
+                'icon': g['icon'],
+                'sections': clean,
+            })
 
     return groups_out
 
@@ -134,7 +134,7 @@ def build():
 
     total_sections = sum(len(g['sections']) for g in groups)
     total_subs = sum(len(s['subs']) for g in groups for s in g['sections'])
-    print(f"✓ Built {OUTPUT_PATH}")
+    print(f"Built {OUTPUT_PATH}")
     print(f"  {len(groups)} groups, {total_sections} sections, {total_subs} subsections, {len(html):,} chars")
     return html
 

@@ -170,6 +170,23 @@ tr:nth-child(even) { background: #f9f9fc; }
   table { font-size: 11px; }
   th, td { padding: 6px; }
 }
+
+/* STUDY ALL */
+.study-all-btn {
+  padding: 14px 20px; cursor: pointer; font-size: 13px; font-weight: 700;
+  background: #0a1628; color: #4a9fff; border-top: 2px solid #2a2a4a;
+  text-align: center; letter-spacing: 0.4px; flex-shrink: 0;
+  transition: background 0.15s;
+}
+.study-all-btn:hover { background: #1a2a4a; color: #fff; }
+.study-all-btn.active { background: #1a2a4a; color: #fff; border-left: 4px solid #4a9fff; }
+.study-group-divider {
+  margin: 48px 0 8px; padding: 14px 0 10px;
+  border-top: 4px solid var(--navy); color: var(--navy);
+  font-size: 22px; font-weight: 800; text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.study-section-rule { border: none; border-top: 1px solid #e0e0e0; margin: 40px 0; }
 </style>
 </head>
 <body>
@@ -185,6 +202,7 @@ tr:nth-child(even) { background: #f9f9fc; }
     <button id="collapseAll">▲ Collapse All</button>
   </div>
   <div class="nav-items" id="nav"></div>
+  <div class="study-all-btn" id="studyAllBtn">📖 Study All (Long Page)</div>
 </div>
 
 <div class="main" id="main"></div>
@@ -379,6 +397,37 @@ document.getElementById('collapseAll').addEventListener('click', () => {
   document.querySelectorAll('.nav-item.group').forEach(n => n.classList.remove('expanded'));
   document.querySelectorAll('.nav-item.parent').forEach(n => { n.classList.remove('expanded'); n.classList.remove('visible'); });
   document.querySelectorAll('.nav-item.sub').forEach(n => n.classList.remove('visible'));
+});
+
+// ============================================================
+// STUDY ALL — one long scrollable page
+// ============================================================
+const studyAllPanel = document.createElement('div');
+studyAllPanel.className = 'section';
+studyAllPanel.id = 'sec-study-all';
+
+let studyHtml = '<h1>📖 Full Study Guide</h1><p class="muted" style="margin-bottom:8px">Every section, in order. Scroll through everything.</p><hr class="study-section-rule">';
+groups.forEach(group => {
+  studyHtml += `<div class="study-group-divider">${group.icon} ${group.title}</div>`;
+  group.sections.forEach(sec => {
+    studyHtml += `<h1 style="margin-top:28px;font-size:22px">${sec.icon} ${sec.title}</h1>`;
+    sec.subs.forEach(sub => {
+      studyHtml += `<h2>${sub.title}</h2>${sub.html}`;
+    });
+    studyHtml += '<hr class="study-section-rule">';
+  });
+});
+studyAllPanel.innerHTML = studyHtml;
+main.appendChild(studyAllPanel);
+
+const studyAllBtn = document.getElementById('studyAllBtn');
+studyAllBtn.addEventListener('click', () => {
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  studyAllBtn.classList.add('active');
+  studyAllPanel.classList.add('active');
+  window.scrollTo(0, 0);
+  if (window.innerWidth <= 768) toggleMenu(false);
 });
 
 // Init: default to Game Day section

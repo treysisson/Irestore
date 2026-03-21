@@ -58,6 +58,18 @@ groupOrder: 1
         <tr><td>$700M (aspirational)</td><td>$22.0M</td><td>$16.6M</td><td>$35.2M</td><td>$26.5M</td></tr>
       </table>
 
+      <h3>If Kevin Offers 2–3% (The Realistic Opening Range)</h3>
+      <p class="muted">Kevin’s likely open between 1–2% phantom. If you land at 2–3% real equity, here’s what it actually nets you across exit scenarios:</p>
+      <table>
+        <tr><th>Exit Valuation</th><th>3% Gross</th><th>3% Net (~37% CA)</th><th>2% Gross</th><th>2% Net (~37% CA)</th></tr>
+        <tr><td>$200M (conservative)</td><td>$6.0M</td><td>$3.8M</td><td>$4.0M</td><td>$2.5M</td></tr>
+        <tr><td>$350M</td><td>$10.5M</td><td>$6.6M</td><td>$7.0M</td><td>$4.4M</td></tr>
+        <tr style="background:#e8f5e9"><td><strong>$500M (Kevin’s target)</strong></td><td><strong>$15.0M</strong></td><td><strong>$9.5M</strong></td><td><strong>$10.0M</strong></td><td><strong>$6.3M</strong></td></tr>
+        <tr><td>$750M (upside)</td><td>$22.5M</td><td>$14.2M</td><td>$15.0M</td><td>$9.5M</td></tr>
+        <tr><td>$1B (stretch)</td><td>$30.0M</td><td>$18.9M</td><td>$20.0M</td><td>$12.6M</td></tr>
+      </table>
+      <p class="muted">Tax assumption: 20% fed LTCG + 3.8% NIIT + 13.3% CA = 37.1% effective rate (real equity). At 3% real equity / $500M, you net $9.5M — roughly equivalent to the $300M row at 5%.</p>
+
       <div class="card">
         <div class="card-header">Bottom Line</div>
         <ul>

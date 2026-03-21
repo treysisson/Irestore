@@ -220,11 +220,9 @@ groupOrder: 2
         <tr><td><strong><a href="https://www.linkedin.com/in/reyesjunior/" target="_blank">Junior Reyes</a></strong></td><td>VP of Growth & Data</td><td>New York, NY (remote)</td><td>Promoted from Head of Paid Acquisition & Data (Nov 2024). Previously Head of Growth at The Perfect Jean; Investor/Advisor at Source Medium (DTC analytics). Manhattanville University, B.A. Math & CS. Posts about AI tools and Claude Code — tech-forward thinker.</td></tr>
         <tr><td><strong><a href="https://www.linkedin.com/in/dianedaykim/" target="_blank">Diane Dayoung Kim</a></strong></td><td>Head of Performance Creative</td><td>Los Angeles (remote)</td><td>Since Nov 2024. Previously VP of Creative Strategy at Ready Set; Creative Strategy Lead at TubeScience. Also runs Superbloom Creative (consulting). Yale, B.A. Political Science & Media Studies. Deep DTC performance creative expertise.</td></tr>
         <tr><td><strong><a href="https://www.linkedin.com/in/amanda-schoep-5972b1140/" target="_blank">Amanda Schoep</a></strong></td><td>Director of Customer Experience (departing)</td><td>Irvine, CA</td><td>Promoted Aug 2024 from Sr. Growth Marketing Manager (2+ yrs). 3 yrs 10 mos total at iRESTORE. <strong>Being let go.</strong> Kevin views 25-person CX team as bloated. Not implementing AI; focusing on efficiency instead. Her departure is one of three simultaneous org transitions (Daniel, PM for physical products also departing).</td></tr>
-        <tr><td><strong>Lili Tran</strong></td><td>Senior E-commerce Marketing Manager</td><td>Unknown</td><td><a href="https://www.linkedin.com/in/lili-tran-73340623/" target="_blank">LinkedIn</a>. Previously Senior Project Manager. Manages Shopify / e-commerce marketing.</td></tr>
         <tr><td><strong><a href="https://www.linkedin.com/in/ukkukk/" target="_blank">Kenny U</a></strong></td><td>eCommerce Web Manager</td><td>Irvine, CA (in-office)</td><td>Since Apr 2024. Previously Project Coordinator at iRESTORE (Aug 2023). General Assembly Software Eng. bootcamp (2022). In-office at La Mirada/Irvine.</td></tr>
         <tr><td><strong>Natalie Cou</strong></td><td>Influencer & Content Marketing Manager</td><td>Orlando, FL (remote)</td><td><a href="https://www.linkedin.com/in/natalie-cou-271796198/" target="_blank">LinkedIn</a>. Drives influencer partnerships and content strategy.</td></tr>
         <tr><td><strong>Javier Sanchez Jr.</strong></td><td>Senior Performance Creative Strategist</td><td>Las Vegas, NV (remote)</td><td><a href="https://www.linkedin.com/in/javierscv/" target="_blank">LinkedIn</a>. Chapman University. Focuses on creative strategy for paid media.</td></tr>
-        <tr><td><strong>Catherine Song</strong></td><td>Art Director / Multimedia Designer</td><td>New York (remote)</td><td><a href="https://www.linkedin.com/in/song-catherine/" target="_blank">LinkedIn</a>. 7+ years experience. Brand-focused creative direction.</td></tr>
       </table>
 
       <h3>Product Development</h3>
@@ -279,6 +277,66 @@ groupOrder: 2
           <li>Risk: three departures + new COO could create cultural instability. Your early messaging on continuity and direction is critical.</li>
         </ul>
       </div>
+
+---
+
+## Active Job Postings (Mar 2026)
+<!-- id: org-hiring -->
+
+<p class="muted">All current openings from <a href="https://irestorelaser.breezy.hr/" target="_blank">iRESTORE's careers page</a>. This tells you where Kevin is investing and what gaps exist. Glassdoor shows 17 total postings; LinkedIn shows 6.</p>
+
+<h3>US-Based / Leadership</h3>
+<table>
+  <tr><th>Role</th><th>Location</th><th>Comp</th><th>Signal</th></tr>
+  <tr style="background:#e8f5e9"><td><strong><a href="https://irestorelaser.breezy.hr/p/56bd9a5a13b8-chief-operating-officer" target="_blank">Chief Operating Officer</a></strong></td><td>Orange County, CA</td><td>—</td><td>Your role — still posted</td></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/ff6c6599d86e-head-of-creative-content-production" target="_blank">Head of Creative & Content Production</a></td><td>CA or NY</td><td>$130k–$200k</td><td>Major creative leadership hire — scaling brand</td></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/482881e75bad-art-director" target="_blank">Art Director</a></td><td>Los Angeles</td><td>$130k–$160k</td><td rowspan="2">Doubling down on creative team</td></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/d9005a28e709-sr-art-director" target="_blank">Sr. Art Director</a></td><td>Los Angeles</td><td>$130k–$160k</td></tr>
+</table>
+
+<h3>HR / People (5 roles!)</h3>
+<table>
+  <tr><th>Role</th><th>Location</th><th>Comp</th><th>Signal</th></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/8d5755bcfbb6-hr-business-partner" target="_blank">HR Business Partner</a></td><td>Los Angeles</td><td>$110k–$130k</td><td rowspan="3">Building HR from scratch post-Daniel</td></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/9fcef737aedb-human-resource-manager" target="_blank">Human Resource Manager</a></td><td>Los Angeles</td><td>$110k–$130k</td></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/af6046982fbe-hr-generalist" target="_blank">HR Generalist</a></td><td>CA</td><td>$82k–$122k</td></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/4509786ba4f6-hr-assistant" target="_blank">HR Assistant</a></td><td>Cebu / Davao / Manila</td><td>$700–$750/mo</td><td rowspan="2">Offshore HR support for Saima's team</td></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/21ba03d3d7de-talent-acquisition-coordinator" target="_blank">Talent Acquisition Coordinator</a></td><td>Cebu / Davao / Manila</td><td>$700–$750/mo</td></tr>
+</table>
+
+<h3>Customer Success</h3>
+<table>
+  <tr><th>Role</th><th>Location</th><th>Comp</th><th>Signal</th></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/a250bab07ec0-customer-success-operations-manager" target="_blank">Customer Success Operations Manager</a></td><td>CA (remote)</td><td>—</td><td rowspan="2">Rebuilding CX after Amanda's departure</td></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/d75b112dccb0-sr-manager-customer-success-operations" target="_blank">Sr. Manager Customer Success Operations</a></td><td>LA or remote</td><td>—</td></tr>
+</table>
+
+<h3>Data & Analytics (International)</h3>
+<table>
+  <tr><th>Role</th><th>Location</th><th>Comp</th><th>Signal</th></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/007c8ff5dee4-data-engineer" target="_blank">Data Engineer</a></td><td>Bucharest / Lisbon / Madrid / Tel Aviv / Warsaw</td><td>$55k–$90k</td><td>Building analytics infrastructure offshore</td></tr>
+  <tr><td><a href="https://irestorelaser.breezy.hr/p/fbe4968b1827-senior-data-analyst" target="_blank">Senior Data Analyst</a></td><td>Israel / Poland / Portugal / Romania / Spain</td><td>$40k–$58k (contract)</td><td>Junior's data team expanding globally</td></tr>
+</table>
+
+<h3>Recently Posted (Glassdoor/LinkedIn — may be filled)</h3>
+<table>
+  <tr><th>Role</th><th>Signal</th></tr>
+  <tr><td>Growth Director, Influencer & Affiliate Marketing (remote)</td><td>Creator-led growth — new channel</td></tr>
+  <tr><td>Director of Sales</td><td>Expanding B2B footprint beyond Edan?</td></tr>
+  <tr><td>Director of Brand & Content Marketing (remote-friendly)</td><td>Brand investment alongside Head of Creative</td></tr>
+  <tr><td>Director of Retention & Lifecycle</td><td>Email/SMS/subscription — post-purchase revenue</td></tr>
+</table>
+
+<div class="card">
+  <div class="card-header">What This Hiring Pattern Tells You</div>
+  <ul>
+    <li><strong>HR is the biggest gap.</strong> 5 HR roles open simultaneously = they've been running without real people infrastructure. Daniel handled it informally for 8.5 years. Saima is building the function from zero. As COO, standing up HR systems (HRIS, performance management, comp bands) will be an early priority.</li>
+    <li><strong>CX is being rebuilt, not just cut.</strong> Two CS Ops roles posted means they're replacing Amanda's bloated team with a leaner, systems-oriented structure. This lands squarely in your domain.</li>
+    <li><strong>Creative is Kevin's big bet.</strong> Head of Creative + Art Director + Sr. Art Director = serious brand investment. This is Kevin's "value creation" side, but you'll need to ensure the operational support (budgets, vendor management, production workflows) is there.</li>
+    <li><strong>Data is going global.</strong> International data roles (Europe + Israel) suggest Junior Reyes is building an offshore analytics team. Smart cost play for a data-intensive DTC business.</li>
+    <li><strong>13 roles open for a ~43-person company</strong> = they're trying to grow headcount by ~30%. This is aggressive hiring that needs operational guardrails — exactly what a COO provides.</li>
+  </ul>
+</div>
 
 ---
 

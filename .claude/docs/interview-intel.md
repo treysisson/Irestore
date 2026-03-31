@@ -1,18 +1,35 @@
 # Interview Intel & Status
 
-## Current Status (as of Mar 14, 2026)
-- **Stage:** Advancing to onsite (full-day office visit)
-- **Next step:** Office visit in next 1-2 weeks (target Mar 20-27)
-- **What happens:** Meet team, sign NDA, live exercise with real business data
-- **Follow-up email:** Sent Mar 13 with customer experience feedback doc
+## Current Status (as of Mar 25, 2026)
+- **Stage:** Post-onsite, awaiting decision
+- **Onsite completed:** Mar 24, 2026 (full day + 2hr dinner)
+- **Follow-up email:** Sent Mar 25 (thank you + pitch)
+- **Competition:** 2 other candidates will do onsite — both traditional ops veterans (scaled companies $100M→$200M, vertical specialists)
+- **Trey's differentiator:** Generalist/founder profile, speed, cross-functional context (esp. e-commerce), heavy AI adoption (used AI during live exercise, Kevin noticed and appreciated)
+- **Trey's read:** Felt great about performance; outcome depends on whether Kevin wants a generalist/builder vs. industry veteran
 
 ## Interview Timeline
 | Date | Event | Status |
 |------|-------|--------|
 | Feb 25, 2026 | First Zoom with Kevin | ✅ Done |
 | Mar 13, 2026 | Second Zoom with Kevin (2 hrs) | ✅ Done |
-| Mar 20-27 (est.) | Full-day onsite, team meetings, live exercise | 📅 Upcoming |
+| Mar 24, 2026 | Full-day onsite + dinner | ✅ Done |
+| TBD | 2 other candidates do onsite | Pending |
 | TBD | Offer / negotiation | Pending |
+
+## Key Intel — Onsite (Mar 24)
+### The Exercise
+- 20+ task financial model in Excel
+- Shipping and returns data analysis
+- Org chart with 100+ people
+- Task: assess everything and provide recommendations via presentation
+- Trey used AI tools during the exercise; Kevin appreciated this
+
+### Competitive Landscape
+- 2 other finalists: both standard ops professionals
+- Their profile: "been there, done that" — grown companies from $100M to $200M
+- They are vertical specialists vs Trey's generalist/founder profile
+- Kevin is choosing between profile types, not just individuals
 
 ## Key People
 | Who | Role | Status |
@@ -21,7 +38,7 @@
 | Brandon | Director of Ops | Reliable executor, not strategic. Now reports to Kevin directly. |
 | Daniel Ju | Chief of Staff/HR | DEPARTING end of April. 8.5 yrs, Kevin's college friend. |
 | Amanda Schoep | Dir. of CX | DEPARTING. 25-person team viewed as bloated. |
-| Longchuan Huang | Head of Product Dev | New (~3 months), from Wella, PhD UPenn |
+| Longchuan Huang | Head of Product Dev | New (~3 months), from OUAI, PhD UPenn |
 | Junior Reyes | VP of Growth & Data | Remote (NYC), tech-forward |
 
 ## Key Intel — Second Interview (Mar 13)

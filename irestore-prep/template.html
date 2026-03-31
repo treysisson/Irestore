@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
 <title>iRESTORE COO Interview Prep</title>
 <style>
 :root {
@@ -187,6 +188,49 @@ tr:nth-child(even) { background: #f9f9fc; }
   letter-spacing: 1px;
 }
 .study-section-rule { border: none; border-top: 1px solid #e0e0e0; margin: 40px 0; }
+
+/* PRINT PDF */
+.print-btn {
+  padding: 14px 20px; cursor: pointer; font-size: 13px; font-weight: 700;
+  background: #0a1628; color: #ef5350; border-top: 1px solid #2a2a4a;
+  text-align: center; letter-spacing: 0.4px; flex-shrink: 0;
+  transition: background 0.15s;
+}
+.print-btn:hover { background: #1a2a4a; color: #fff; }
+.print-btn.active { background: #1a2a4a; color: #fff; border-left: 4px solid #ef5350; }
+.print-divider {
+  margin: 40px 0 8px; padding: 14px 0 10px;
+  border-top: 4px solid var(--navy); color: var(--navy);
+  font-size: 20px; font-weight: 800; letter-spacing: 0.5px;
+  page-break-before: always;
+}
+.print-divider:first-child { page-break-before: avoid; }
+
+@media print {
+  @page {
+    margin: 0.75in 0.75in 1in 0.75in;
+    @bottom-center {
+      content: counter(page);
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 10px;
+      color: #888;
+    }
+  }
+  .sidebar, .hamburger, .overlay { display: none !important; }
+  .main { margin-left: 0 !important; padding: 20px !important; max-width: 100% !important; }
+  .section:not(.active) { display: none !important; }
+  h1 { font-size: 20px !important; }
+  h2 { font-size: 16px !important; }
+  body { font-size: 12px !important; line-height: 1.5 !important; counter-reset: page; }
+  table { font-size: 11px !important; }
+  th, td { padding: 5px 8px !important; }
+  .card { padding: 12px !important; margin: 10px 0 !important; break-inside: avoid; }
+  .tip, .answer-block { padding: 10px 14px !important; margin: 10px 0 !important; break-inside: avoid; }
+  .print-divider { margin: 20px 0 8px; }
+  a { color: var(--navy) !important; text-decoration: none !important; }
+  /* Page number footer — fallback for browsers that don't support @page @bottom-center */
+  .print-page-footer { display: none; }
+}
 </style>
 </head>
 <body>
@@ -203,6 +247,7 @@ tr:nth-child(even) { background: #f9f9fc; }
   </div>
   <div class="nav-items" id="nav"></div>
   <div class="study-all-btn" id="studyAllBtn">📖 Study All (Long Page)</div>
+  <div class="print-btn" id="printBtn">🖨️ Print PDF</div>
 </div>
 
 <div class="main" id="main"></div>
@@ -426,6 +471,74 @@ studyAllBtn.addEventListener('click', () => {
   document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
   studyAllBtn.classList.add('active');
   studyAllPanel.classList.add('active');
+  window.scrollTo(0, 0);
+  if (window.innerWidth <= 768) toggleMenu(false);
+});
+
+// ============================================================
+// PRINT PDF — curated sections for paper review
+// ============================================================
+const printSections = [
+  { sectionId: 'jd', label: 'Job Description & Scorecard' },
+  { sectionId: 'pnl', label: 'Estimated P&L' },
+  { sectionId: 'eos', label: 'EOS Implementation Playbook' },
+  { sectionId: 'answers', label: 'Model Answers' },
+  { sectionId: 'exercises', subFilter: 'ex-90day', label: '90-Day Plan' },
+  { sectionId: 'live-exercise-prep', subFilter: 'live-ex-pnl', label: 'Live Exercise: P&L / Margin Analysis' },
+  { sectionId: 'warehouse-tour', label: 'Warehouse Tour' },
+  { sectionId: 'onsite-interviews', label: 'Onsite Interview Playbook' },
+  { sectionId: 'returns', label: 'Return Rate Playbook' },
+];
+
+const printPanel = document.createElement('div');
+printPanel.className = 'section';
+printPanel.id = 'sec-print-pdf';
+
+let printHtml = '<h1>🖨️ Print PDF</h1>';
+printHtml += '<p class="muted" style="margin-bottom:4px">Curated sections for paper review (~47 pages). Use your browser\'s Print → Save as PDF.</p>';
+printHtml += '<p class="muted" style="margin-bottom:12px">Tip: In the print dialog, check <strong>"Headers and footers"</strong> to include page numbers. If printing double-sided, use "Flip on long edge."</p>';
+printHtml += '<p style="margin-bottom:20px"><button onclick="window.print()" style="padding:10px 24px;background:var(--navy);color:#fff;border:none;border-radius:6px;font-size:14px;font-weight:600;cursor:pointer;">Print / Save as PDF</button></p>';
+printHtml += '<hr class="study-section-rule">';
+
+// Build print content from the sections data
+printSections.forEach(ps => {
+  // Find the section in groups data
+  let found = null;
+  groups.forEach(g => {
+    g.sections.forEach(sec => {
+      if (sec.id === ps.sectionId) found = sec;
+    });
+  });
+  if (!found) return;
+
+  printHtml += '<div class="print-divider">' + found.icon + ' ' + ps.label + '</div>';
+
+  if (ps.subFilter) {
+    // Only include specific subsection(s)
+    found.subs.forEach(sub => {
+      if (sub.id === ps.subFilter) {
+        printHtml += '<h2>' + sub.title + '</h2>' + sub.html;
+      }
+    });
+  } else {
+    // Include all subsections
+    found.subs.forEach(sub => {
+      printHtml += '<h2>' + sub.title + '</h2>' + sub.html;
+    });
+  }
+  printHtml += '<hr class="study-section-rule">';
+});
+
+printPanel.innerHTML = printHtml;
+main.appendChild(printPanel);
+
+const printBtn = document.getElementById('printBtn');
+printBtn.addEventListener('click', () => {
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  studyAllBtn.classList.remove('active');
+  printBtn.classList.add('active');
+  printPanel.classList.add('active');
   window.scrollTo(0, 0);
   if (window.innerWidth <= 768) toggleMenu(false);
 });

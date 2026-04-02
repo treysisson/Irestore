@@ -13,13 +13,14 @@
 - **Global Reach:** Products sold in 90+ countries, ~48 million pairs of shoes annually
 
 ### Origin Story
-In 1825, James Clark was working at the tannery owned by his brother Cyrus in Street, Somerset. Noticing piles of sheepskin off-cuts, James had an idea: slippers. They began producing sheepskin slippers called the "Brown Peter" in 1828. By 1833, James became a full partner and the business was renamed C&J Clark Ltd. William Clark later mechanized the shoemaking process, establishing Clarks as a pioneer of footwear innovation.
+In 1825, James Clark was working at the tannery owned by his brother Cyrus in Street, Somerset. Noticing piles of sheepskin off-cuts, James had an idea: slippers. They began producing sheepskin slippers called the "Brown Peter" in 1828. By 1833, James became a full partner and the business was renamed C&J Clark Ltd. William Clark (James's son) later mechanized the shoemaking process — the first in Britain — establishing Clarks as a pioneer of footwear innovation. In 1883, the Hygienic range became the first shoe designed to fit the natural shape of the foot, a principle still core to the brand. The company expanded aggressively in the late 1970s, acquiring U.S. shoemaker Hanover (1978) and Bostonian (1979), gaining 500+ U.S. stores and production capacity of 1.5 million shoes/year.
 
 ### Ownership History
 - **1825–2020:** Family-owned for nearly 200 years by the Clark family
-- **2020:** LionRock Capital (Hong Kong-based PE firm) acquired majority stake via a Company Voluntary Arrangement (CVA), marking the first time the Clark family lost majority control
+- **2020:** LionRock Capital (Hong Kong-based PE firm) acquired majority stake for ~£100M (~$131M) via a Company Voluntary Arrangement (CVA), marking the first time the Clark family lost majority control
+- **2022:** Viva China Holdings paid £51M for a 51% stake in LionRock Capital Partners, making Viva China the ultimate parent
 - **2022–2023:** LionRock sold its remaining stake to **Viva China Holdings Limited** (connected to Li Ning, the Chinese sportswear billionaire)
-- **Current (2026):** Owned by Viva China Holdings Limited. The Clark family retains a minority shareholder position
+- **Current (2026):** Owned by Viva China Holdings Limited. The Clark family retains a minority shareholder position ("a key shareholder")
 
 ---
 
@@ -31,10 +32,10 @@ In 1825, James Clark was working at the tannery owned by his brother Cyrus in St
 Designed by Nathan Clark, inspired by boots worn by British officers stationed in the Sahara during WWII. Simple suede construction with a crepe sole. Became a global casual footwear icon. Celebrating its 75th anniversary in 2025.
 
 **Wallabee (1967/1968)**
-Moccasin-inspired shoe with a distinctive silhouette. Originally designed by a German company named Sioux, later adopted and made famous by Clarks. Strong cultural connections to hip-hop and streetwear.
+Clarks' best-selling shoe. Distinctive moc-toe construction with unlined suede upper and crepe sole. Originally designed by a German company named Sioux, later adopted and made famous by Clarks. Described by Clarks as "a shoe for people who didn't want to wear shoes." Strong cultural connections to hip-hop (Wu-Tang Clan, Drake, LeBron James) and streetwear.
 
 **Cloudsteppers**
-Comfort-focused sub-brand. Clarks is opening dedicated Cloudsteppers stores — the first in the US launched recently, with 10+ more planned.
+Comfort-focused athleisure sub-brand. First dedicated concept store opened December 2025 in Corpus Christi, TX. Plans for 12+ locations by end of 2026 across the US and Asia. Expanding beyond footwear into apparel and accessories (T-shirts, hoodies, socks, caps, bags — leggings and windbreakers planned).
 
 ### Brand Architecture
 - **Clarks** — Core brand (casual, smart-casual, comfort footwear)
@@ -88,8 +89,8 @@ Comfort-focused sub-brand. Clarks is opening dedicated Cloudsteppers stores — 
 ### Digital Strategy
 - Complete overhaul of digital and in-store commerce platforms (completed in ~18 months)
 - Omnichannel capabilities: BOPIS, BORIS, endless aisle, store fulfillment, mixed cart
-- Launching a **digital marketplace in 2026**
-- Partnerships with Shein and Walmart marketplaces for expanded digital reach
+- Launching **own digital marketplace on Clarks.com in early 2026** — hosting ~20 complementary brands (baby, school, outdoor, lifestyle, travel categories)
+- **Marketplace partnerships (Nov 2025):** Launched on Shein, Walmart, TikTok Shop, Shop Simon (Americas); Shein and Secret Sales (UK); Secret Sales Netherlands and Dress for Less (Europe). Target added December 2025
 - Investing in retail media networks since 2020, using first-party data
 
 ### Geographic Focus
@@ -109,12 +110,14 @@ Clarks positions itself as the **world's largest casual and smart shoe company**
 ### Key Competitors
 - **Skechers** — Direct competitor in comfort/casual segment
 - **ECCO** — Comfort-focused European competitor
+- **Birkenstock** — Heritage comfort brand
+- **Cole Haan / Rockport** — Smart-casual segment overlap
+- **Dr. Martens** — Heritage boot brand
 - **Hush Puppies** — Similar casual/comfort positioning
 - **Geox** — Technology-driven comfort shoes
 - **Timberland** — Overlaps in boots/casual
 - **Deichmann** — Major European shoe retailer
-- **PUMA / Adidas** — Broader sportswear competitors
-- **Marks & Spencer** — UK retail competitor in footwear
+- **Hoka / New Balance** — Compete with Cloudsteppers in athleisure/comfort
 
 ### Brand Strategy
 - **Pricing:** Lowering prices 5–12% across categories, Originals sub-brand prices cut up to 20% by 2026
@@ -133,8 +136,9 @@ Clarks positions itself as the **world's largest casual and smart shoe company**
 - Streamlined leadership team
 
 ### Leadership
-- **Victor Herrero** — Appointed as co-CEO (exact timing from search results)
-- Strategic overhaul announced after challenging 2024
+- **CEO Jonathan Ram** departed April 2024; an interim executive committee formed to oversee strategic direction. No permanent CEO replacement publicly announced as of early 2026
+- **Peter Quirke** (VP Retail, Americas) leading Cloudsteppers expansion
+- Strategic overhaul announced after challenging 2024 — four-pronged: (1) more product choice, (2) lower prices, (3) new revenue streams via marketplaces, (4) better consumer experience
 
 ### 200th Anniversary (2025)
 - Major celebration: pop-up stores (Paris), collaborations, guest creative directors
@@ -157,6 +161,8 @@ Clarks positions itself as the **world's largest casual and smart shoe company**
 ### Challenges
 - **Revenue decline:** ~£100M sales drop in FY2024
 - **Profitability:** Still loss-making through FY2024 (two consecutive years of ~£40M pre-tax losses)
+- **Leadership vacuum:** No permanent CEO since April 2024; operating under interim committee
+- **US retail underperformance:** Full-price and outlet stores underperforming; up to 25% of ~214 U.S. stores could close
 - **Tariffs/Trade policy:** Uncertain trade environment, particularly US tariffs on imported footwear
 - **Ownership transition:** Navigating identity under Viva China ownership vs. 200 years of British heritage
 - **Market competition:** Intense competition from both value (Skechers, Deichmann) and premium segments
@@ -194,3 +200,9 @@ Clarks positions itself as the **world's largest casual and smart shoe company**
 - [Clarks Strengthens Online Strategy Through Shein and Walmart | Modaes](https://www.modaes.com/global/companies/clarks-expands-its-digital-presence-third-party-marketplace-and-entry-into-shein-and-walmart)
 - [Number of Clarks Locations in USA | ScrapeHero](https://www.scrapehero.com/location-reports/Clarks-USA/)
 - [Clarks From Desert Boot to Wallabee | Heddels](https://www.heddels.com/2017/10/clarks-from-desert-boot-to-wallabee-history-inspiration-and-iconic-products/)
+- [C&J Clark International Ltd. | FundingUniverse](https://www.fundinguniverse.com/company-histories/c-j-clark-international-ltd-history/)
+- [Clarks announces strategic overhaul after challenging 2024 | FashionUnited](https://fashionunited.com/news/business/clarks-announces-strategic-overhaul-after-challenging-2024/2025063066871/)
+- [Clarks Shoes Launch on Shein, Walmart, TikTok Shop | WWD](https://wwd.com/footwear-news/shoe-industry-news/clarks-shoes-shein-walmart-tiktok-shop-1238353441/)
+- [Clarks Cloudsteppers Concept Store | WWD](https://wwd.com/footwear-news/shoe-industry-news/clarks-cloudsteppers-concept-store-openings-1238336313/)
+- [Clarks Retail Transformation | Retail TouchPoints](https://www.retailtouchpoints.com/topics/omnichannel-alignment/how-clarks-transformed-into-an-omnichannel-powerhouse-without-missing-a-step)
+- [Clarks 2026 Company Profile | Tracxn](https://tracxn.com/d/companies/clarks/__Ao_B35PdFnkmHwWyaC8DlAmdTLzadrqRauE_QTnErMw)

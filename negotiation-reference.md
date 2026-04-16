@@ -1,4 +1,4 @@
-# Negotiation Reference — Opening Framework
+# Negotiation Reference — Opening
 
 ---
 
@@ -10,22 +10,22 @@
   2. **The role is uniquely compelling** — no COO, no C-suite, fresh canvas operationally. Tons of opportunity ahead, lots to sink my teeth into
   3. **The ability to truly make a huge impact on the company's exit outcome**
 
-I've thought a lot about this — about how I want *you* to feel about it, and how I want *me* to feel about it.
+I've thought a lot about this — about how I want *you* to feel about it, and how I want to feel about it.
 
 ---
 
-## What I Want for You
+## How I want you to feel
 
 - I want you to feel like I'm fighting for the company as if it were my own — and that I'm the best person you've ever worked with
-- If and when we get to the exit you want, I want you to feel like you couldn't have done this without me
-- If you ever start another company, I want your first thought to be: *"I'm doing this with Trey"*
+- If and when we get to the exit you want, I want you to feel like you couldn't have done it without me
+- My ultimate definition of success - I will be the first person you call when you want to start your next veture 
 
 ---
 
-## What I Want for Me
+## How I want to feel
 
 - I want to feel like I'm being fairly compensated and protected for the risk I'm taking — and fired up about the potential reward of taking that risk
-- Whatever the outcome is, I want to be as excited as you are. If you're really happy at $300M, I want to be really happy at $300M. If you're ecstatic at $500M, I want to be ecstatic at $500M. I think it only makes sense to be super aligned in that way
+- Whatever the outcome is, I want to feel what you feel. If $300M is a win for you, it should be a win for me. If $500M has you fired up, I should be fired up too. Otherwise we're not really aligned.
 - The reality is there's a **tipping point** in that outcome where my mindset shifts from employee to owner — and that will really affect how I show up every day
 
 ---
@@ -33,13 +33,18 @@ I've thought a lot about this — about how I want *you* to feel about it, and h
 ## Diligence (before pulling up the sheet)
 
 - Before I pull up the sheet — want you to know I've done real diligence on this
-- I've talked to other C-level execs, exec recruiters, exec comp attorneys, folks in PE
-- Wanted to make sure my ask is grounded in what's actually market for this role at this stage — not a number I pulled out of thin air
+- I've talked to other C-level execs, exec recruiters, folks in PE
+- Wanted to make sure my ask is grounded in what's actually within market for this role at this stage
 - I'd rather we both start from a realistic place
 
 ---
 
 ## Bridge to the Number
 
-- I thought about what number makes me feel like an owner, not an employee — that tipping point I mentioned. **$4M across the full package** is where I stop thinking about my downside and start thinking entirely about *our* upside.
-- It's a small fraction of the outcome — at a $300M exit, $4M is just over 1%. For the person building the machine that gets you there, that feels fair and aligned.
+- I thought about what number makes me feel like an owner, not an employee — that tipping point I mentioned. **$4M net** is where I stop thinking about my downside and start thinking entirely about *our* upside.
+- It's a small fraction of the outcome — at a $300M exit, $4M is just under 3% of the total exit value, and given that I want you to feel like you couldn't have done this without me, that feels extremely fair to me.
+
+PAUSE THERE - any reactions / questions
+
+
+

@@ -30,6 +30,15 @@ I've thought a lot about this — about how I want *you* to feel about it, and h
 
 ---
 
+## Diligence (before pulling up the sheet)
+
+- Before I pull up the sheet — want you to know I've done real diligence on this
+- I've talked to other C-level execs, exec recruiters, exec comp attorneys, folks in PE
+- Wanted to make sure my ask is grounded in what's actually market for this role at this stage — not a number I pulled out of thin air
+- I'd rather we both start from a realistic place
+
+---
+
 ## Bridge to the Number
 
 - I thought about what number makes me feel like an owner, not an employee — that tipping point I mentioned. **$4M across the full package** is where I stop thinking about my downside and start thinking entirely about *our* upside.

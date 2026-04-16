@@ -27,3 +27,10 @@ I've thought a lot about this — about how I want *you* to feel about it, and h
 - I want to feel like I'm being fairly compensated and protected for the risk I'm taking — and fired up about the potential reward of taking that risk
 - Whatever the outcome is, I want to be as excited as you are. If you're really happy at $300M, I want to be really happy at $300M. If you're ecstatic at $500M, I want to be ecstatic at $500M. I think it only makes sense to be super aligned in that way
 - The reality is there's a **tipping point** in that outcome where my mindset shifts from employee to owner — and that will really affect how I show up every day
+
+---
+
+## Bridge to the Number
+
+- I thought about what number makes me feel like an owner, not an employee — that tipping point I mentioned. **$4M across the full package** is where I stop thinking about my downside and start thinking entirely about *our* upside.
+- It's a small fraction of the outcome — at a $300M exit, $4M is just over 1%. For the person building the machine that gets you there, that feels fair and aligned.

@@ -68,32 +68,7 @@ Then propose the tiered structure (2.5% base + performance tiers to 4.5-5%).
 
 ---
 
-## Scenario C: Kevin changes the equity vehicle (real equity, LLC units, etc.)
-
-**What it sounds like:**
-- "My advisors suggested we look at a different structure"
-- "What if we did actual equity instead of phantom?"
-- "We're restructuring and there might be a way to do real shares"
-
-**What it means:** This is potentially very good for you. Real equity = long-term capital gains (~37.1% combined rate) vs phantom stock (~52.65% ordinary income). The tax delta on a $300M exit is massive.
-
-**Your move:** Don't react with excitement yet. Ask clarifying questions:
-
-1. "What type of equity — restricted stock, options, LLC units?"
-2. "What's the strike price / valuation basis?"
-3. "Is there a 409A or fair market value assessment?"
-4. "Does it qualify for QSBS exclusion?" (could eliminate up to $10M in federal gains)
-
-**Key math to have ready:**
-- 3% real equity at $300M, taxed at ~37.1% = **$5.66M net** (vs $4.26M phantom)
-- 2.5% real equity at $300M = **$4.72M net** — actually clears your $4M bar
-- If QSBS applies: even better (up to $10M federal exclusion)
-
-> *"That's interesting — I'd want to understand the details, but directionally that could actually work better for both of us. Lower percentage, same net outcome for me, and it costs the company less on a gross basis. Let me take a day to model it out."*
-
----
-
-## Scenario D: Kevin counters low — 1.5-2% phantom
+## Scenario C: Kevin counters low — 1.5-2% phantom
 
 **What it sounds like:**
 - "I talked to my advisors and they think 2% is very generous for this role"
@@ -113,38 +88,20 @@ Walk through it:
 
 **Then pivot to solutions, not complaints:**
 - Option 1: Higher percentage phantom (3.5-4%)
-- Option 2: Lower percentage real equity (2.5-3% real equity nets more than 3.5% phantom)
-- Option 3: Tiered structure with performance kickers
+- Option 2: Tiered structure with performance kickers
 
 > *"I'm not trying to make this hard. I want to find the structure that works for both of us. What if we..."*
 
 ---
 
-## Scenario E: Kevin wants to restructure — not just comp
-
-**What it sounds like:**
-- "I've been thinking about the role differently"
-- "My advisors had some thoughts on scope"
-- "What if we started with a VP Ops title and moved to COO after 12 months"
-
-**What it means:** Someone (advisor, board member, PE contact) challenged whether a first-time COO should get the full title + comp on day one. Kevin may still want you but is managing external pressure.
-
-**Your move:** Separate title from comp. Title is negotiable; economics are not.
-
-> *"I'm open to discussing how we phase the title — that's a fair conversation. But I want to make sure the economics reflect the scope of what I'm actually doing from day one. If I'm running operations, building the team, and driving toward exit — that's COO work regardless of what's on the business card."*
-
-**Watch for the trap:** A "VP Ops" title at lower comp with a "path to COO" = you doing the same job for less money with no guarantee of the upgrade. If he goes here, the comp needs to be pegged to the full COO scope with a built-in step-up at the title change.
-
----
-
-## Scenario F: Kevin needs more time / isn't ready with numbers
+## Scenario D: Kevin needs more time / isn't ready with numbers
 
 **What it sounds like:**
 - "I wanted to update you on where my head is at"
 - "I'm still working through some things with my advisors"
 - "I have some thoughts but don't have final numbers yet"
 
-**What it means:** Not necessarily bad. Could mean he's restructuring the equity vehicle (Scenario C), bringing in a comp consultant, or working through board dynamics. The fact that he scheduled a call rather than texting means he has *something* to share.
+**What it means:** Not necessarily bad. Could mean he's bringing in a comp consultant, working through board dynamics, or structuring something creative. The fact that he scheduled a call rather than texting means he has *something* to share.
 
 **Your move:** Be patient but set a timeline.
 
@@ -154,7 +111,7 @@ Walk through it:
 
 ---
 
-## Scenario G: Kevin brings up other candidates / leverage
+## Scenario E: Kevin brings up other candidates / leverage
 
 **What it sounds like:**
 - "The other candidates were asking for less equity"

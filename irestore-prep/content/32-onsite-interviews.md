@@ -13,7 +13,7 @@ groupOrder: 5
 
 <div class="card">
   <div class="card-header">Background</div>
-  <p><strong>PhD (UPenn), MBA (UC San Diego)</strong>. Career: Kate Somerville → Beiersdorf (NIVEA) → Janssen (J&J pharma) → Wella (Technical Director, Product Development) → biotech startups → iRESTORE (~3 months in as of Mar 13).</p>
+  <p><strong>PhD (UPenn), MBA (UC San Diego)</strong>. Career: Kate Somerville → Beiersdorf (NIVEA) → Janssen (J&J pharma) → OUAI (Technical Director, Product Development) → biotech startups → iRESTORE (~3 months in as of Mar 13).</p>
   <p><strong>Why Kevin hired her:</strong> Deep regulatory + formulation expertise across cosmetics, medical products, and pharma. Native Chinese speaker — Kevin called this "life-changing" for Shenzhen factory communication. Replacing departing PM's responsibilities.</p>
   <p><strong>Her domain:</strong> Formulations, project management for device development. Kevin retains innovation/tech strategy ("beginning and end"), Longchuan executes the middle.</p>
 </div>
@@ -41,7 +41,7 @@ groupOrder: 5
 <h3>Conversation Starters</h3>
 <ul>
   <li>"You're managing a massive Q2 pipeline — skincare wand, body panels, belt — with a new manufacturer for panels. What's the biggest operational constraint you're hitting right now?"</li>
-  <li>"With your regulatory background at J&J and Wella, how are you thinking about MoCRA's impact on the supplement and topical lines?"</li>
+  <li>"With your regulatory background at J&J and OUAI, how are you thinking about MoCRA's impact on the supplement and topical lines?"</li>
   <li>"Kevin mentioned native Chinese communication with the Shenzhen factory has been transformative. How has that changed the product development cycle?"</li>
   <li>"What did the handoff look like from the departing PM? Anything still in flux that I should know about?"</li>
 </ul>

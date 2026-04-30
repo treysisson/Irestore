@@ -1289,7 +1289,7 @@ groupOrder: 3
 <tr><td>Amanda Schoep</td><td>Dir. of CX</td><td>Kevin (or Daniel?)</td><td style="color:red">BEING FIRED</td><td>25-person CX team, not implementing AI</td></tr>
 <tr><td>Brandon</td><td>Dir. of Ops</td><td>Kevin (direct)</td><td>Staying</td><td>Warehouse, fulfillment, shipping, day-to-day ops</td></tr>
 <tr><td>[Name TBD]</td><td>Product Manager (physical)</td><td>Kevin?</td><td style="color:red">DEPARTING</td><td>Physical product development/launches</td></tr>
-<tr><td>Longchuan Huang</td><td>Head of Product Dev</td><td>Kevin</td><td>Staying (new, ~3 months)</td><td>Product R&D, from Wella, PhD UPenn</td></tr>
+<tr><td>Longchuan Huang</td><td>Head of Product Dev</td><td>Kevin</td><td>Staying (new, ~3 months)</td><td>Product R&D, from OUAI, PhD UPenn</td></tr>
 <tr><td>Junior Reyes</td><td>VP Growth & Data</td><td>Kevin</td><td>Staying (remote, NYC)</td><td>Growth, analytics, tech-forward</td></tr>
 <tr><td>Fractional CFO</td><td>Finance</td><td>Kevin</td><td>Staying</td><td>Budgeting, financial reporting</td></tr>
 </table>

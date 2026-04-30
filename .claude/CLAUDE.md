@@ -4,13 +4,16 @@
 Trey Sisson, interviewing for COO/Integrator at iRESTORE (CEO: Kevin Chen). DTC beauty device company, ~$90M+ revenue, 80% YoY growth, targeting $500M exit in 2-4 years.
 
 ## Current Status
-**Advancing to onsite** — full-day office visit expected Mar 20-27, 2026. Includes team meetings, NDA, and live exercise with real business data. Two Zoom interviews completed (Feb 25, Mar 13).
+**Offer negotiation** — Offer received (1.5% phantom equity, $300K base). Counter-offer model finalized: asking 5.18% equity (~$4M net at $300M exit, 53.75% combined tax rate). Kevin-facing presentation tab built in counter_offer_v2.xlsx. Call with Kevin upcoming. See `Offer/` folder for all negotiation files.
 
 ## Reference Docs (read these for context)
 All in `.claude/docs/`:
 - **`architecture.md`** — Project structure, build system, directory layout, build commands
 - **`file-inventory.md`** — Complete list of all workspace files and content files
 - **`interview-intel.md`** — Key intel from both interviews, people, comp strategy, current status
+
+## Sub-projects
+- **`acquirers-tracker/`** — Dashboard tracking potential iRESTORE M&A acquirers (strategics, PE, etc.). Daily-refreshing leave-behind artifact for Kevin. Currently in brainstorming/spec phase. Read `acquirers-tracker/CLAUDE.md` and `acquirers-tracker/STATUS.md` before working on it. Eventually extracts to its own private repo.
 
 **Read the relevant doc before starting work.** For example, read `architecture.md` before any build tasks. Read `interview-intel.md` before any content/strategy work.
 

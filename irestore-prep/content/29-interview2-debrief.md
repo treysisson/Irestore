@@ -136,7 +136,7 @@ Kevin repeatedly tested whether you're someone he'd <em>want</em> to work alongs
 <li><strong>Daniel (Chief of Staff/HR)</strong>: Transitioning out first week of May. 8.5 years with business. Asked to be COO, Kevin declined. Amicable 60-90 day transition.</li>
 <li><strong>Director of CX</strong>: Being let go. Not implementing AI; 25-person team is bloated.</li>
 <li><strong>Product manager (physical products)</strong>: Also departing.</li>
-<li><strong>Longchuan (new hire)</strong>: From Wella (haircare), PhD. Owns formulations + project management for device development. Innovation/tech stays with Kevin.</li>
+<li><strong>Longchuan (new hire)</strong>: From OUAI (haircare), PhD. Owns formulations + project management for device development. Innovation/tech stays with Kevin.</li>
 </ul>
 
 <h3>📉 Return Rate Details</h3>

@@ -166,9 +166,9 @@ groupOrder: 2
       </div>
       <div class="card">
         <div class="card-header">Longchuan Huang, PhD – Head of Product Development (New – ~3 months)</div>
-        <p><strong><a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">LinkedIn</a></strong> | Previously Technical Director, Product Development at <strong>Wella</strong> (haircare/beauty). PhD from UPenn, MBA from UC San Diego. Career spans premium beauty and pharma: Kate Somerville Skincare, Beiersdorf (NIVEA), Janssen (J&J pharma division), plus biotech startups (Nucelis, Phenvogen). Deep regulatory + formulation expertise across cosmetics and medical products.</p>
+        <p><strong><a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">LinkedIn</a></strong> | Previously Technical Director, Product Development at <strong>OUAI</strong> (haircare/beauty). PhD from UPenn, MBA from UC San Diego. Career spans premium beauty and pharma: Kate Somerville Skincare, Beiersdorf (NIVEA), Janssen (J&J pharma division), plus biotech startups (Nucelis, Phenvogen). Deep regulatory + formulation expertise across cosmetics and medical products.</p>
         <p>Owns formulations and project management for device development. Kevin retains innovation and tech strategy — staying hands-on with the "beginning and end" (vision and breakthrough) while delegating execution in the middle. Native Chinese speaker, which has been "life-changing" for Kevin since it dramatically improves communication with the Shenzhen factory.</p>
-        <div class="tip"><strong>Interview edge:</strong> Knowing Longchuan's name and background signals deep research. Say: "I saw you brought on Longchuan from Wella to lead product development — that tells me you're serious about the skincare pipeline. Her regulatory background across cosmetics and pharma is exactly what you need for the MoCRA transition and the topicals expansion."</div>
+        <div class="tip"><strong>Interview edge:</strong> Knowing Longchuan's name and background signals deep research. Say: "I saw you brought on Longchuan from OUAI to lead product development — that tells me you're serious about the skincare pipeline. Her regulatory background across cosmetics and pharma is exactly what you need for the MoCRA transition and the topicals expansion."</div>
         <div class="tip"><strong>Onsite:</strong> You'll meet Longchuan <strong>in-person</strong>. As COO, product development execution would flow through you. Come ready to discuss how you'd support her work without stepping on Kevin's innovation role.</div>
       </div>
       <div class="card">
@@ -228,7 +228,7 @@ groupOrder: 2
       <h3>Product Development</h3>
       <table>
         <tr><th>Name</th><th>Title</th><th>Location</th><th>Notes</th></tr>
-        <tr><td><strong><a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">Longchuan Huang, PhD</a></strong></td><td>Head of Product Development</td><td>Los Angeles, CA</td><td>~3 months in. Previously Technical Director at Wella (haircare/beauty). PhD (UPenn), MBA (UCSD). Prior: Kate Somerville, Beiersdorf, Janssen (J&J). Owns formulations + project management for device development. Kevin retains innovation/tech strategy. Native Chinese speaker — key for Shenzhen factory communication.</td></tr>
+        <tr><td><strong><a href="https://www.linkedin.com/in/longchuan-huang/" target="_blank">Longchuan Huang, PhD</a></strong></td><td>Head of Product Development</td><td>Los Angeles, CA</td><td>~3 months in. Previously Technical Director at OUAI (haircare/beauty). PhD (UPenn), MBA (UCSD). Prior: Kate Somerville, Beiersdorf, Janssen (J&J). Owns formulations + project management for device development. Kevin retains innovation/tech strategy. Native Chinese speaker — key for Shenzhen factory communication.</td></tr>
       </table>
 
       <h3>Finance</h3>

@@ -2,3 +2,7 @@
 x_practice_tests/
 ~$*.xlsx
 ~$*.xls
+.superpowers/
+
+# acquirers-tracker is its own local repo; do not track from iRestore repo
+acquirers-tracker/

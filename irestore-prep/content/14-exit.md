@@ -122,22 +122,21 @@ groupOrder: 11
       </div>
 
       <div class="card">
-        <div class="card-header">Estée Lauder — "Prestige Builder, Science Credibility" &nbsp;<span style="color:#6a1b9a;font-weight:bold">Acquisitiveness: Selective — Post-Restructuring Rebuild</span></div>
+        <div class="card-header">Estée Lauder — "Luxury Fashion and Heritage Beauty" &nbsp;<span style="color:#6a1b9a;font-weight:bold">Acquisitiveness: Moderate — Focused on a Transformational Deal</span></div>
+        <p class="muted"><em>Source: Drew Fallon (<a href="https://x.com/drewfallon12/status/2041184263127609527">@drewfallon12</a>) via iris M&A intelligence. Revenue range: $250M+.</em></p>
         <table>
-          <tr><th width="30%">Acquisition Thesis</th><td>Builds portfolio through small niche acquisitions (Le Labo, Frédéric Malle, Tatcha) then scales via prestige retail and travel retail. Heavy clinical skincare focus. Post-pandemic pullback forced restructuring — sold Becca, reduced headcount, stock hit multi-year lows. Now more selective and disciplined. Tom Ford Brand ($2.8B) was largest-ever acquisition. Prestige skincare and fragrance are core.</td></tr>
-          <tr><th>Categories of Interest</th><td>Prestige/luxury skincare · Clinical beauty (The Ordinary) · Niche fragrance · Dermatology · Asia-facing brands</td></tr>
-          <tr><th>Target Profile</th><td>$100M–$500M revenue, specialty retail / Sephora / Nordstrom channel, science or clinical positioning, founder-driven brands with strong DTC data. Minority stakes as a precursor to full acquisitions (Dr. Jart+ model).</td></tr>
-          <tr><th>Revenue Threshold</th><td><strong>$100M+</strong> (niche fragrance exceptions at smaller scale)</td></tr>
+          <tr><th width="30%">Acquisition Thesis</th><td>A de-risking strategy utilizing phased minority-to-control entry. Focuses on high-heritage prestige assets to drive expansion in India and emerging markets. Aims to sustain premier status while navigating current financial headwinds.</td></tr>
+          <tr><th>Categories of Interest</th><td>Luxury beauty · Fashion beauty · Heritage skincare · Wellness-inspired prestige brands</td></tr>
+          <tr><th>Target Profile</th><td>Prefers minority-first, then full control. Targets high-heritage luxury assets with brand prestige. Expanding geographically into India and emerging markets. Facing financial headwinds but remains a premier luxury beauty acquirer.</td></tr>
+          <tr><th>Revenue Threshold</th><td><strong>$250M+</strong></td></tr>
         </table>
         <table style="margin-top:12px">
-          <tr><th>Target</th><th>Year</th><th>Deal Value</th><th>Revenue @ Acq</th><th>Multiple (rev or EBITDA noted per row)</th></tr>
-          <tr><td>Tom Ford Brand</td><td>2023</td><td>$2.8B</td><td>~$805M (brand total)</td><td>~3.5x rev</td></tr>
-          <tr><td>Deciem / The Ordinary</td><td>2021</td><td>~$2.2B TEV (76%)</td><td>~$460M</td><td>~4.8x rev</td></tr>
-          <tr><td>Dr. Jart+ (Have & Be)</td><td>2019</td><td>$1.1B (66%); $1.7B TEV</td><td>~$500M</td><td>~3.4x rev</td></tr>
-          <tr><td>Too Faced</td><td>2016</td><td>$1.45B</td><td>~$270M</td><td>5.4x rev</td></tr>
-          <tr><td>Le Labo</td><td>2014</td><td>~$60M (est)</td><td>~$20–30M</td><td>~2–3x rev</td></tr>
+          <tr><th>Target</th><th>Year</th><th>Deal Value</th><th>Category</th><th>Ownership at Exit</th></tr>
+          <tr><td>Deciem / The Ordinary</td><td>2017–2024</td><td>$2.2B</td><td>Personal Care</td><td>Founder</td></tr>
+          <tr><td>Tom Ford</td><td>2022</td><td>$2.8B</td><td>Apparel</td><td>Founder</td></tr>
+          <tr><td>Forest Essentials</td><td>2014</td><td>Undisclosed</td><td>Personal Care</td><td>Founder</td></tr>
         </table>
-        <div class="tip" style="margin-top:12px"><strong>iRESTORE fit:</strong> Moderate. ELC has historically avoided device categories and consumer electronics. The clinical skincare / dermatology angle (science-backed claims, FDA clearance) is a fit, but ELC looks for specialty retail and Sephora presence iRESTORE doesn't have yet. The Deciem deal shows they'll pay 4–5x for DTC-first science brands with defensible IP. Path: clinical brand buildout, Sephora partnership, $150M+ revenue.</div>
+        <div class="tip" style="margin-top:12px"><strong>iRESTORE fit:</strong> Moderate. ELC's updated profile shows a shift toward high-heritage prestige and emerging-market expansion — iRESTORE's clinical/device positioning is a category mismatch. However, the phased minority-to-control model (Deciem playbook) could work if iRESTORE builds prestige retail presence first. The $250M+ revenue threshold and luxury focus suggest ELC is now fishing for larger, more established brands. More likely as a late-stage acquirer post-$200M revenue with Sephora/prestige channel traction than a near-term buyer.</div>
       </div>
 
       <div class="card">

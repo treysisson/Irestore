@@ -1,12 +1,9 @@
 # Interview Intel & Status
 
-## Current Status (as of Mar 25, 2026)
-- **Stage:** Post-onsite, awaiting decision
-- **Onsite completed:** Mar 24, 2026 (full day + 2hr dinner)
-- **Follow-up email:** Sent Mar 25 (thank you + pitch)
-- **Competition:** 2 other candidates will do onsite — both traditional ops veterans (scaled companies $100M→$200M, vertical specialists)
-- **Trey's differentiator:** Generalist/founder profile, speed, cross-functional context (esp. e-commerce), heavy AI adoption (used AI during live exercise, Kevin noticed and appreciated)
-- **Trey's read:** Felt great about performance; outcome depends on whether Kevin wants a generalist/builder vs. industry veteran
+## Current Status (as of May 13, 2026)
+- **Stage:** Offer signed. Start date May 18, 2026.
+- **Final terms summary:** $350K base, 33%/66% tiered bonus, 5% phantom (500K PSUs at $13.30), 5-year graded vest, full single-trigger CIC acceleration. See `memory/project_interview_status.md` for full terms.
+- **Original onsite (Mar 24, 2026):** Full day + 2hr dinner. Two other finalists were traditional ops veterans. Trey's differentiator: generalist/founder profile, speed, cross-functional context, heavy AI adoption (Kevin noticed and appreciated). Trey was selected.
 
 ## Interview Timeline
 | Date | Event | Status |
@@ -14,8 +11,12 @@
 | Feb 25, 2026 | First Zoom with Kevin | ✅ Done |
 | Mar 13, 2026 | Second Zoom with Kevin (2 hrs) | ✅ Done |
 | Mar 24, 2026 | Full-day onsite + dinner | ✅ Done |
-| TBD | 2 other candidates do onsite | Pending |
-| TBD | Offer / negotiation | Pending |
+| Apr 8, 2026 | Initial offer received (1.5% phantom, $300K base) | ✅ Done |
+| Apr 16, 2026 | Counter-offer call with Kevin | ✅ Done |
+| May 1, 2026 | Negotiation call: aligned on key terms | ✅ Done |
+| May 8, 2026 | Vested phantom retention call | ✅ Done |
+| May 13, 2026 | Offer + Award Agreement signed | ✅ Done |
+| May 18, 2026 | Start date | Upcoming |
 
 ## Key Intel — Onsite (Mar 24)
 ### The Exercise

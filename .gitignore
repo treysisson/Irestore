@@ -6,3 +6,29 @@ x_practice_tests/
 
 # acquirers-tracker is its own local repo; do not track from iRestore repo
 acquirers-tracker/
+
+# === SENSITIVE — personal devices only, do not commit ===
+# Offer / negotiation / lawyer materials
+Offer/
+
+# Personal operating system (contains Kevin-strategic notes, listening tour, etc.)
+coo-dashboard/
+
+# Day-1 briefing + Kevin operating manual (mixes ops context with negotiation specifics)
+onboarding/
+
+# Negotiation prep transcripts
+2026_02_25_trey_kevin_interview_*.md
+2026_04_03_trey_bill_call_*.md
+thomas_smale_ma_transcript.md
+
+# Counter-offer / equity modeling files in root
+counter_offer_model.xlsx
+phantom_equity_scenarios.xlsx
+equity_comparison.xlsx
+
+# Interview prep scripts
+build_onsite_exercises.py
+
+# Top-level CLAUDE.md (placeholder; .claude/CLAUDE.md is the real one)
+/CLAUDE.md

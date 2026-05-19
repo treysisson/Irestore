@@ -1,7 +1,7 @@
 # iRESTORE COO Interview Prep — Claude Instructions
 
 ## Environment Limitations
-- Cannot open Typora or other local Mac apps directly. When user wants to open a file, provide the `open -a Typora <path>` command for them to run.
+- Opening files in Typora (or other Mac apps) works via Bash: `open -a Typora <path>`. Run it directly, don't ask Trey to run it.
 - Cannot access local project folders outside this repo or external GitHub repos not mounted. Ask user to paste relevant content instead of attempting to read.
 - Cannot access Granola directly; ask user to export and commit transcript files to the repo.
 
@@ -14,7 +14,7 @@
 Trey Sisson, interviewing for COO/Integrator at iRESTORE (CEO: Kevin Chen). DTC beauty device company, ~$90M+ revenue, 80% YoY growth, targeting $500M exit in 2-4 years.
 
 ## Current Status
-**Offer negotiation** — Offer received (1.5% phantom equity, $300K base). Counter-offer model finalized: asking 5.18% equity (~$4M net at $300M exit, 53.75% combined tax rate). Kevin-facing presentation tab built in counter_offer_v2.xlsx. Call with Kevin upcoming. See `Offer/` folder for all negotiation files.
+**Offer signed (May 13, 2026)** — Start date May 18, 2026. Final terms: $350K base, 33%/66% tiered bonus (EBITDA-based), 5% phantom equity (500K PSUs, $13.30 base), 5-year graded vesting, full single-trigger acceleration on CIC, narrow Cause definition with 15-day cure, 1-month-per-year severance capped at 6 months. Phase has shifted from negotiation to onboarding prep. Executed docs in `Offer/` folder (`Award_Agreement_FULLY_SIGNED.pdf`, `Offer_Letter_FULLY_SIGNED.pdf`).
 
 ## Reference Docs (read these for context)
 All in `.claude/docs/`:
@@ -24,6 +24,8 @@ All in `.claude/docs/`:
 
 ## Sub-projects
 - **`acquirers-tracker/`** — Dashboard tracking potential iRESTORE M&A acquirers (strategics, PE, etc.). Daily-refreshing leave-behind artifact for Kevin. Currently in brainstorming/spec phase. Read `acquirers-tracker/CLAUDE.md` and `acquirers-tracker/STATUS.md` before working on it. Eventually extracts to its own private repo.
+- **`team-wiki/`** — Internal-facing React/Vite web app hosting user manuals (how-to-work-with-me docs) plus Culture Index summaries for the iRESTORE team. Phase 1 built (Trey's manual, downloadable template, CI card, sticky nav). Read `team-wiki/CLAUDE.md` and `team-wiki/STATUS.md` before working on it.
+- **`coo-dashboard/`** — Trey's personal operating system for the first 12 months as COO. Day 1 = May 18, 2026. Local-only React/Vite/TS/Tailwind v4 app, runs at `npm run dev` on http://127.0.0.1:5173. Day counter, scorecard with countdowns, KPIs, todos, questions, people, calls, Kevin 1:1, decisions, wins, listening tour, weekly review, principles, reading, risks, sacred cows, asks/promises, stakeholders, daily journal, inbox (⌘K capture), search (⌘/), profits check (Bob Fifer book), customer voice digest, Granola action items, theme switcher (6 themes, default Notion clean). Read `coo-dashboard/CLAUDE.md` for the architecture, conventions, and the three Vite middlewares (json-store, notes, customer-voice).
 
 **Read the relevant doc before starting work.** For example, read `architecture.md` before any build tasks. Read `interview-intel.md` before any content/strategy work.
 
